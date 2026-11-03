@@ -1,0 +1,42 @@
+{
+  "forecast_date": "2026-11-02",
+  "scope": "Final entry: retain the 439 reviewed structural predictions, fill only the 31 previously blank contests. No refitting or hyperparameter search for this release.",
+  "objective": "Pick the most probable named winner under the final hybrid forecast; do not optimize against Kalshi.",
+  "outcome": "Eventual winner of the 2026 seat election, including any required runoff or ranked-choice count.",
+  "primary_rule": {
+    "description": "Among the current leading pair, use their most recent completed common election. Halve the observed two-person margin, allow a 15 percentage point standard deviation for change, and convert to a normal tail probability. This is a judgmental completion rule, not an estimated calibration.",
+    "margin_shrinkage": 0.5,
+    "margin_sd": 0.15,
+    "probability_cap": 0.95,
+    "alaska_other_winner_mass": 0.02,
+    "california_districts": [4, 6, 7, 11, 12, 14, 29, 34, 37, 40],
+    "ca14_use_august_special": true
+  },
+  "open_louisiana_rule": {
+    "description": "For LA-05 and LA-06, use a judgmental 90% Republican party-win prior based on the 2024 presidential lean on the current map. Allocate 9% to Democrats and 1% to other outcomes. Within each party, average equal candidate weights and weights proportional to square root of reported receipts plus USD 10,000. Include only candidates in the ballot registry. This is not a fitted candidate model or a simulation of runoff transfers.",
+    "republican_probability": 0.9,
+    "democratic_probability": 0.09,
+    "other_probability": 0.01,
+    "equal_weight": 0.5,
+    "receipt_offset_usd": 10000
+  },
+  "judgment_picks": [
+    {"race_id":"ID-SEN","candidate_name":"Jim Risch","party":"R","probability":0.90,"rule":"incumbent_partisan_favorite","reason":"Republican incumbent in a strongly Republican state, opposed by independent and Libertarian candidates. The 90% figure is a judgmental probability."},
+    {"race_id":"MT-SEN","candidate_name":"Kurt Alme","party":"R","probability":0.80,"rule":"open_partisan_favorite","reason":"Republican nominee in a Republican-leaning state, with both Democratic and independent opposition; less confidence than an incumbent favorite."},
+    {"race_id":"NE-SEN","candidate_name":"Pete Ricketts","party":"R","probability":0.65,"rule":"competitive_independent_opposition","reason":"Republican incumbent and Republican state lean favor Ricketts; Dan Osborn's established independent candidacy warrants a deliberately modest judgmental probability."},
+    {"race_id":"SD-SEN","candidate_name":"Mike Rounds","party":"R","probability":0.90,"rule":"incumbent_partisan_favorite","reason":"Republican incumbent in a strongly Republican state against independent Brian Bengs; probability is judgmental, not a D/R relabeling."},
+    {"race_id":"AZ-03","candidate_name":"Yassamin Ansari","party":"D","probability":0.95,"rule":"dominant_party_favorite","reason":"Democratic incumbent and strongly Democratic current-map presidential lean. Opponent-list disagreement remains recorded; the winner is present in both rosters."},
+    {"race_id":"FL-10","candidate_name":"Maxwell Alejandro Frost","party":"D","probability":0.99,"rule":"sole_listed_candidate","reason":"Only candidate in the saved ballot registry; reserve 1% for omitted write-in or other unmodeled outcomes rather than claim certainty."},
+    {"race_id":"LA-01","candidate_name":"Steve Scalise","party":"R","probability":0.90,"rule":"incumbent_multiperson_favorite","reason":"Republican incumbent in a Republican-leaning seat; reserve uncertainty for the full multiperson contest and any runoff."},
+    {"race_id":"LA-02","candidate_name":"Troy A. Carter Sr.","party":"D","probability":0.90,"rule":"incumbent_multiperson_favorite","reason":"Democratic incumbent in a Democratic-leaning seat; reserve uncertainty for the full multiperson contest and any runoff."},
+    {"race_id":"LA-03","candidate_name":"\"Clay\" Higgins","party":"R","probability":0.90,"rule":"incumbent_multiperson_favorite","reason":"Republican incumbent in a Republican-leaning seat; multiple candidates from both parties are retained in the ballot evidence."},
+    {"race_id":"LA-04","candidate_name":"\"Mike\" Johnson","party":"R","probability":0.90,"rule":"incumbent_multiperson_favorite","reason":"Republican incumbent in a Republican-leaning seat; this is an eventual-seat-winner judgment, not a probability of avoiding a runoff."},
+    {"race_id":"MA-01","candidate_name":"Richard E. Neal","party":"D","probability":0.95,"rule":"dominant_party_favorite","reason":"Long-serving Democratic incumbent against independent opposition in a Democratic-leaning seat."},
+    {"race_id":"MA-02","candidate_name":"James P. McGovern","party":"D","probability":0.99,"rule":"sole_listed_candidate","reason":"Only candidate in the saved ballot registry; 1% residual uncertainty retained."},
+    {"race_id":"MA-05","candidate_name":"Katherine M. Clark","party":"D","probability":0.99,"rule":"sole_listed_candidate","reason":"Only candidate in the saved ballot registry; 1% residual uncertainty retained."},
+    {"race_id":"MA-07","candidate_name":"Ayanna S. Pressley","party":"D","probability":0.99,"rule":"sole_listed_candidate","reason":"Only candidate in the saved ballot registry; 1% residual uncertainty retained."},
+    {"race_id":"NJ-08","candidate_name":"Rob Menendez","party":"D","probability":0.95,"rule":"dominant_party_favorite","reason":"Democratic incumbent in a strongly Democratic seat, with independent and other-party opposition."},
+    {"race_id":"PA-03","candidate_name":"Christopher M Rabb","party":"D","probability":0.95,"rule":"dominant_party_favorite","reason":"Democratic nominee in a strongly Democratic seat against independent opposition; do not infer an incumbent advantage."},
+    {"race_id":"WI-02","candidate_name":"Mark Pocan","party":"D","probability":0.99,"rule":"sole_listed_candidate","reason":"Only candidate in the saved ballot registry; 1% residual uncertainty retained."}
+  ]
+}

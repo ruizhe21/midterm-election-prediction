@@ -1,0 +1,111 @@
+{
+  "chambers": {
+    "house": [
+      {
+        "name": "house_full_nom",
+        "columns": [
+          "lagged_pres_vote",
+          "lagged_house_vote",
+          "lagged_sen_vote",
+          "lagged_gov_vote",
+          "inc",
+          "open_seat",
+          "president_D",
+          "map_changed",
+          "inc_president_alignment",
+          "president_lean",
+          "history_count",
+          "own_lag_1",
+          "overperformance_lag_1",
+          "own_lag_2",
+          "overperformance_lag_2",
+          "own_lag_3",
+          "overperformance_lag_3",
+          "ewm_vote_4",
+          "ewm_overperformance_4",
+          "ewm_vote_8",
+          "ewm_overperformance_8",
+          "ewm_vote_16",
+          "ewm_overperformance_16",
+          "candidate_D_past",
+          "candidate_D_n",
+          "candidate_R_past",
+          "candidate_R_n",
+          "previous_national_residual_2",
+          "previous_national_residual_4",
+          "previous_national_residual_6"
+        ],
+        "layers": [
+          32,
+          16
+        ],
+        "alpha": 100,
+        "weight": 1.0
+      }
+    ],
+    "senate": [
+      {
+        "name": "senate_compact",
+        "columns": [
+          "lagged_pres_vote",
+          "lagged_house_vote",
+          "lagged_sen_vote",
+          "lagged_gov_vote",
+          "inc",
+          "open_seat",
+          "midterm_signed",
+          "president_D",
+          "midterm"
+        ],
+        "layers": [
+          16,
+          8
+        ],
+        "alpha": 30,
+        "weight": 0.5
+      },
+      {
+        "name": "senate_compact_nom",
+        "columns": [
+          "lagged_pres_vote",
+          "lagged_house_vote",
+          "lagged_sen_vote",
+          "lagged_gov_vote",
+          "inc",
+          "open_seat",
+          "president_D"
+        ],
+        "layers": [
+          16,
+          8
+        ],
+        "alpha": 30,
+        "weight": 0.5
+      }
+    ]
+  },
+  "train_years": [
+    2002,
+    2024
+  ],
+  "window_years": 24,
+  "activation": "tanh",
+  "solver": "lbfgs",
+  "seed": 184,
+  "target": "logit(D two-party vote share) minus logit(lagged presidential D two-party share)",
+  "imputation": "training median plus missing indicators; standardize after imputation",
+  "calibration": "past chronological OOF residuals; last six cycles, equal cycle weight; marginal logit-Student-t df 5",
+  "data_branch": "V9 corroborated corrections and NC-9 quarantine; original model architecture unchanged",
+  "score_objective": "Most probable named winner under the final hybrid forecast; no Kalshi optimization.",
+  "forecast_status": "Frozen structural component of the final entry; 31 completion rules are specified separately.",
+  "as_of": "2026-11-02 retrieval; not a November 1 data snapshot",
+  "historical_validation": "retrospective development, not untouched test",
+  "selected_features_exclude": [
+    "polls",
+    "fundraising",
+    "economic indices",
+    "sentiment",
+    "expert ratings",
+    "Kalshi"
+  ]
+}

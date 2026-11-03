@@ -1,0 +1,1295 @@
+state,office,district,candidate,party,incumbent,fec_candidate_id,total_receipts_usd,cash_on_hand_usd,fec_report_through,bioguide_id,race_url
+AK,house,00,Eric Hafner,D,no,H4AK00164,0,0,,,https://deepsyte.app/races/AK/00
+AK,house,00,"James C. ""Jim"" McDermott",L,no,H2AK00143,,,,,https://deepsyte.app/races/AK/00
+AK,house,00,Nicholas J. Begich,R,yes,H2AK01083,6438903.51,1782866.69,2026-10-14,B001323,https://deepsyte.app/races/AK/00
+AK,house,00,Bill Hill,I,no,H6AK01092,2630792.87,117732.32,2026-10-14,,https://deepsyte.app/races/AK/00
+AK,senate,,Gerald L. Heikes,R,no,S8AK00140,,,,,https://deepsyte.app/races/AK/senate
+AK,senate,,Dan Sullivan,R,yes,S4AK00214,11508274.16,2839757.54,2026-10-14,S001198,https://deepsyte.app/races/AK/senate
+AK,senate,,Daniel J. Jr. Sullivan,R,no,S6AK00326,30555.62,1901.51,2026-10-14,,https://deepsyte.app/races/AK/senate
+AK,senate,,Mary Peltola,D,no,S6AK00276,36887509.15,4102125.93,2026-10-14,,https://deepsyte.app/races/AK/senate
+AL,house,01,Jerry Carl,R,no,H0AL01055,1452253.91,168086.3,2026-10-14,,https://deepsyte.app/races/AL/01
+AL,house,01,Clyde Jones,D,no,H6AL01094,198017.74,6025.87,2026-10-14,,https://deepsyte.app/races/AL/01
+AL,house,02,Shomari Figures,D,yes,H4AL02170,2706098.03,1197689.31,2026-10-14,F000481,https://deepsyte.app/races/AL/02
+AL,house,02,Rhett Marques,R,no,H6AL01086,1716373.63,178056.95,2026-10-14,,https://deepsyte.app/races/AL/02
+AL,house,03,Mike D. Rogers,R,yes,H2AL03032,2521576.37,2707643.7,2026-10-14,R000575,https://deepsyte.app/races/AL/03
+AL,house,03,Lee McInnis,D,no,H6AL03199,62981.54,41130.49,2026-10-14,,https://deepsyte.app/races/AL/03
+AL,house,04,Robert B. Aderholt,R,yes,H6AL04098,1238586.19,719711.9,2026-10-14,A000055,https://deepsyte.app/races/AL/04
+AL,house,04,Amanda N. Pusczek,D,no,H6AL05228,22283.07,2371.34,2026-10-14,,https://deepsyte.app/races/AL/04
+AL,house,05,Dale W. Strong,R,yes,H2AL05102,1775618.3,1054171.91,2026-10-14,S001220,https://deepsyte.app/races/AL/05
+AL,house,05,Andrew Sneed,D,no,H6AL05244,917289.53,247806.94,2026-10-14,,https://deepsyte.app/races/AL/05
+AL,house,06,Gary J. Palmer,R,yes,H4AL06098,1154752.83,74382.23,2026-10-14,P000609,https://deepsyte.app/races/AL/06
+AL,house,06,Maurice Mercer,D,no,H6AL06184,34751.45,14186.89,2026-10-14,,https://deepsyte.app/races/AL/06
+AL,house,07,Ammie Akin,R,no,H6AL07208,270462.09,33973.18,2026-10-14,,https://deepsyte.app/races/AL/07
+AL,house,07,Terri A. Sewell,D,yes,H0AL07086,2260893.78,3351033.95,2026-10-14,S001185,https://deepsyte.app/races/AL/07
+AL,senate,,Barry Moore,R,no,S6AL00476,4635925.74,467199.29,2026-10-14,,https://deepsyte.app/races/AL/senate
+AL,senate,,Everett Wess,D,no,S6AL00518,128570.16,10542.79,2026-10-14,,https://deepsyte.app/races/AL/senate
+AR,house,01,"Eric A. ""Rick"" Crawford",R,yes,H0AR01083,1135655.28,853000.58,2026-10-14,C001087,https://deepsyte.app/races/AR/01
+AR,house,01,Steve G. Parsons,L,no,H4AR01085,,,,,https://deepsyte.app/races/AR/01
+AR,house,01,Terri Yarbrough Green,D,no,H6AR01155,124313.99,8996.17,2026-10-14,,https://deepsyte.app/races/AR/01
+AR,house,02,Chris Jones,D,no,H6AR02286,1959018.06,274178.71,2026-10-14,,https://deepsyte.app/races/AR/02
+AR,house,02,J. French Hill,R,yes,H4AR02141,5264024.47,1488431.2,2026-10-14,H001072,https://deepsyte.app/races/AR/02
+AR,house,03,Steve Womack,R,yes,H0AR03055,2363074.02,2410732.19,2026-10-14,W000809,https://deepsyte.app/races/AR/03
+AR,house,03,Bobby Wilson,L,no,H4AR03081,,,,,https://deepsyte.app/races/AR/03
+AR,house,03,Robb Ryerse,D,no,H6AR03128,160833.51,14699.55,2026-10-14,,https://deepsyte.app/races/AR/03
+AR,house,04,"James ""Rus"" Russell, III",D,no,H6AR04084,21553.8,4545.6,2026-10-14,,https://deepsyte.app/races/AR/04
+AR,house,04,Bruce Westerman,R,yes,H4AR04048,2975232.54,4501822.51,2026-10-14,W000821,https://deepsyte.app/races/AR/04
+AR,senate,,Jeff Wadlin,L,no,S6AR00223,80063,6291.43,2026-10-14,,https://deepsyte.app/races/AR/senate
+AR,senate,,Tom Cotton,R,yes,S4AR00103,7149643.47,5129927.81,2026-10-14,C001095,https://deepsyte.app/races/AR/senate
+AR,senate,,Hallie Shoffner,D,no,S6AR00199,4042810.83,756931.7,2026-10-14,,https://deepsyte.app/races/AR/senate
+AS,house,00,Fualaau Rosie Tago Lancaster,NONPARTISAN,no,H8AS00052,,,,,https://deepsyte.app/races/AS/00
+AS,house,00,Tuifagaloa Dr. Afu Lefaoseu,NONPARTISAN,no,,,,,,https://deepsyte.app/races/AS/00
+AS,house,00,Aumua Amata Coleman Radewagen,R,yes,H4AS00036,60716.44,4346.03,2026-10-14,R000600,https://deepsyte.app/races/AS/00
+AS,house,00,Samana Semo Veavea,NONPARTISAN,no,,,,,,https://deepsyte.app/races/AS/00
+AS,house,00,Sandra King Young,D,no,H6AS01021,,,,,https://deepsyte.app/races/AS/00
+AS,house,00,Meleagi Suitonu Chapman,NONPARTISAN,no,,,,,,https://deepsyte.app/races/AS/00
+AZ,house,01,Amish Shah,D,no,H4AZ01194,5654453.93,206045.34,2026-10-14,,https://deepsyte.app/races/AZ/01
+AZ,house,01,Monica Alponte,L,no,H6AZ01488,9453.39,754.22,2026-10-14,,https://deepsyte.app/races/AZ/01
+AZ,house,01,"Thomas ""Jay"" Feely IV",R,no,H6AZ05190,3799654.13,182764.32,2026-10-14,,https://deepsyte.app/races/AZ/01
+AZ,house,02,Elijah Crane,R,yes,H2AZ01354,11904946.44,1349062.98,2026-10-14,C001132,https://deepsyte.app/races/AZ/02
+AZ,house,02,Curtis Goodwin,L,no,,,,,,https://deepsyte.app/races/AZ/02
+AZ,house,02,Jonathan Nez,D,no,H4AZ02184,5805340.75,506072,2026-10-14,,https://deepsyte.app/races/AZ/02
+AZ,house,03,Alan Aversa,I,no,H4AZ03174,774.33,256.28,2026-10-14,,https://deepsyte.app/races/AZ/03
+AZ,house,03,Yassamin Ansari,D,yes,H4AZ03109,1697729.13,410624.03,2026-10-14,A000381,https://deepsyte.app/races/AZ/03
+AZ,house,03,David Redkey,G,no,H6AZ01322,0,0,2026-10-14,,https://deepsyte.app/races/AZ/03
+AZ,house,04,Tisha Benoit,ARIZONA INDEPENDENT PARTY,no,,,,,,https://deepsyte.app/races/AZ/04
+AZ,house,04,Zuhdi Jasser,R,no,H4AZ04115,744304.25,89556,2026-10-14,,https://deepsyte.app/races/AZ/04
+AZ,house,04,Greg Stanton,D,yes,H8AZ09040,2674366.81,1918706.62,2026-10-14,S001211,https://deepsyte.app/races/AZ/04
+AZ,house,05,Mark Lamb,R,no,H6AZ05265,1771670.69,180750.56,2026-10-14,,https://deepsyte.app/races/AZ/05
+AZ,house,05,Elizabeth Lee,D,no,H6AZ05240,375628.14,124136.06,2026-10-14,,https://deepsyte.app/races/AZ/05
+AZ,house,06,JoAnna Mendoza,D,no,H6AZ06099,11242473.21,807899.24,2026-10-14,,https://deepsyte.app/races/AZ/06
+AZ,house,06,Gary Swing,G,no,H6AZ06164,,,,,https://deepsyte.app/races/AZ/06
+AZ,house,06,Juan Ciscomani,R,yes,H2AZ02360,7649793.85,618698.75,2026-10-14,C001133,https://deepsyte.app/races/AZ/06
+AZ,house,06,Jereme Lance Peters,L,no,H6AZ06214,10500,0,2026-03-31,,https://deepsyte.app/races/AZ/06
+AZ,house,07,Adelita S. Grijalva,D,yes,H6AZ07121,2559577.1,437547.14,2026-10-14,G000606,https://deepsyte.app/races/AZ/07
+AZ,house,07,Daniel Francis Butierez Sr.,R,no,H4AZ07134,233882.4,11286.67,2026-10-14,,https://deepsyte.app/races/AZ/07
+AZ,house,08,Bernadette Greene-Placentia,D,no,H4AZ08082,372825.77,152740.36,2026-10-14,,https://deepsyte.app/races/AZ/08
+AZ,house,08,Abraham J. Hamadeh,R,yes,H4AZ08108,1434538.03,186540.96,2026-10-14,H001098,https://deepsyte.app/races/AZ/08
+AZ,house,09,Paul A. Gosar,R,yes,H0AZ01259,813541.57,250385.4,2026-10-14,G000565,https://deepsyte.app/races/AZ/09
+AZ,house,09,"Danielle ""Dani"" Sterbinsky",D,no,H6AZ09085,461874.78,33625.81,2026-10-14,,https://deepsyte.app/races/AZ/09
+CA,house,01,Mike McGuire,D,no,H6CA01269,2266830.12,153646.5,2026-10-14,,https://deepsyte.app/races/CA/01
+CA,house,01,James Gallagher,R,no,H6CA01285,1995260.11,327729.23,2026-10-14,,https://deepsyte.app/races/CA/01
+CA,house,02,Jared Huffman,D,yes,H2CA06259,1205633.57,1151201.29,2026-10-14,H001068,https://deepsyte.app/races/CA/02
+CA,house,02,Robin Littau,R,no,H6CA02309,0,0,,,https://deepsyte.app/races/CA/02
+CA,house,03,Robb Tucker,R,no,H6CA03174,304654.01,16451.46,2026-10-14,,https://deepsyte.app/races/CA/03
+CA,house,03,Ami Bera,D,yes,H0CA03078,1492834.21,1651288.78,2026-10-14,B001287,https://deepsyte.app/races/CA/03
+CA,house,04,Mike Thompson,D,yes,H8CA01109,5482944.34,1401439.52,2026-10-14,T000460,https://deepsyte.app/races/CA/04
+CA,house,04,Eric Jones,D,no,H6CA04222,18058057.13,1541078.69,2026-10-14,,https://deepsyte.app/races/CA/04
+CA,house,05,Michael Masuda,D,no,H6CA05377,581621.44,59665.79,2026-10-14,,https://deepsyte.app/races/CA/05
+CA,house,05,Tom McClintock,R,yes,H8CA04152,1254441.78,314100.38,2026-10-14,M001177,https://deepsyte.app/races/CA/05
+CA,house,06,Richard Pan,D,no,H6CA03158,2548242.27,207936.2,2026-10-14,,https://deepsyte.app/races/CA/06
+CA,house,06,Kevin Kiley,I,yes,H2CA03157,3723214.51,34648,2026-10-14,K000401,https://deepsyte.app/races/CA/06
+CA,house,07,Mai Vang,D,no,H6CA07175,1828417.71,388763.28,2026-10-14,,https://deepsyte.app/races/CA/07
+CA,house,07,Doris O. Matsui,D,yes,H6CA05195,7837818.8,1995780.29,2026-10-14,M001163,https://deepsyte.app/races/CA/07
+CA,house,08,John Garamendi,D,yes,H0CA10149,582745.6,1231642.66,2026-10-14,G000559,https://deepsyte.app/races/CA/08
+CA,house,08,Rudy Recile,R,no,H2CA00153,20073,235.29,2026-09-30,,https://deepsyte.app/races/CA/08
+CA,house,09,John McBride,R,no,H4CA09101,77472.65,4547.04,2026-10-14,,https://deepsyte.app/races/CA/09
+CA,house,09,Josh Harder,D,yes,H8CA10126,4490401.33,4782692.06,2026-10-14,H001090,https://deepsyte.app/races/CA/09
+CA,house,10,Jeff Frese,R,no,H6CA10187,0,0,,,https://deepsyte.app/races/CA/10
+CA,house,10,Mark DeSaulnier,D,yes,H0CA10073,721776.27,467219.62,2026-10-14,D000623,https://deepsyte.app/races/CA/10
+CA,house,11,Connie Chan,D,no,H6CA11268,2404664.18,581804.91,2026-10-14,,https://deepsyte.app/races/CA/11
+CA,house,11,Scott Wiener,D,no,H8CA11116,5808855.03,611039.24,2026-10-14,,https://deepsyte.app/races/CA/11
+CA,house,12,Jamie Joyce,D,no,H6CA12209,69669.05,5258.28,2026-10-14,,https://deepsyte.app/races/CA/12
+CA,house,12,Lateefah Simon,D,yes,H4CA12154,1703905.82,725756.55,2026-10-14,S001231,https://deepsyte.app/races/CA/12
+CA,house,13,Kevin Lincoln,R,no,H4CA09093,2971922.26,448388.44,2026-10-14,,https://deepsyte.app/races/CA/13
+CA,house,13,Adam Gray,D,yes,H2CA13115,5241028.11,848632.63,2026-10-14,G000605,https://deepsyte.app/races/CA/13
+CA,house,14,Aisha Wahab,D,no,H0CA15213,1214546.85,462322.33,2026-10-14,,https://deepsyte.app/races/CA/14
+CA,house,14,Melissa Hernandez,D,no,H6CA14163,2112673.52,108358.09,2026-10-14,,https://deepsyte.app/races/CA/14
+CA,house,15,Charles Hoelter,R,no,H6CA15194,0,0,,,https://deepsyte.app/races/CA/15
+CA,house,15,Kevin Mullin,D,yes,H2CA14162,981645.13,191601.11,2026-10-14,M001225,https://deepsyte.app/races/CA/15
+CA,house,16,Sam T. Liccardo,D,yes,H4CA16197,3873149.95,2259659.3,2026-10-14,L000607,https://deepsyte.app/races/CA/16
+CA,house,16,Peter Sundin Soulé,R,no,H6CA16176,4272,4125.22,2026-10-14,,https://deepsyte.app/races/CA/16
+CA,house,17,Ritesh Tandon,R,no,H0CA17193,57011.48,5227.22,2026-10-14,,https://deepsyte.app/races/CA/17
+CA,house,17,Ro Khanna,D,yes,H4CA12055,15320812.81,16578402.31,2026-10-14,K000389,https://deepsyte.app/races/CA/17
+CA,house,18,Zoe Lofgren,D,yes,H4CA16049,1983394.32,602360.54,2026-10-14,L000397,https://deepsyte.app/races/CA/18
+CA,house,18,Shane Lewis,R,no,H6CA18172,115468.87,4416.73,2026-10-14,,https://deepsyte.app/races/CA/18
+CA,house,19,Jimmy Panetta,D,yes,H6CA20152,3622736.66,5467202.48,2026-10-14,P000613,https://deepsyte.app/races/CA/19
+CA,house,19,Peter Coe Verbica,R,no,H6CA19154,85541.19,6821.14,2026-10-14,,https://deepsyte.app/races/CA/19
+CA,house,20,Vince Fong,R,yes,H4CA20181,2407333.59,667339.4,2026-10-14,F000480,https://deepsyte.app/races/CA/20
+CA,house,20,Sandra Van Scotter,D,no,H6CA20228,47739.09,-1680.31,2026-10-14,,https://deepsyte.app/races/CA/20
+CA,house,21,Kyle Kirkland,R,no,H6CA13199,464700.09,13100.74,2026-10-14,,https://deepsyte.app/races/CA/21
+CA,house,21,Jim Costa,D,yes,H4CA20082,1685248.73,500767.13,2026-10-14,C001059,https://deepsyte.app/races/CA/21
+CA,house,22,Randy Villegas,D,no,H6CA22190,5942030.17,962351.77,2026-10-14,,https://deepsyte.app/races/CA/22
+CA,house,22,David G. Valadao,R,yes,H2CA20094,6325324.07,1711651.27,2026-10-14,V000129,https://deepsyte.app/races/CA/22
+CA,house,23,Tessa Lynn Hodge,D,no,H6CA23230,126771.66,12434.33,2026-10-14,,https://deepsyte.app/races/CA/23
+CA,house,23,Jay Obernolte,R,yes,H0CA08135,1854658.18,1378568.34,2026-10-14,O000019,https://deepsyte.app/races/CA/23
+CA,house,24,Salud O. Carbajal,D,yes,H6CA24303,1917271.26,3343462.75,2026-10-14,C001112,https://deepsyte.app/races/CA/24
+CA,house,24,Bob Smith,R,no,H6CA24345,346742.15,57207.89,2026-10-14,,https://deepsyte.app/races/CA/24
+CA,house,25,Raul Ruiz,D,yes,H2CA36439,2455630.94,2466904.6,2026-10-14,R000599,https://deepsyte.app/races/CA/25
+CA,house,25,Joe Males,R,no,H6CA25219,1114056.44,57994.7,2026-10-14,,https://deepsyte.app/races/CA/25
+CA,house,26,Jacqui Irwin,D,no,H6CA26266,1170990.11,457811.33,2026-10-14,,https://deepsyte.app/races/CA/26
+CA,house,26,Sam Gallucci,R,no,H6CA26241,537530.39,18881.21,2026-10-14,,https://deepsyte.app/races/CA/26
+CA,house,27,George Whitesides,D,yes,H4CA27111,4512697.32,2173658.08,2026-10-14,W000830,https://deepsyte.app/races/CA/27
+CA,house,27,Jason Gibbs,R,no,H6CA27306,413837.88,60498.54,2026-10-14,,https://deepsyte.app/races/CA/27
+CA,house,28,April A. Verlato,R,no,H4CA28127,700,655.19,2026-10-14,,https://deepsyte.app/races/CA/28
+CA,house,28,Judy Chu,D,yes,H0CA32101,1375778.13,3680652.82,2026-10-14,C001080,https://deepsyte.app/races/CA/28
+CA,house,29,Angélica María Dueñas,D,no,H8CA29100,97450.42,16145.36,2026-10-14,,https://deepsyte.app/races/CA/29
+CA,house,29,Luz M. Rivas,D,yes,H4CA29141,1032475.21,296150.2,2026-10-14,R000620,https://deepsyte.app/races/CA/29
+CA,house,30,Laura Friedman,D,yes,H4CA30149,994570.57,520548.06,2026-10-14,F000483,https://deepsyte.app/races/CA/30
+CA,house,30,Scott Alan Meyers,R,no,H6CA30250,122819.35,5241.6,2026-10-14,,https://deepsyte.app/races/CA/30
+CA,house,31,Gil Cisneros,D,no,H8CA39174,853124.16,212818.2,2026-10-14,,https://deepsyte.app/races/CA/31
+CA,house,31,Eric Ching,R,no,H2CA39151,97169.8,10375.02,2026-10-14,,https://deepsyte.app/races/CA/31
+CA,house,32,Brad Sherman,D,yes,H6CA24113,2899860.15,2673243.15,2026-10-14,S000344,https://deepsyte.app/races/CA/32
+CA,house,32,Larry Thompson,R,no,H4CA32137,66331.34,7145.89,2026-10-14,,https://deepsyte.app/races/CA/32
+CA,house,33,Pete Aguilar,D,yes,H2CA31125,5676010.87,2673714.42,2026-10-14,A000371,https://deepsyte.app/races/CA/33
+CA,house,33,Stephanie M. Vargas,R,no,H6CA33114,720.51,520.51,2026-10-14,,https://deepsyte.app/races/CA/33
+CA,house,34,Angela Gonzales-Torres,D,no,H6CA34286,509751.75,104818.32,2026-10-14,,https://deepsyte.app/races/CA/34
+CA,house,34,Jimmy Gomez,D,yes,H8CA34266,1336235.14,628394.77,2026-10-14,G000585,https://deepsyte.app/races/CA/34
+CA,house,35,Mike Cargile,R,no,H0CA35146,9799,447.81,2026-10-14,,https://deepsyte.app/races/CA/35
+CA,house,35,Norma J. Torres,D,yes,H4CA35031,922924.14,244896.64,2026-10-14,T000474,https://deepsyte.app/races/CA/35
+CA,house,36,Ted Lieu,D,yes,H4CA33119,2218447.53,1181424.01,2026-10-14,L000582,https://deepsyte.app/races/CA/36
+CA,house,36,Houston Brignano,R,no,H6CA36208,7020.37,1219.09,2026-10-14,,https://deepsyte.app/races/CA/36
+CA,house,37,Sydney Kamlager-Dove,D,yes,H2CA37304,1644249.01,184759.92,2026-10-14,K000400,https://deepsyte.app/races/CA/37
+CA,house,37,Samantha Mota,D,no,H6CA37339,12578.93,328.29,2026-10-14,,https://deepsyte.app/races/CA/37
+CA,house,38,Pedro Antonio Casas,R,no,H4CA31212,0,0,,,https://deepsyte.app/races/CA/38
+CA,house,38,Hilda Solis,D,no,H6CA38139,1482148.13,284506.89,2026-10-14,,https://deepsyte.app/races/CA/38
+CA,house,39,Mark Takano,D,yes,H2CA43245,1133983.78,231215.39,2026-10-14,T000472,https://deepsyte.app/races/CA/39
+CA,house,39,Steve Manos,R,no,H6CA39145,11929,3987.5,2026-10-14,,https://deepsyte.app/races/CA/39
+CA,house,40,Ken Calvert,R,yes,H2CA37023,7050383.48,980390.51,2026-10-14,C000059,https://deepsyte.app/races/CA/40
+CA,house,40,Young Kim,R,yes,H8CA39240,10148196.21,910972.96,2026-10-14,K000397,https://deepsyte.app/races/CA/40
+CA,house,41,Linda T. Sánchez,D,yes,H2CA39078,1898187.85,420799.23,2026-10-14,S001156,https://deepsyte.app/races/CA/41
+CA,house,41,Mitch Clemmons,R,no,H6CA41380,6154,3073.48,2026-10-14,,https://deepsyte.app/races/CA/41
+CA,house,42,Robert Garcia,D,yes,H2CA47188,3394174.67,1572979.62,2026-10-14,G000598,https://deepsyte.app/races/CA/42
+CA,house,42,Brian Burley,R,no,H0CA48172,251136.54,1939.28,2026-10-14,,https://deepsyte.app/races/CA/42
+CA,house,43,Cristian Morales,R,no,H6CA43188,14995,538.74,2026-10-14,,https://deepsyte.app/races/CA/43
+CA,house,43,Maxine Waters,D,yes,H4CA23011,1107267.34,104671.36,2026-10-14,W000187,https://deepsyte.app/races/CA/43
+CA,house,44,Nanette Diaz Barragán,D,yes,H6CA44103,1021920.79,1083798.24,2026-10-14,B001300,https://deepsyte.app/races/CA/44
+CA,house,44,Genevieve Angel,R,no,H6CA44210,21826.25,10944.02,2026-10-14,,https://deepsyte.app/races/CA/44
+CA,house,45,Chuong V. Vo,R,no,H6CA45191,937468.52,175455.65,2026-10-14,,https://deepsyte.app/races/CA/45
+CA,house,45,Derek Tran,D,yes,H4CA45170,5988192.12,2682392.26,2026-10-14,T000491,https://deepsyte.app/races/CA/45
+CA,house,46,David Pan,R,no,H4CA46137,104144.51,1856.37,2026-10-14,,https://deepsyte.app/races/CA/46
+CA,house,46,J. Luis Correa,D,yes,H6CA46116,1493328.69,2323395.15,2026-10-14,C001110,https://deepsyte.app/races/CA/46
+CA,house,47,Jenny Rae Le Roux,R,no,H6CA47114,592041.22,135774.48,2026-10-14,,https://deepsyte.app/races/CA/47
+CA,house,47,Dave Min,D,yes,H4CA47085,3872174.88,1482645.9,2026-10-14,M001241,https://deepsyte.app/races/CA/47
+CA,house,48,Jim Desmond,R,no,H6CA49128,3177972.16,717518.45,2026-10-14,,https://deepsyte.app/races/CA/48
+CA,house,48,Marni von Wilpert,D,no,H6CA48310,4966576.06,659136.04,2026-10-14,,https://deepsyte.app/races/CA/48
+CA,house,49,Mike Levin,D,yes,H8CA49058,3564690.1,1360778.23,2026-10-14,L000593,https://deepsyte.app/races/CA/49
+CA,house,49,Armen Kurdian,R,no,H6CA49169,189195.87,30426.87,2026-10-14,,https://deepsyte.app/races/CA/49
+CA,house,50,Scott H. Peters,D,yes,H2CA52089,2191968.34,2567655.53,2026-10-14,P000608,https://deepsyte.app/races/CA/50
+CA,house,50,Steve Cohen,R,no,H6CA50324,4092,2031.61,2026-10-14,,https://deepsyte.app/races/CA/50
+CA,house,51,Sara Jacobs,D,yes,H8CA49074,1864955.14,317430.4,2026-10-14,J000305,https://deepsyte.app/races/CA/51
+CA,house,51,Ricardo Cabrera,R,no,H6CA51140,0,0,,,https://deepsyte.app/races/CA/51
+CA,house,52,Juan Vargas,D,yes,H2CA50026,836097.06,317661.81,2026-10-14,V000130,https://deepsyte.app/races/CA/52
+CA,house,52,Jeff Belle,R,no,H6CA52163,26538.06,81.71,2026-10-14,,https://deepsyte.app/races/CA/52
+CO,house,01,Chad Humphrey,L,no,,,,,,https://deepsyte.app/races/CO/01
+CO,house,01,Christy Peterson,R,no,H6CO01331,9446.32,7392.92,2026-10-14,,https://deepsyte.app/races/CO/01
+CO,house,01,Shimon Blau,UNAFFILIATED,no,H6CO01356,204360.6,59760.12,2026-10-14,,https://deepsyte.app/races/CO/01
+CO,house,01,Melat Kiros,D,no,H6CO01273,1308527.59,75724.4,2026-10-14,,https://deepsyte.app/races/CO/01
+CO,house,01,Critter Milton,OTHER,no,H0CO03173,0,0,,,https://deepsyte.app/races/CO/01
+CO,house,02,Kelley Anne Dennison,R,no,H6CO02206,12348.37,1087.21,2026-10-14,,https://deepsyte.app/races/CO/02
+CO,house,02,Joe Neguse,D,yes,H8CO02160,3342640.14,3239137.7,2026-10-14,N000191,https://deepsyte.app/races/CO/02
+CO,house,02,Gaylon Kent,L,no,H2CO03153,,,,,https://deepsyte.app/races/CO/02
+CO,house,03,Clifton Brown,UNAFFILIATED,no,,,,,,https://deepsyte.app/races/CO/03
+CO,house,03,Cory Robertson,L,no,,,,,,https://deepsyte.app/races/CO/03
+CO,house,03,Dwayne L. Romero,D,no,H6CO03253,1701091.41,196124.17,2026-10-14,,https://deepsyte.app/races/CO/03
+CO,house,03,Jeff Hurd,R,yes,H4CO03357,4168636.04,237767.58,2026-10-14,H001100,https://deepsyte.app/races/CO/03
+CO,house,04,Douglas Mangeris,L,no,H4CO04215,0,0,,,https://deepsyte.app/races/CO/04
+CO,house,04,Eileen Laubacher,D,no,H6CO04202,13700426.19,1846288.39,2026-10-14,,https://deepsyte.app/races/CO/04
+CO,house,04,Lauren Boebert,R,yes,H0CO03165,1226252.92,274161.88,2026-10-14,B000825,https://deepsyte.app/races/CO/04
+CO,house,05,Jeff Crank,R,yes,H6CO05142,2872434.39,542836,2026-10-14,C001137,https://deepsyte.app/races/CO/05
+CO,house,05,Christopher Mitchell,C,no,H4CO05071,210,201.27,2026-10-14,,https://deepsyte.app/races/CO/05
+CO,house,05,"Mark ""Marky Jr"" Elworth",L,no,H4CO03340,0,0,,,https://deepsyte.app/races/CO/05
+CO,house,05,Jessica Killin,D,no,H6CO05324,5593463.21,507728.23,2026-10-14,,https://deepsyte.app/races/CO/05
+CO,house,06,Meredith Ryan,UNITY PARTY,no,,,,,,https://deepsyte.app/races/CO/06
+CO,house,06,Jason Clark,R,no,H6CO06165,,,,,https://deepsyte.app/races/CO/06
+CO,house,06,Jason Crow,D,yes,H8CO06229,4008282.35,2940182.68,2026-10-14,C001121,https://deepsyte.app/races/CO/06
+CO,house,06,Samir Ezzeldin Witta,UNAFFILIATED,no,H6CO06116,103438.45,-47148.76,2026-10-14,,https://deepsyte.app/races/CO/06
+CO,house,06,Patty McMahon,L,no,H6CO06173,6027.35,566.23,2026-09-30,,https://deepsyte.app/races/CO/06
+CO,house,07,Joe Krzeczkowski,I,no,H6CO07130,3530.92,916.48,2026-10-14,,https://deepsyte.app/races/CO/07
+CO,house,07,Brittany Pettersen,D,yes,H8CO07045,2260248.55,1196445.37,2026-10-14,P000620,https://deepsyte.app/races/CO/07
+CO,house,07,Tim Bennett,R,no,H6CO07122,109339.34,4615.16,2026-10-14,,https://deepsyte.app/races/CO/07
+CO,house,07,Lawrence Kyle Clark,C,no,,,,,,https://deepsyte.app/races/CO/07
+CO,house,07,"Dan ""Kilo"" Sallis",L,no,,,,,,https://deepsyte.app/races/CO/07
+CO,house,07,Susan Hall,UNITY PARTY,no,,,,,,https://deepsyte.app/races/CO/07
+CO,house,08,Manny Rutinel,D,no,H6CO08013,9459070.43,1002642.35,2026-10-14,,https://deepsyte.app/races/CO/08
+CO,house,08,Dave Wood,L,no,,,,,,https://deepsyte.app/races/CO/08
+CO,house,08,Gabe Evans,R,yes,H4CO08034,7248105.93,1328189.23,2026-10-14,E000300,https://deepsyte.app/races/CO/08
+CO,senate,,Blake Huber,L,no,,,,,,https://deepsyte.app/races/CO/senate
+CO,senate,,Bob Chew,OTHER,no,S6CO00556,3603854.49,235007.35,2026-10-14,,https://deepsyte.app/races/CO/senate
+CO,senate,,John W. Hickenlooper,D,yes,S0CO00575,9529276.87,1558827.9,2026-10-14,H000273,https://deepsyte.app/races/CO/senate
+CO,senate,,Christopher Baum,APPROVAL VOTING PARTY,no,,,,,,https://deepsyte.app/races/CO/senate
+CO,senate,,Adam Withrow,UNITED PARTY,no,S6CO00564,,,,,https://deepsyte.app/races/CO/senate
+CO,senate,,Mark Baisley,R,no,S6CO00507,138210.47,27709.93,2026-10-14,,https://deepsyte.app/races/CO/senate
+CT,house,01,Luke Bronin,D,no,H6CT01206,3865511.27,390818.29,2026-10-14,,https://deepsyte.app/races/CT/01
+CT,house,01,Mary L. Sanders,G,no,H2CT01239,0,0,,,https://deepsyte.app/races/CT/01
+CT,house,01,Amy Chai,R,no,H2CT03102,21972.16,690,2026-10-14,,https://deepsyte.app/races/CT/01
+CT,house,02,Joe Courtney,D,yes,H2CT02112,966513.57,385577.84,2026-10-14,C001069,https://deepsyte.app/races/CT/02
+CT,house,02,George Patrick Austin,R,no,H6CT02196,314977.26,96712.08,2026-10-14,,https://deepsyte.app/races/CT/02
+CT,house,03,Rosa L. DeLauro,D,yes,H0CT03072,1622998.67,83415.12,2026-10-14,D000216,https://deepsyte.app/races/CT/03
+CT,house,03,Thomas Egan,INDEPENDENT PARTY,no,,,,,,https://deepsyte.app/races/CT/03
+CT,house,03,Christopher Lancia,R,no,H6CT03178,17485.75,67.54,2026-10-14,,https://deepsyte.app/races/CT/03
+CT,house,04,James A. Himes,D,yes,H8CT04172,1704622.29,2419413.69,2026-10-14,H001047,https://deepsyte.app/races/CT/04
+CT,house,04,Benjamin Wesley,I,no,H4CT04197,155,1740.98,2026-09-30,,https://deepsyte.app/races/CT/04
+CT,house,04,Michael Ted Goldstein,R,no,H6CT04143,59216.32,26664.73,2026-10-14,,https://deepsyte.app/races/CT/04
+CT,house,05,Jahana Hayes,D,yes,H8CT05245,1716462.12,1136297.07,2026-10-14,H001081,https://deepsyte.app/races/CT/05
+CT,house,05,Chris Shea,R,no,H6CT05231,465963.04,53768.43,2026-10-14,,https://deepsyte.app/races/CT/05
+DC,house,00,Denise Rosado,R,no,H6DC01111,6188.02,5057.41,2026-05-27,,https://deepsyte.app/races/DC/00
+DC,house,00,Kymone Freeman,OTHER,no,H4DC00100,,,,,https://deepsyte.app/races/DC/00
+DC,house,00,Robert White,D,no,H6DC01079,1040273.88,95341.81,2026-10-14,,https://deepsyte.app/races/DC/00
+DE,house,00,Sarah McBride,D,yes,H4DE00045,5556755.49,2326039.16,2026-10-14,M001238,https://deepsyte.app/races/DE/00
+DE,house,00,"Joseph ""Dr. Joe"" Arminio",R,no,H6DE01121,12301.76,6943.76,2026-09-30,,https://deepsyte.app/races/DE/00
+DE,senate,,"Michael ""Dr. Mike"" Katz",R,no,S6DE00206,190416.12,16084.59,2026-10-14,,https://deepsyte.app/races/DE/senate
+DE,senate,,Christopher A. Coons,D,yes,S0DE00092,4956015.33,5031711.21,2026-10-14,C001088,https://deepsyte.app/races/DE/senate
+FL,house,01,Tyler L. Davis,NO PARTY AFFILIATION,no,H6FL01549,,,,,https://deepsyte.app/races/FL/01
+FL,house,01,Jimmy Patronis,R,no,H6FL01390,4467312.53,939474.31,2026-10-14,,https://deepsyte.app/races/FL/01
+FL,house,01,Gay Valimont,D,no,H4FL01197,295713.87,34722.83,2026-10-14,,https://deepsyte.app/races/FL/01
+FL,house,02,Austin Rogers,R,no,H6FL02331,1359851.76,98295.26,2026-10-14,,https://deepsyte.app/races/FL/02
+FL,house,02,Amanda Marie Green,D,no,H6FL02299,658316.41,28138.56,2026-10-14,,https://deepsyte.app/races/FL/02
+FL,house,03,Seth Harp,D,no,H6FL03099,172434.58,44145.32,2026-10-14,,https://deepsyte.app/races/FL/03
+FL,house,03,Kat Cammack,R,yes,H0FL03175,2437580.31,962289.35,2026-10-14,C001039,https://deepsyte.app/races/FL/03
+FL,house,03,Mike Klein,NO PARTY AFFILIATION,no,H6FL03149,120556.13,12411.78,2026-10-14,,https://deepsyte.app/races/FL/03
+FL,house,04,"LaShonda ""L.J."" Holloway",D,no,H6FL05193,58546.29,44105.44,2026-10-14,,https://deepsyte.app/races/FL/04
+FL,house,04,Mike Sell,OTHER,no,H6FL04246,24206,4857,2026-10-14,,https://deepsyte.app/races/FL/04
+FL,house,04,Todd Schaefer,NO PARTY AFFILIATION,no,H4FL04068,0,0,,,https://deepsyte.app/races/FL/04
+FL,house,04,Aaron Bean,R,yes,H2FL04211,2682266.58,577963.71,2026-10-14,B001314,https://deepsyte.app/races/FL/04
+FL,house,05,John H. Rutherford,R,yes,H6FL04105,913650.12,240063.46,2026-10-14,R000609,https://deepsyte.app/races/FL/05
+FL,house,05,Rachel Grage,D,no,H6FL05250,448142.58,65881.07,2026-10-14,,https://deepsyte.app/races/FL/05
+FL,house,06,Andrew Parrott,L,no,,,,,,https://deepsyte.app/races/FL/06
+FL,house,06,Randy Fine,R,no,H6FL06258,4645044.9,184588.47,2026-10-14,,https://deepsyte.app/races/FL/06
+FL,house,06,Eric Yonce,D,no,H6FL06340,619304.84,96905.4,2026-10-14,,https://deepsyte.app/races/FL/06
+FL,house,07,Bale Dalton,D,no,H6FL07215,2334663.82,202253.89,2026-10-14,,https://deepsyte.app/races/FL/07
+FL,house,07,Ryan Elijah,R,no,H6FL07231,818460.2,173006.12,2026-10-14,,https://deepsyte.app/races/FL/07
+FL,house,07,Christopher Dennison,L,no,H6FL07249,10500,60,2026-06-30,,https://deepsyte.app/races/FL/07
+FL,house,08,Jennifer Jenkins,D,no,H6FL06399,960174.42,152722.05,2026-10-14,,https://deepsyte.app/races/FL/08
+FL,house,08,Mike Haridopolos,R,yes,H4FL08168,2049237.21,482350.21,2026-10-14,H001099,https://deepsyte.app/races/FL/08
+FL,house,09,Dan Green,R,no,H6FL09294,2692713.23,449959.75,2026-10-14,,https://deepsyte.app/races/FL/09
+FL,house,09,Darren Soto,D,yes,H6FL09179,3652279.81,249994.67,2026-10-14,S001200,https://deepsyte.app/races/FL/09
+FL,house,10,Maxwell Frost,D,yes,H2FL10259,3835169.08,1055862.43,2026-10-14,F000476,https://deepsyte.app/races/FL/10
+FL,house,11,Joe Strada,R,no,H6FL11332,5512075.39,860067.7,2026-10-14,,https://deepsyte.app/races/FL/11
+FL,house,11,James Pericola,D,no,H6FL11357,225867.92,35195.65,2026-10-14,,https://deepsyte.app/races/FL/11
+FL,house,11,Ralph Groves,L,no,H4FL11089,0,0,,,https://deepsyte.app/races/FL/11
+FL,house,12,Branden Scrivener,NO PARTY AFFILIATION,no,H6FL12231,8195.29,27.53,2026-10-14,,https://deepsyte.app/races/FL/12
+FL,house,12,Gus M. Bilirakis,R,yes,H6FL09070,2255341.81,254246.07,2026-10-14,B001257,https://deepsyte.app/races/FL/12
+FL,house,12,Kimberly Overman,D,no,H6FL15200,280117.97,29526.49,2026-10-14,,https://deepsyte.app/races/FL/12
+FL,house,13,Tony D'Arrigo,I,no,H4FL13234,28180.9,25680.9,2026-06-30,,https://deepsyte.app/races/FL/13
+FL,house,13,Leela Gray,D,no,H6FL13312,2917664.89,656422.77,2026-10-14,,https://deepsyte.app/races/FL/13
+FL,house,13,Anna Paulina Luna,R,yes,H0FL13158,4351791.83,746955.17,2026-10-14,L000596,https://deepsyte.app/races/FL/13
+FL,house,14,Kathy Castor,D,yes,H6FL11126,4930537.26,577435.34,2026-10-14,C001066,https://deepsyte.app/races/FL/14
+FL,house,14,Brian Lambert,L,no,H6FL14245,17091.52,2476.68,2026-10-14,,https://deepsyte.app/races/FL/14
+FL,house,14,Mike Beltran,R,no,H6FL14237,2731427.99,1731517.72,2026-10-14,,https://deepsyte.app/races/FL/14
+FL,house,15,Laurel M. Lee,R,yes,H2FL15241,2711189.14,1320456.25,2026-10-14,L000597,https://deepsyte.app/races/FL/15
+FL,house,15,Robert People,D,no,H6FL15168,82518.46,26624.85,2026-10-14,,https://deepsyte.app/races/FL/15
+FL,house,16,Kelly Kirschner,D,no,H6FL16158,876363.29,261139.07,2026-10-14,,https://deepsyte.app/races/FL/16
+FL,house,16,Mark Davis,NO PARTY AFFILIATION,no,H6FL06365,66969.03,1699.42,2026-10-14,,https://deepsyte.app/races/FL/16
+FL,house,16,Sydney Gruters,R,no,H6FL16141,1618888.17,252497.06,2026-10-14,,https://deepsyte.app/races/FL/16
+FL,house,17,Michael J. Quirk,NO PARTY AFFILIATION,no,H6FL17081,32487.55,3140.66,2026-10-14,,https://deepsyte.app/races/FL/17
+FL,house,17,W. Gregory Steube,R,yes,H8FL17053,1587826.76,2132055.34,2026-10-14,S001214,https://deepsyte.app/races/FL/17
+FL,house,17,Matthew Montavon,D,no,H4FL17060,156274.33,25122.84,2026-10-14,,https://deepsyte.app/races/FL/17
+FL,house,18,Scott Franklin,R,yes,H0FL15104,1026403.99,883230.77,2026-10-14,F000472,https://deepsyte.app/races/FL/18
+FL,house,18,Curtis Gibson,D,no,H6FL18212,13784.9,1576.67,2026-09-30,,https://deepsyte.app/races/FL/18
+FL,house,18,Deva Simmons,NO PARTY AFFILIATION,no,H6FL18204,29703.8,-1516.29,2026-10-14,,https://deepsyte.app/races/FL/18
+FL,house,19,Seth Haskin,NO PARTY AFFILIATION,no,H6FL19327,,,,,https://deepsyte.app/races/FL/19
+FL,house,19,Jim Schwartzel,R,no,H6FL19137,2828902.86,506211.41,2026-10-14,,https://deepsyte.app/races/FL/19
+FL,house,19,Victor Arias,D,no,H6FL19277,69983.08,15417.15,2026-10-14,,https://deepsyte.app/races/FL/19
+FL,house,20,Debbie Wasserman Schultz,D,yes,H4FL20023,3707925.05,784570.39,2026-10-14,W000797,https://deepsyte.app/races/FL/20
+FL,house,20,Brent Andersen,R,no,H6FL20143,100349.66,16554.73,2026-10-14,,https://deepsyte.app/races/FL/20
+FL,house,20,Kedner Maxime,I,no,H6FL20119,126572.76,59351.21,2026-10-14,,https://deepsyte.app/races/FL/20
+FL,house,21,James T. Martin,D,no,H6FL21075,821778.76,50898.38,2026-10-14,,https://deepsyte.app/races/FL/21
+FL,house,21,Alexander Cooke,NO PARTY AFFILIATION,no,H6FL21109,30244.18,1384.32,2026-10-14,,https://deepsyte.app/races/FL/21
+FL,house,21,Brian J. Mast,R,yes,H6FL18097,5097731.89,2378762.79,2026-10-14,M001199,https://deepsyte.app/races/FL/21
+FL,house,22,Pia Dandiya,D,no,H6FL21059,4619822.46,735105.23,2026-10-14,,https://deepsyte.app/races/FL/22
+FL,house,22,Casey Askar,R,no,H6FL22248,7418254.75,1891161.94,2026-10-14,,https://deepsyte.app/races/FL/22
+FL,house,23,Deborah Adeimy,R,no,H2FL21132,201144.96,32789.85,2026-10-14,,https://deepsyte.app/races/FL/23
+FL,house,23,Lois Frankel,D,yes,H2FL14053,2631967.91,564089.62,2026-10-14,F000462,https://deepsyte.app/races/FL/23
+FL,house,24,Te Mayonna Brown,R,no,H6FL14203,313459.03,169275.68,2026-10-14,,https://deepsyte.app/races/FL/24
+FL,house,24,Oliver G. Gilbert III,D,no,H6FL24095,1458355.31,427294.55,2026-10-14,,https://deepsyte.app/races/FL/24
+FL,house,25,Peter Jassenoff,L,no,H6FL25068,10500,60,2026-06-30,,https://deepsyte.app/races/FL/25
+FL,house,25,Jared Moskowitz,D,yes,H2FL22171,5710776.47,1210073.13,2026-10-14,M001217,https://deepsyte.app/races/FL/25
+FL,house,25,Scott Singer,R,no,H6FL23188,3255312.89,466624.52,2026-10-14,,https://deepsyte.app/races/FL/25
+FL,house,26,Deborah Ann Meidinger Hosey,NO PARTY AFFILIATION,no,H6FL26074,10780.11,2375.4,2026-09-30,,https://deepsyte.app/races/FL/26
+FL,house,26,Mario Diaz-Balart,R,yes,H2FL25018,2763195.61,1676212.67,2026-10-14,D000600,https://deepsyte.app/races/FL/26
+FL,house,26,Nicole Locklin,D,no,H6FL26058,599526.7,109989.78,2026-10-14,,https://deepsyte.app/races/FL/26
+FL,house,27,Maria Elvira Salazar,R,yes,H8FL27185,2519401.34,1680478.41,2026-10-14,S000168,https://deepsyte.app/races/FL/27
+FL,house,27,Eliott Rodriguez,D,no,H6FL27098,1567392.71,621791.08,2026-10-14,,https://deepsyte.app/races/FL/27
+FL,house,28,Eddy Rojas,I,no,H6FL28021,0,0,,,https://deepsyte.app/races/FL/28
+FL,house,28,Carlos A. Gimenez,R,yes,H0FL26036,722290.55,540783.2,2026-10-14,G000593,https://deepsyte.app/races/FL/28
+FL,house,28,"Phil ""Felipe"" Ehr",D,no,H4FL28042,508311.39,506962.57,2026-09-30,,https://deepsyte.app/races/FL/28
+FL,senate,,Angie Nixon,D,no,S6FL00830,11319380.4,3266794.77,2026-10-14,,https://deepsyte.app/races/FL/senate
+FL,senate,,Neil J. Gillespie,NO PARTY AFFILIATION,no,S6FL00863,13283.81,633.57,2026-10-14,,https://deepsyte.app/races/FL/senate
+FL,senate,,Ashley Moody,R,yes,S6FL00640,14524031.96,816355.11,2026-10-14,M001244,https://deepsyte.app/races/FL/senate
+GA,house,01,"James ""Jim"" Kingston",R,no,H6GA01109,2357233.34,269955.36,2026-10-14,,https://deepsyte.app/races/GA/01
+GA,house,01,Amanda Hollowell,D,no,H6GA01158,264753.46,50136.67,2026-10-14,,https://deepsyte.app/races/GA/01
+GA,house,02,Sanford D. Bishop,D,yes,H2GA02031,1362149.48,431525.13,2026-10-14,B000490,https://deepsyte.app/races/GA/02
+GA,house,02,Matt Day,R,no,H6GA01182,217631.83,0,2026-10-14,,https://deepsyte.app/races/GA/02
+GA,house,03,Maura Keller,D,no,H4GA03100,246621.17,93521.92,2026-10-14,,https://deepsyte.app/races/GA/03
+GA,house,03,Brian Jack,R,yes,H4GA03126,2431348.05,1105820.24,2026-10-14,J000311,https://deepsyte.app/races/GA/03
+GA,house,04,"Henry C. ""Hank"" Johnson",D,yes,H6GA04129,514399.21,125434.86,2026-10-14,J000288,https://deepsyte.app/races/GA/04
+GA,house,04,Jim Duffie,R,no,H6GA04194,0,0,,,https://deepsyte.app/races/GA/04
+GA,house,05,Nikema Williams,D,yes,H0GA05301,772833.35,63107.32,2026-10-14,W000788,https://deepsyte.app/races/GA/05
+GA,house,05,"John ""BONGO"" Salvesen",R,no,H4GA05063,,,,,https://deepsyte.app/races/GA/05
+GA,house,06,Kevin E. Martin,R,no,H6GA06181,10320,100,2026-03-31,,https://deepsyte.app/races/GA/06
+GA,house,06,Lucy McBath,D,yes,H8GA06393,1189989.22,682335.67,2026-10-14,M001208,https://deepsyte.app/races/GA/06
+GA,house,07,Tony Kozycki,D,no,H6GA07221,922117.45,492431.78,2026-10-14,,https://deepsyte.app/races/GA/07
+GA,house,07,Richard McCormick,R,yes,H0GA07273,2250502.72,1335872.39,2026-10-14,M001218,https://deepsyte.app/races/GA/07
+GA,house,08,Austin Scott,R,yes,H0GA08099,1416650.98,1316055.88,2026-10-14,S001189,https://deepsyte.app/races/GA/08
+GA,house,08,Kelly Esti,D,no,H6GA08138,27962.9,3709.27,2026-09-30,,https://deepsyte.app/races/GA/08
+GA,house,09,Caitlyn Gegen,D,no,H6GA09284,101338.84,21136.79,2026-10-14,,https://deepsyte.app/races/GA/09
+GA,house,09,Andrew S. Clyde,R,yes,H0GA09246,738198.43,161468.58,2026-10-14,C001116,https://deepsyte.app/races/GA/09
+GA,house,10,Houston Gaines,R,no,H6GA10175,2816583.39,1062078.81,2026-10-14,,https://deepsyte.app/races/GA/10
+GA,house,10,"Pamela ""Pam"" Delancy",D,no,H6GA10183,78669.71,24291.66,2026-10-14,,https://deepsyte.app/races/GA/10
+GA,house,11,John Cowan,R,no,H0GA14048,2824605.89,145818.15,2026-10-14,,https://deepsyte.app/races/GA/11
+GA,house,11,Chris Harden,D,no,H6GA11116,139282.64,8708.93,2026-10-14,,https://deepsyte.app/races/GA/11
+GA,house,12,Ceretta Smith,D,no,H6GA12080,47692.67,12318.39,2026-10-14,,https://deepsyte.app/races/GA/12
+GA,house,12,Rick W. Allen,R,yes,H2GA12121,1265488.08,1464864.66,2026-10-14,A000372,https://deepsyte.app/races/GA/12
+GA,house,13,Jonathan Chavez,R,no,H2GA04201,,,,,https://deepsyte.app/races/GA/13
+GA,house,13,Jasmine Clark,D,no,H6GA13070,2386955.4,343732.06,2026-10-14,,https://deepsyte.app/races/GA/13
+GA,house,14,Shawn Harris,D,no,H4GA14057,8418045.03,59312.51,2026-10-14,,https://deepsyte.app/races/GA/14
+GA,house,14,Clay Fuller,R,yes,H0GA14030,2160464.05,204313.96,2026-10-14,F000485,https://deepsyte.app/races/GA/14
+GA,senate,,Mike Collins,R,no,S6GA00390,10679277.11,1103681.9,2026-10-14,,https://deepsyte.app/races/GA/senate
+GA,senate,,Jon Ossoff,D,yes,S8GA00180,115904485.77,15134335.92,2026-10-14,O000174,https://deepsyte.app/races/GA/senate
+GU,house,00,James C. Moylan,R,yes,H2GU01031,249126.79,61034.63,2026-10-14,M001219,https://deepsyte.app/races/GU/00
+GU,house,00,Alicia Anne Garrido LIMTIACO,D,no,H6GU01032,49831.03,39730.32,2026-10-14,,https://deepsyte.app/races/GU/00
+HI,house,01,Nathan M. BERNING,NON-PARTY,no,H6HI01386,,,,,https://deepsyte.app/races/HI/01
+HI,house,01,Jordan S. CONLEY,G,no,H6HI01394,0,0,,,https://deepsyte.app/races/HI/01
+HI,house,01,Ed Case,D,yes,H2HI02128,1339008.35,449674.45,2026-10-14,C001055,https://deepsyte.app/races/HI/01
+HI,house,01,Adriel C. LAM,R,no,H6HI01360,0,0,,,https://deepsyte.app/races/HI/01
+HI,house,02,Jill N. Tokuda,D,yes,H2HI02581,985930.33,486974.66,2026-10-14,T000487,https://deepsyte.app/races/HI/02
+HI,house,02,Brenton AWA,R,no,H6HI02426,131062.69,9142.64,2026-10-14,,https://deepsyte.app/races/HI/02
+IA,house,01,Christina Bohannan,D,no,H2IA02111,9905570.29,2110846.44,2026-10-14,,https://deepsyte.app/races/IA/01
+IA,house,01,Mariannette Miller-Meeks,R,yes,H8IA02043,9101897.68,1700717.48,2026-10-14,M001215,https://deepsyte.app/races/IA/01
+IA,house,01,Michael Bridgford,I,no,H6IA01213,338285.03,76729.96,2026-10-14,,https://deepsyte.app/races/IA/01
+IA,house,02,Joe Mitchell,R,no,H6IA02237,2916068.98,545533.67,2026-10-14,,https://deepsyte.app/races/IA/02
+IA,house,02,Lindsay James,D,no,H6IA02211,3917994.43,265953.27,2026-10-14,,https://deepsyte.app/races/IA/02
+IA,house,02,Rick Stewart,L,no,,,,,,https://deepsyte.app/races/IA/02
+IA,house,02,Dave Bushaw,I,no,H6IA02260,38292.01,11317.89,2026-10-14,,https://deepsyte.app/races/IA/02
+IA,house,03,Sarah Trone Garriott,D,no,H6IA03268,8070401.51,1153589.5,2026-10-14,,https://deepsyte.app/races/IA/03
+IA,house,03,Zachary Nunn,R,yes,H2IA03119,6123740.03,620758.9,2026-10-14,N000193,https://deepsyte.app/races/IA/03
+IA,house,04,Chris McGowan,R,no,H6IA04167,862815.88,443915.09,2026-10-14,,https://deepsyte.app/races/IA/04
+IA,house,04,Dave Dawson,D,no,H6IA04217,259240.69,41976.25,2026-10-14,,https://deepsyte.app/races/IA/04
+IA,senate,,Ashley Hinson,R,no,S6IA00314,14147972.57,2172988.59,2026-10-14,,https://deepsyte.app/races/IA/senate
+IA,senate,,Josh Turek,D,no,S6IA00298,24290521.1,3072851,2026-10-14,,https://deepsyte.app/races/IA/senate
+IA,senate,,Thomas Laehn,L,no,S6IA00181,61145.58,9035.08,2026-10-14,,https://deepsyte.app/races/IA/senate
+ID,house,01,Russ Fulcher,R,yes,H8ID01124,848383.86,209944.01,2026-10-14,F000469,https://deepsyte.app/races/ID/01
+ID,house,01,Kaylee Peterson,D,no,H2ID01192,279403.54,24344.68,2026-10-14,,https://deepsyte.app/races/ID/01
+ID,house,01,Brendan J. Gomez,C,no,H4ID01149,0,0,2026-03-31,,https://deepsyte.app/races/ID/01
+ID,house,01,Sarah Zabel,I,no,H6ID01318,272259.88,62333.38,2026-10-14,,https://deepsyte.app/races/ID/01
+ID,house,02,Ellie Gilbreath,D,no,H6ID02274,169226.46,36716.27,2026-10-14,,https://deepsyte.app/races/ID/02
+ID,house,02,Michael K. Simpson,R,yes,H8ID02064,1409211.99,300591.21,2026-10-14,S001148,https://deepsyte.app/races/ID/02
+ID,house,02,Emre Houser,I,no,H6ID02282,0,0,,,https://deepsyte.app/races/ID/02
+ID,house,02,Tripp Charles Hutchinson,I,no,H6ID02241,7565,6963.48,2026-06-30,,https://deepsyte.app/races/ID/02
+ID,house,02,Will Johanson,L,no,H6ID02290,0,0,,,https://deepsyte.app/races/ID/02
+ID,senate,,Todd Achilles,I,no,S6ID00146,1921131.94,195818.55,2026-10-14,,https://deepsyte.app/races/ID/senate
+ID,senate,,Natalie M Fleming,UNAFFILIATED,no,S0ID00172,,,,,https://deepsyte.app/races/ID/senate
+ID,senate,,James E. Risch,R,yes,S8ID00092,3935512.15,2122234.76,2026-10-14,R000584,https://deepsyte.app/races/ID/senate
+ID,senate,,Matt Loesby,L,no,S6ID00187,,,,,https://deepsyte.app/races/ID/senate
+IL,house,01,Christian Maxwell,R,no,H6IL01191,94709.38,62200.44,2026-10-14,,https://deepsyte.app/races/IL/01
+IL,house,01,Jonathan L. Jackson,D,yes,H2IL01349,539051.41,40069.83,2026-10-14,J000309,https://deepsyte.app/races/IL/01
+IL,house,02,Donna Miller,D,no,H6IL02355,2700312.85,92406.74,2026-10-14,,https://deepsyte.app/races/IL/02
+IL,house,02,Michael Scott Noack,R,no,H6IL02389,,,,,https://deepsyte.app/races/IL/02
+IL,house,03,Delia C. Ramirez,D,yes,H2IL03162,1626337.17,913892.2,2026-10-14,R000617,https://deepsyte.app/races/IL/03
+IL,house,03,Angel Oakley,R,no,H6IL03163,18442.93,4060.72,2026-10-14,,https://deepsyte.app/races/IL/03
+IL,house,04,Chris Getty,I,no,H6IL04195,412837.66,103170.35,2026-10-14,,https://deepsyte.app/races/IL/04
+IL,house,04,Patty Garcia,D,no,H6IL04153,526691.49,156711.17,2026-10-14,,https://deepsyte.app/races/IL/04
+IL,house,04,Ed Hershey,OTHER,no,H2IL04178,0,0,,,https://deepsyte.app/races/IL/04
+IL,house,04,Lupe Castillo,R,no,H4IL04117,,,,,https://deepsyte.app/races/IL/04
+IL,house,05,Tommy Hanson,R,no,H8IL05073,0,0,,,https://deepsyte.app/races/IL/05
+IL,house,05,Mike Quigley,D,yes,H0IL05096,998074.45,1102663.88,2026-10-14,Q000023,https://deepsyte.app/races/IL/05
+IL,house,06,Sean Casten,D,yes,H8IL06139,2516549.09,1022382.81,2026-10-14,C001117,https://deepsyte.app/races/IL/06
+IL,house,06,Niki Conforti,R,no,H2IL06090,348452.74,7638.59,2026-10-14,,https://deepsyte.app/races/IL/06
+IL,house,07,La Shawn K. Ford,D,no,H6IL07354,819320.56,93472.06,2026-10-14,,https://deepsyte.app/races/IL/07
+IL,house,07,Chad Koppie,R,no,H2IL08203,60408.81,42.2,2026-10-14,,https://deepsyte.app/races/IL/07
+IL,house,08,Melissa L. Bean,D,no,H6IL08329,2457207.28,301713.53,2026-10-14,,https://deepsyte.app/races/IL/08
+IL,house,08,Jennifer Davis,R,no,H6IL08311,1782174.57,279746.97,2026-10-14,,https://deepsyte.app/races/IL/08
+IL,house,09,Daniel Biss,D,no,H6IL09228,3446462.65,608882.79,2026-10-14,,https://deepsyte.app/races/IL/09
+IL,house,09,John Elleson,R,no,H8IL09208,0,0,,,https://deepsyte.app/races/IL/09
+IL,house,10,Bradley Scott Schneider,D,yes,H2IL10068,3657881.54,1707158.21,2026-10-14,S001190,https://deepsyte.app/races/IL/10
+IL,house,10,Carl Lambrecht,R,no,H6IL10176,0,0,,,https://deepsyte.app/races/IL/10
+IL,house,11,Jeff Walter,R,no,H6IL11166,431415.26,7779.82,2026-10-14,,https://deepsyte.app/races/IL/11
+IL,house,11,Bill Foster,D,yes,H8IL14067,2588027.45,2629689.37,2026-10-14,F000454,https://deepsyte.app/races/IL/11
+IL,house,12,Julie Fortier,D,no,H6IL12131,161510.74,33644.35,2026-10-14,,https://deepsyte.app/races/IL/12
+IL,house,12,Mike Bost,R,yes,H4IL12060,1617352.95,844808.76,2026-10-14,B001295,https://deepsyte.app/races/IL/12
+IL,house,13,Nikki Budzinski,D,yes,H2IL13153,3654995.97,2951806.45,2026-10-14,B001315,https://deepsyte.app/races/IL/13
+IL,house,13,Jeff Wilson,R,no,H6IL13154,532329.74,48166.81,2026-10-14,,https://deepsyte.app/races/IL/13
+IL,house,14,Lauren Underwood,D,yes,H8IL14174,2848041.74,1155856.49,2026-10-14,U000040,https://deepsyte.app/races/IL/14
+IL,house,14,"James T. ""Jim"" Marter",R,no,H8IL16153,214272.03,37832.43,2026-10-14,,https://deepsyte.app/races/IL/14
+IL,house,15,Jennifer Todd,D,no,H6IL15092,210096.75,37185.6,2026-10-14,,https://deepsyte.app/races/IL/15
+IL,house,15,Mary E. Miller,R,yes,H0IL15129,1862237.52,910536.07,2026-10-14,M001211,https://deepsyte.app/races/IL/15
+IL,house,16,Darin LaHood,R,yes,H6IL18088,4205602.32,5988458.85,2026-10-14,L000585,https://deepsyte.app/races/IL/16
+IL,house,16,Paul Nolley,D,no,H6IL16108,639225.21,59059.47,2026-10-14,,https://deepsyte.app/races/IL/16
+IL,house,17,Eric Sorensen,D,yes,H2IL17147,2657085.16,1289862.49,2026-10-14,S001225,https://deepsyte.app/races/IL/17
+IL,house,17,Dillan S. Vancil,R,no,H6IL17247,406023.47,52481.85,2026-10-14,,https://deepsyte.app/races/IL/17
+IL,senate,,Whitfield Harrington Jr,I,no,S6IL00680,143381.62,19484.15,2026-10-14,,https://deepsyte.app/races/IL/senate
+IL,senate,,Juliana Stratton,D,no,S6IL00458,7230576.52,1541584.8,2026-10-14,,https://deepsyte.app/races/IL/senate
+IL,senate,,Don Tracy,R,no,S6IL00615,4914363.45,483017.38,2026-10-14,,https://deepsyte.app/races/IL/senate
+IN,house,01,Frank J. Mrvan,D,yes,H0IN01150,3035422.42,772227.05,2026-10-14,M001214,https://deepsyte.app/races/IN/01
+IN,house,01,Barb Regnitz,R,no,H6IN01231,2755770.38,504235.07,2026-10-14,,https://deepsyte.app/races/IN/01
+IN,house,02,Rudy Yakym,R,yes,H2IN02295,6577079.31,421569.93,2026-10-14,Y000067,https://deepsyte.app/races/IN/02
+IN,house,02,William Eric Henry,L,no,H6IN02205,,,,,https://deepsyte.app/races/IN/02
+IN,house,02,Jamee Decio,D,no,H6IN02189,1455232.1,454600.26,2026-10-14,,https://deepsyte.app/races/IN/02
+IN,house,03,Marlin A. Stutzman,R,no,H0IN03198,967094.9,101047.75,2026-10-14,,https://deepsyte.app/races/IN/03
+IN,house,03,Kelly Thompson,D,no,H6IN03294,347103.35,53981.44,2026-10-14,,https://deepsyte.app/races/IN/03
+IN,house,04,James R. Baird,R,yes,H8IN04199,604799.61,110354.75,2026-10-14,B001307,https://deepsyte.app/races/IN/04
+IN,house,04,Drew Cox,D,no,H6IN04193,60558.9,6820.03,2026-10-14,,https://deepsyte.app/races/IN/04
+IN,house,05,Victoria Spartz,R,yes,H0IN05326,2192717.16,514921.94,2026-10-14,S000929,https://deepsyte.app/races/IN/05
+IN,house,05,J.D. Ford,D,no,H6IN05307,1410737.39,324528.66,2026-10-14,,https://deepsyte.app/races/IN/05
+IN,house,06,Jefferson Shreve,R,yes,H4IN06185,2534240.42,1184692.85,2026-10-14,S001229,https://deepsyte.app/races/IN/06
+IN,house,06,Cynthia (Cinde) Wirth,D,no,H6IN06230,91566.02,26537.98,2026-10-14,,https://deepsyte.app/races/IN/06
+IN,house,07,James M Sceniak,L,no,H4IN06219,,,,,https://deepsyte.app/races/IN/07
+IN,house,07,Patrick McAuley,R,no,H6IN07444,0,0,,,https://deepsyte.app/races/IN/07
+IN,house,07,André Carson,D,yes,H8IN07184,1131715,558519.56,2026-10-14,C001072,https://deepsyte.app/races/IN/07
+IN,house,08,Mark B. Messmer,R,yes,H4IN08249,1424576.78,550906.09,2026-10-14,M001233,https://deepsyte.app/races/IN/08
+IN,house,08,Mary Allen,D,no,H6IN08293,493068.23,107507.05,2026-10-14,,https://deepsyte.app/races/IN/08
+IN,house,09,Brad A. Meyer,D,no,H6IN09242,203411.2,28806.83,2026-10-14,,https://deepsyte.app/races/IN/09
+IN,house,09,Erin Houchin,R,yes,H6IN09143,2205947.56,928735.9,2026-10-14,H001093,https://deepsyte.app/races/IN/09
+IN,house,09,Tonya L. Hudson,L,no,H6IN09317,1822.38,-250.74,2026-10-14,,https://deepsyte.app/races/IN/09
+KS,house,01,Lauren Reinhold,D,no,H6KS01203,136351.18,32985.04,2026-10-14,,https://deepsyte.app/races/KS/01
+KS,house,01,Steven Jacob,L,no,H6KS01229,0,0,,,https://deepsyte.app/races/KS/01
+KS,house,01,Tracey Mann,R,yes,H0KS01123,1793300.23,2914104.35,2026-10-14,M000871,https://deepsyte.app/races/KS/01
+KS,house,02,Derek Schmidt,R,yes,H4KS02164,1772988.97,457585.77,2026-10-14,S001228,https://deepsyte.app/races/KS/02
+KS,house,02,Don Coover,D,no,H6KS02276,1363193.3,231675.8,2026-10-14,,https://deepsyte.app/races/KS/02
+KS,house,02,John Hauer,L,no,H4KS02230,0,0,,,https://deepsyte.app/races/KS/02
+KS,house,03,Eric Jenkins,R,no,H6KS03308,51735.28,18941.49,2026-10-14,,https://deepsyte.app/races/KS/03
+KS,house,03,Steven A. Hohe,L,no,H0KS03269,,,,,https://deepsyte.app/races/KS/03
+KS,house,03,Sharice Davids,D,yes,H8KS03155,4656759.22,1860025.74,2026-10-14,D000629,https://deepsyte.app/races/KS/03
+KS,house,04,Drew Cranmer,L,no,H6KS04280,0,0,,,https://deepsyte.app/races/KS/04
+KS,house,04,Katy Tyndell,D,no,H6KS04272,633158.83,145996.06,2026-10-14,,https://deepsyte.app/races/KS/04
+KS,house,04,Ron Estes,R,yes,H8KS04112,2203776,1325358.68,2026-10-14,E000298,https://deepsyte.app/races/KS/04
+KS,senate,,David C. Graham,L,no,S2KS00154,0,0,,,https://deepsyte.app/races/KS/senate
+KS,senate,,Roger Marshall,R,yes,S0KS00315,5350063.53,809806.46,2026-10-14,M001198,https://deepsyte.app/races/KS/senate
+KS,senate,,Adam Hamilton,D,no,S6KS00312,19175044.34,2874363.74,2026-10-14,,https://deepsyte.app/races/KS/senate
+KY,house,01,James Comer,R,yes,H6KY01110,2318360.81,1623432.27,2026-10-14,C001108,https://deepsyte.app/races/KY/01
+KY,house,01,"John ""Drew"" Williams",D,no,H6KY01169,223179.9,7976.68,2026-10-14,,https://deepsyte.app/races/KY/01
+KY,house,02,Brett Guthrie,R,yes,H8KY02031,5986647.25,1447295.54,2026-10-14,G000558,https://deepsyte.app/races/KY/02
+KY,house,02,Megan Wingfield,D,no,H6KY02068,9584.49,1270.59,2026-10-14,,https://deepsyte.app/races/KY/02
+KY,house,02,Thomas A. Loecken,I,no,H8KY02106,0,0,,,https://deepsyte.app/races/KY/02
+KY,house,03,Maria Teresa Rodriguez,R,no,H6KY03223,84148.7,40280.83,2026-10-14,,https://deepsyte.app/races/KY/03
+KY,house,03,Morgan McGarvey,D,yes,H2KY03206,1998328.22,1933845.66,2026-10-14,M001220,https://deepsyte.app/races/KY/03
+KY,house,04,Jeremy Todd,L,no,H6KY04205,30837.92,3389.02,2026-10-14,,https://deepsyte.app/races/KY/04
+KY,house,04,Melissa Claire Strange,D,no,H6KY04189,157330.4,40742.09,2026-10-14,,https://deepsyte.app/races/KY/04
+KY,house,04,Ed Gallrein,R,no,H6KY04171,4095784.14,433535.49,2026-10-14,,https://deepsyte.app/races/KY/04
+KY,house,05,Mikel Wein,I,no,H6KY05202,4250,2911.78,2026-10-14,,https://deepsyte.app/races/KY/05
+KY,house,05,Ned Pillersdorf,D,no,H6KY05152,377088.72,106493.98,2026-10-14,,https://deepsyte.app/races/KY/05
+KY,house,05,Harold Rogers,R,yes,H0KY05015,1026113.99,701923.99,2026-10-14,R000395,https://deepsyte.app/races/KY/05
+KY,house,05,Gerardo Serrano,I,no,H2KY05185,,,,,https://deepsyte.app/races/KY/05
+KY,house,06,Jay J Bowman,NONE,no,H6KY06234,18957.81,215.73,2026-10-14,,https://deepsyte.app/races/KY/06
+KY,house,06,Zach Dembo,D,no,H6KY06184,3205461.88,620329.56,2026-10-14,,https://deepsyte.app/races/KY/06
+KY,house,06,Pete Lynch,OTHER,no,H6KY06242,0,0,,,https://deepsyte.app/races/KY/06
+KY,house,06,Ralph Alvarado,R,no,H6KY06192,2307369.27,180811.5,2026-10-14,,https://deepsyte.app/races/KY/06
+KY,senate,,Christopher Campbell,OTHER,no,S6KY00377,0,0,2026-10-14,,https://deepsyte.app/races/KY/senate
+KY,senate,,Andy Barr,R,no,S6KY00286,12541350.16,1553857.1,2026-10-14,,https://deepsyte.app/races/KY/senate
+KY,senate,,Charles Booker,D,no,S6KY00385,1936323.82,303598.89,2026-10-14,,https://deepsyte.app/races/KY/senate
+LA,house,01,Steve Scalise,R,yes,H0LA01087,11172078.05,2912526.17,2026-10-14,S001176,https://deepsyte.app/races/LA/01
+LA,house,01,Randall Arrington,R,no,H4LA01162,0,0,,,https://deepsyte.app/races/LA/01
+LA,house,01,"E. ""Liddy"" Glass",NO PARTY,no,,,,,,https://deepsyte.app/races/LA/01
+LA,house,01,Lauren Jewett,D,no,H6LA01258,716339.22,156045.85,2026-10-14,,https://deepsyte.app/races/LA/01
+LA,house,02,"Walter ""Rocky"" Beach",NO PARTY,no,,,,,,https://deepsyte.app/races/LA/02
+LA,house,02,"Renada ""Honey"" Collins",NO PARTY,no,,,,,,https://deepsyte.app/races/LA/02
+LA,house,02,Troy A. Carter,D,yes,H2LA02149,1941169.25,630466.36,2026-10-14,C001125,https://deepsyte.app/races/LA/02
+LA,house,02,Peter Williams,R,no,H4LA05171,,,,,https://deepsyte.app/races/LA/02
+LA,house,02,Lisa Ballay,L,no,H2LA02305,1110,610,2026-10-14,,https://deepsyte.app/races/LA/02
+LA,house,03,Priscilla Gonzalez,D,no,H4LA03135,0,0,,,https://deepsyte.app/races/LA/03
+LA,house,03,Kate Cotten,R,no,,,,,,https://deepsyte.app/races/LA/03
+LA,house,03,"Caleb ""With a C"" Walker",D,no,,,,,,https://deepsyte.app/races/LA/03
+LA,house,03,John Day,D,no,H6LA03205,222556.77,124738.15,2026-10-14,,https://deepsyte.app/races/LA/03
+LA,house,03,Tia LeBrun,NO PARTY AFFILIATION,no,H2LA03105,7383,3880.01,2026-09-30,,https://deepsyte.app/races/LA/03
+LA,house,03,Clay Higgins,R,yes,H6LA03148,904294.13,566471.7,2026-10-14,H001077,https://deepsyte.app/races/LA/03
+LA,house,04,Matt Gromlich,D,no,H6LA04195,452199.19,16845.61,2026-10-14,,https://deepsyte.app/races/LA/04
+LA,house,04,Mike Nichols,R,no,H6LA04203,71605,82,2026-10-14,,https://deepsyte.app/races/LA/04
+LA,house,04,Gordon Heslop,R,no,H6LA04229,128719.69,5977.95,2026-10-14,,https://deepsyte.app/races/LA/04
+LA,house,04,Conrad Cable,D,no,H6LA04187,1842505.52,408807.78,2026-10-14,,https://deepsyte.app/races/LA/04
+LA,house,04,Mike Johnson,R,yes,H6LA04138,24583416.13,6510748.41,2026-10-14,J000299,https://deepsyte.app/races/LA/04
+LA,house,05,Dan McKay,D,no,H6LA05291,121181.95,4998.31,2026-10-14,,https://deepsyte.app/races/LA/05
+LA,house,05,Gabe Firment,R,no,H6LA05317,453882.18,63268.77,2026-10-14,,https://deepsyte.app/races/LA/05
+LA,house,05,"Patricia ""Pat"" Moore",D,no,H6LA05341,23053.55,4145.31,2026-10-14,,https://deepsyte.app/races/LA/05
+LA,house,05,Misti Cordell,R,no,H6LA05200,658608.43,200178.37,2026-10-14,,https://deepsyte.app/races/LA/05
+LA,house,05,"Oscar ""Omar"" Dantzler",R,no,H2LA05282,,,,,https://deepsyte.app/races/LA/05
+LA,house,05,Austin Magee,R,no,H6LA05283,11430.87,180.11,2026-10-14,,https://deepsyte.app/races/LA/05
+LA,house,05,Michael Echols,R,no,H6LA05242,3188839.56,888951.7,2026-10-14,,https://deepsyte.app/races/LA/05
+LA,house,05,Stewart Cathey Jr.,R,no,H6LA05184,245550,97779,2026-10-14,,https://deepsyte.app/races/LA/05
+LA,house,06,Rufus Craig,L,no,H4LA06047,,,,,https://deepsyte.app/races/LA/06
+LA,house,06,Blake Miguez,R,no,H6LA05234,7749606.17,1534513.37,2026-10-14,,https://deepsyte.app/races/LA/06
+LA,house,06,Larry Davis III,R,no,H6LA05168,33216.2,809.04,2026-10-14,,https://deepsyte.app/races/LA/06
+LA,house,06,Monique Appeaning,R,no,H6LA06158,109182.74,14709.14,2026-10-14,,https://deepsyte.app/races/LA/06
+LA,house,06,Rick Edmonds,R,no,H6LA05226,697139.24,134634.87,2026-10-14,,https://deepsyte.app/races/LA/06
+LA,house,06,Michael Mebruer,R,no,H6LA05259,70714.45,10986.86,2026-10-14,,https://deepsyte.app/races/LA/06
+LA,house,06,Stephen Wagley,R,no,H6LA06182,874343.55,195633.13,2026-10-14,,https://deepsyte.app/races/LA/06
+LA,house,06,"Lindsay ""Rubia"" Garcia",D,no,H6LA05309,97007.38,21654.33,2026-10-14,,https://deepsyte.app/races/LA/06
+LA,house,06,Chauna Banks,D,no,H6LA06174,,,,,https://deepsyte.app/races/LA/06
+LA,house,06,"Patrick ""Pat"" Forbes",D,no,H6LA06190,156333.69,97399.96,2026-10-14,,https://deepsyte.app/races/LA/06
+LA,senate,,Jamie Davis,D,no,S6LA00615,5019888.28,1254928.52,2026-10-14,,https://deepsyte.app/races/LA/senate
+LA,senate,,Julia Letlow,R,no,S6LA00664,7062068.51,443169.94,2026-10-14,,https://deepsyte.app/races/LA/senate
+MA,house,01,Nadia Donya Milleron,NO PARTY AFFILIATION,no,H4MA01091,1585489.1,310205.12,2026-10-14,,https://deepsyte.app/races/MA/01
+MA,house,01,Richard E. Neal,D,yes,H8MA02041,3112617.01,1878102.25,2026-10-14,N000015,https://deepsyte.app/races/MA/01
+MA,house,02,James P. McGovern,D,yes,H4MA03022,1013810.25,369456.63,2026-10-14,M000312,https://deepsyte.app/races/MA/02
+MA,house,03,Dennis R. Conlon,UNENROLLED,no,,,,,,https://deepsyte.app/races/MA/03
+MA,house,03,Gary J. Grossi,R,no,H6MA03100,9150.83,7377.82,2026-10-14,,https://deepsyte.app/races/MA/03
+MA,house,03,Lori Trahan,D,yes,H8MA03106,1878706.73,1791267.16,2026-10-14,T000482,https://deepsyte.app/races/MA/03
+MA,house,04,Jake Auchincloss,D,yes,H0MA04192,3935406.36,7476829.34,2026-10-14,A000148,https://deepsyte.app/races/MA/04
+MA,house,04,Thomas Stalcup,R,no,H6MA04140,26619.26,147.26,2026-10-14,,https://deepsyte.app/races/MA/04
+MA,house,05,Katherine M. Clark,D,yes,H4MA05084,5026057.81,1229548.01,2026-10-14,C001101,https://deepsyte.app/races/MA/05
+MA,house,06,Micah Quinney Jones,R,no,H6MA06202,619903.76,169782.15,2026-10-14,,https://deepsyte.app/races/MA/06
+MA,house,06,Dan Koh,D,no,H8MA03072,5383420.65,1081990.54,2026-10-14,,https://deepsyte.app/races/MA/06
+MA,house,07,Ayanna Pressley,D,yes,H8MA07032,1319248.35,86475.82,2026-10-14,P000617,https://deepsyte.app/races/MA/07
+MA,house,08,Robert G. Burke,,no,H2MA08090,1525,-16965.6,2026-09-30,,https://deepsyte.app/races/MA/08
+MA,house,08,Rasheed Nicholas Walters,I,no,H6MA08372,0,0,,,https://deepsyte.app/races/MA/08
+MA,house,08,Stephen F. Lynch,D,yes,H2MA09072,1052702.73,493968.79,2026-10-14,L000562,https://deepsyte.app/races/MA/08
+MA,house,09,William R. Keating,D,yes,H0MA10082,553689.68,460620.04,2026-10-14,K000375,https://deepsyte.app/races/MA/09
+MA,house,09,R. Tyler Macallister,R,no,H6MA09206,215467.33,53180.43,2026-10-14,,https://deepsyte.app/races/MA/09
+MA,senate,,Shiva Ayyadurai,I,no,S8MA00268,239098.16,78521.98,2026-10-14,,https://deepsyte.app/races/MA/senate
+MA,senate,,Joe Tache,OTHER,no,S6MA00288,285402.78,23779.79,2026-10-14,,https://deepsyte.app/races/MA/senate
+MA,senate,,Edward J. Markey,D,yes,S4MA00028,5985385.37,799912.74,2026-10-14,M000133,https://deepsyte.app/races/MA/senate
+MA,senate,,John Deaton,R,no,S6MA00304,1674459.77,488156.36,2026-10-14,,https://deepsyte.app/races/MA/senate
+MD,house,01,Andy Harris,R,yes,H8MD01094,2703695.73,1219984.58,2026-10-14,H001052,https://deepsyte.app/races/MD/01
+MD,house,01,Dan Schwartz,D,no,H6MD01320,1155585.2,-4473.09,2026-10-14,,https://deepsyte.app/races/MD/01
+MD,house,02,Dave Wallace,R,no,H2MD06138,29269.45,4898.57,2026-10-14,,https://deepsyte.app/races/MD/02
+MD,house,02,Johnny Olszewski,D,yes,H4MD02232,1290366.62,681817.08,2026-10-14,O000176,https://deepsyte.app/races/MD/02
+MD,house,03,Berney Flowers,R,no,H4MD03149,35461.92,9034.69,2026-10-14,,https://deepsyte.app/races/MD/03
+MD,house,03,Sarah Elfreth,D,yes,H4MD03156,1429992.6,240886.52,2026-10-14,E000301,https://deepsyte.app/races/MD/03
+MD,house,04,Sam Husseini,G,no,,,,,,https://deepsyte.app/races/MD/04
+MD,house,04,Glenn F. Ivey,D,no,H2MD04232,886967.08,493566.36,2026-10-14,,https://deepsyte.app/races/MD/04
+MD,house,04,George E. McDermott,R,no,,,,,,https://deepsyte.app/races/MD/04
+MD,house,05,Adrian Boafo,D,no,H6MD05321,1906194.02,92102.44,2026-10-14,,https://deepsyte.app/races/MD/05
+MD,house,05,Chris Chaffee,,no,H4MD05169,0,0,,,https://deepsyte.app/races/MD/05
+MD,house,06,Robin Ficker,R,no,H6MD06287,1284599.36,4327.62,2026-10-14,,https://deepsyte.app/races/MD/06
+MD,house,06,April McClain Delaney,D,yes,H4MD06340,12535127.56,121838.51,2026-10-14,M001232,https://deepsyte.app/races/MD/06
+MD,house,06,Moshe Y. Landman,G,no,H4MD06423,,,,,https://deepsyte.app/races/MD/06
+MD,house,07,Scott M. Collier,R,no,H0MD02255,0,0,,,https://deepsyte.app/races/MD/07
+MD,house,07,Kweisi Mfume,D,yes,H6MD07020,489735.93,612318.39,2026-10-14,M000687,https://deepsyte.app/races/MD/07
+MD,house,08,Nancy Wallace,G,no,H6MD08598,0,0,,,https://deepsyte.app/races/MD/08
+MD,house,08,Cheryl Riley,R,no,H4MD08213,22354.21,2691.08,2026-10-14,,https://deepsyte.app/races/MD/08
+MD,house,08,Jamie Raskin,D,yes,H6MD08457,9316433.86,7912572.18,2026-10-14,R000606,https://deepsyte.app/races/MD/08
+ME,house,01,Ronald C. Russell,R,no,H4ME01160,214095.98,8363.57,2026-10-14,,https://deepsyte.app/races/ME/01
+ME,house,01,Chellie Pingree,D,yes,H8ME01120,551077.7,320049.11,2026-10-14,P000597,https://deepsyte.app/races/ME/01
+ME,house,02,Paul R. LePage,R,no,H6ME02148,3299130.03,848223.64,2026-10-14,,https://deepsyte.app/races/ME/02
+ME,house,02,Matthew G. Dunlap,D,no,H6ME02171,2964963.53,443967.67,2026-10-14,,https://deepsyte.app/races/ME/02
+ME,senate,,Susan M. Collins,R,yes,S6ME00159,22465217.83,2689882.54,2026-10-14,C001035,https://deepsyte.app/races/ME/senate
+ME,senate,,Troy D. Jackson,D,no,S6ME00464,26872873.96,1596870.56,2026-10-14,,https://deepsyte.app/races/ME/senate
+MI,house,01,Zebulon Featherly,I,no,H6MI01275,,,,,https://deepsyte.app/races/MI/01
+MI,house,01,Arnett Satterla,L,no,H6MI01283,0,0,,,https://deepsyte.app/races/MI/01
+MI,house,01,Jack Bergman,R,yes,H6MI01226,2417376.48,263088.55,2026-10-14,B001301,https://deepsyte.app/races/MI/01
+MI,house,01,LaVeta Davenport,G,no,H6MI01309,,,,,https://deepsyte.app/races/MI/01
+MI,house,01,Callie Barr,D,no,H4MI01155,1724591.9,383735.18,2026-10-14,,https://deepsyte.app/races/MI/01
+MI,house,01,Doc Kovaly,TAXPAYERS,no,H6MI02257,0,0,,,https://deepsyte.app/races/MI/01
+MI,house,01,Liz Hakola,,no,H2MI01167,0,0,,,https://deepsyte.app/races/MI/01
+MI,house,02,Charlotte Magoon,G,no,H6MI02265,0,0,,,https://deepsyte.app/races/MI/02
+MI,house,02,Richard Sills,NATURAL LAW PARTY,no,H6MI02273,,,,,https://deepsyte.app/races/MI/02
+MI,house,02,John R. Moolenaar,R,yes,H4MI04126,2068418.39,1213299.49,2026-10-14,M001194,https://deepsyte.app/races/MI/02
+MI,house,02,Ben Ambrose,D,no,H6MI02216,186503.84,32956.26,2026-10-14,,https://deepsyte.app/races/MI/02
+MI,house,03,Terri DeBoer,R,no,H6MI03198,865481.34,70280.61,2026-10-14,,https://deepsyte.app/races/MI/03
+MI,house,03,Joe Jock,G,no,H6MI03214,,,,,https://deepsyte.app/races/MI/03
+MI,house,03,Hillary J. Scholten,D,yes,H0MI03316,3034438.11,1531771.98,2026-10-14,S001221,https://deepsyte.app/races/MI/03
+MI,house,04,Bill Huizenga,R,yes,H0MI02094,5562774.67,394221.52,2026-10-14,H001058,https://deepsyte.app/races/MI/04
+MI,house,04,Shafina Che Barnett,G,no,H6MI04220,0,0,,,https://deepsyte.app/races/MI/04
+MI,house,04,Sean McCann,D,no,H6MI04204,4699153.23,1034442.24,2026-10-14,,https://deepsyte.app/races/MI/04
+MI,house,05,Jim Bronke,G,no,H4MI05172,0,0,,,https://deepsyte.app/races/MI/05
+MI,house,05,Tim Walberg,R,yes,H4MI07103,2220378.67,1179966.16,2026-10-14,W000798,https://deepsyte.app/races/MI/05
+MI,house,05,Christian Vukasovich,D,no,H6MI05227,151703.92,39516.94,2026-10-14,,https://deepsyte.app/races/MI/05
+MI,house,05,Ronald A Muszynski,L,no,H6MI05235,1130.34,572.31,2026-10-03,,https://deepsyte.app/races/MI/05
+MI,house,05,Sharon Marie Renier,U.S. TAXPAYERS PARTY,no,H4MI07137,0,0,,,https://deepsyte.app/races/MI/05
+MI,house,06,Debbie Dingell,D,yes,H4MI12079,1525722.57,455811.49,2026-10-14,D000624,https://deepsyte.app/races/MI/06
+MI,house,06,Mike Mickevicius,U.S. TAXPAYERS PARTY,no,H6MI06241,,,,,https://deepsyte.app/races/MI/06
+MI,house,06,Linda Rayburn,,no,H6MI06266,0,0,,,https://deepsyte.app/races/MI/06
+MI,house,06,Timothy A. Teagan,L,no,H6MI06258,,,,,https://deepsyte.app/races/MI/06
+MI,house,06,Heather Smiley,R,no,H4MI06154,0,0,,,https://deepsyte.app/races/MI/06
+MI,house,06,Clyde Shabazz,G,no,H8MI14084,,,,,https://deepsyte.app/races/MI/06
+MI,house,07,William Lawrence,D,no,H6MI07298,4160041.27,628965.99,2026-10-14,,https://deepsyte.app/races/MI/07
+MI,house,07,Shane Dedrick,G,no,H6MI07306,,,,,https://deepsyte.app/races/MI/07
+MI,house,07,Tom Barrett,R,yes,H2MI07123,8238468.08,1039762.51,2026-10-14,B001321,https://deepsyte.app/races/MI/07
+MI,house,08,Thomas J. Smith,R,no,H6MI08312,561096.81,85065.96,2026-10-14,,https://deepsyte.app/races/MI/08
+MI,house,08,Kathy Goodwin,OTHER,no,H8MI05124,0,0,,,https://deepsyte.app/races/MI/08
+MI,house,08,Jim Casha,G,no,H4MI08176,,,,,https://deepsyte.app/races/MI/08
+MI,house,08,Kristen McDonald Rivet,D,yes,H4MI08218,6922878.91,2674869.1,2026-10-14,M001237,https://deepsyte.app/races/MI/08
+MI,house,08,C. Mia Pettus,L,no,H6MI08320,0,0,,,https://deepsyte.app/races/MI/08
+MI,house,09,Jim Walkowicz,OTHER,no,H2MI09178,,,,,https://deepsyte.app/races/MI/09
+MI,house,09,Lisa C. McClain,R,yes,H0MI10287,6046475.44,1752710.48,2026-10-14,M001136,https://deepsyte.app/races/MI/09
+MI,house,09,John Vlahos,U.S. TAXPAYERS PARTY,no,H6MI09278,0,0,,,https://deepsyte.app/races/MI/09
+MI,house,09,Kevin Vayko,L,no,H4MI09133,0,0,,,https://deepsyte.app/races/MI/09
+MI,house,09,Ray Pooley,D,no,H6MI09245,26386.57,14075.09,2026-10-14,,https://deepsyte.app/races/MI/09
+MI,house,09,Destiny Clayton,G,no,H6MI09260,,,,,https://deepsyte.app/races/MI/09
+MI,house,10,Kwabena Nkromo,G,no,,,,,,https://deepsyte.app/races/MI/10
+MI,house,10,Christina Bertrand Hines,D,no,H6MI10276,4159692.85,1007627.76,2026-10-14,,https://deepsyte.app/races/MI/10
+MI,house,10,Michael Bouchard,R,no,H6MI10359,2884259.39,1573469.64,2026-10-14,,https://deepsyte.app/races/MI/10
+MI,house,10,Mike Saliba,L,no,H6MI10383,0,0,,,https://deepsyte.app/races/MI/10
+MI,house,10,Andrea L. Kirby,OTHER,no,H8MI09142,0,0,,,https://deepsyte.app/races/MI/10
+MI,house,11,Jeremy Moss,D,no,H6MI11191,1874871.73,69999.65,2026-10-14,,https://deepsyte.app/races/MI/11
+MI,house,11,Farid Ishac,L,no,H6MI11316,,,,,https://deepsyte.app/races/MI/11
+MI,house,11,Anil Kumar,UNAFFILIATED,no,H4MI10131,724355.07,319467.09,2026-10-14,,https://deepsyte.app/races/MI/11
+MI,house,11,Ethan Baker,R,no,H6MI11290,204668,56620.74,2026-10-14,,https://deepsyte.app/races/MI/11
+MI,house,11,Ryan Teasdale,G,no,H6MI11308,,,,,https://deepsyte.app/races/MI/11
+MI,house,12,James D. Hooper,R,no,H2MI12198,2002.05,7769.12,2026-10-14,,https://deepsyte.app/races/MI/12
+MI,house,12,Brenda K. Sanders,G,no,H4MI12145,0,0,,,https://deepsyte.app/races/MI/12
+MI,house,12,Marc Joseph Sosnowski,U.S. TAXPAYERS PARTY,no,H0MI14214,0,0,,,https://deepsyte.app/races/MI/12
+MI,house,12,Rashida Tlaib,D,yes,H8MI13250,3255577.41,3038173.48,2026-10-14,T000481,https://deepsyte.app/races/MI/12
+MI,house,12,Gary Walkowicz,OTHER,no,H8MI07039,,,,,https://deepsyte.app/races/MI/12
+MI,house,13,Chris Dardzinski,TAXPAYERS,no,H2MI13337,,,,,https://deepsyte.app/races/MI/13
+MI,house,13,Donavan McKinney,D,no,H6MI13254,1876779.88,129673.54,2026-10-14,,https://deepsyte.app/races/MI/13
+MI,house,13,T.P. Nykoriak,R,no,H6MI13312,0,0,,,https://deepsyte.app/races/MI/13
+MI,house,13,Raelyn Light,G,no,H6MI13320,0,0,,,https://deepsyte.app/races/MI/13
+MI,house,13,Simone R. Coleman,WORKING CLASS PARTY,no,,,,,,https://deepsyte.app/races/MI/13
+MI,senate,,Douglas P. Marsh,G,no,S4MI00512,,,,,https://deepsyte.app/races/MI/senate
+MI,senate,,Lydia Christensen,L,no,S6MI00442,7159.28,2600.65,2026-10-14,,https://deepsyte.app/races/MI/senate
+MI,senate,,Tim Long,U.S. TAXPAYERS PARTY,no,S6MI00566,,,,,https://deepsyte.app/races/MI/senate
+MI,senate,,Walter P. Kristy,NATURAL LAW PARTY,no,S6MI00590,0,0,,,https://deepsyte.app/races/MI/senate
+MI,senate,,Abdul El-Sayed,D,no,S6MI00418,53830872.19,2734028.89,2026-10-14,,https://deepsyte.app/races/MI/senate
+MI,senate,,Mike Rogers,R,no,S4MI00595,23016438.64,3902505.76,2026-10-22,,https://deepsyte.app/races/MI/senate
+MN,house,01,Brad Finstad,R,yes,H2MN01223,2765869.64,603622.36,2026-10-14,F000475,https://deepsyte.app/races/MN/01
+MN,house,01,Jake Johnson,D,no,H6MN01190,3507568.36,561093.51,2026-10-14,,https://deepsyte.app/races/MN/01
+MN,house,02,Eric Pratt,R,no,H6MN02263,768790.87,173429.73,2026-10-14,,https://deepsyte.app/races/MN/02
+MN,house,02,Matt Little,D,no,H6MN02230,1494553.8,205276.43,2026-10-14,,https://deepsyte.app/races/MN/02
+MN,house,03,Tyler Bass,R,no,H6MN03170,,,,,https://deepsyte.app/races/MN/03
+MN,house,03,Kelly Morrison,D,yes,H4MN03118,1867912.24,507864.91,2026-10-14,M001234,https://deepsyte.app/races/MN/03
+MN,house,04,Betty McCollum,D,yes,H0MN04049,1539014.07,526264.24,2026-10-14,M001143,https://deepsyte.app/races/MN/04
+MN,house,04,Paul Wikstrom,R,no,H6MN04293,65015.98,18547.61,2026-10-14,,https://deepsyte.app/races/MN/04
+MN,house,05,DeVelle L. Jackson,I,no,H6MN05373,0,0,,,https://deepsyte.app/races/MN/05
+MN,house,05,Ilhan Omar,D,yes,H8MN05239,8247981.67,3003683.87,2026-10-14,O000173,https://deepsyte.app/races/MN/05
+MN,house,05,John Nagel,R,no,H6MN05357,1126114.57,102551.93,2026-10-14,,https://deepsyte.app/races/MN/05
+MN,house,06,Tom Emmer,R,yes,H4MN06087,10861547.06,2971244.83,2026-10-14,E000294,https://deepsyte.app/races/MN/06
+MN,house,06,Doug Chapin,D,no,H6MN06215,765076.15,118475.76,2026-10-14,,https://deepsyte.app/races/MN/06
+MN,house,07,Michelle Fischbach,R,yes,H0MN07091,1673105.11,866361.88,2026-10-14,F000470,https://deepsyte.app/races/MN/07
+MN,house,07,Erik Osberg,D,no,H6MN07312,577219.01,126748.2,2026-10-14,,https://deepsyte.app/races/MN/07
+MN,house,08,Trina Swanson,D,no,H6MN08179,727329.66,176815.9,2026-10-14,,https://deepsyte.app/races/MN/08
+MN,house,08,Pete Stauber,R,yes,H8MN08043,2566760.29,1086286.9,2026-10-14,S001212,https://deepsyte.app/races/MN/08
+MN,senate,,Michele Tafoya,R,no,S6MN00556,12501785.59,2819386.89,2026-10-14,,https://deepsyte.app/races/MN/senate
+MN,senate,,Peggy Flanagan,D,no,S6MN00440,11563963.37,993214.07,2026-10-14,,https://deepsyte.app/races/MN/senate
+MN,senate,,Marisa Simonetti,NON-PARTY,no,S6MN00481,0,0,,,https://deepsyte.app/races/MN/senate
+MN,senate,,Rebecca Whiting,L,no,S6MN00572,3756,1927.97,2026-10-14,,https://deepsyte.app/races/MN/senate
+MO,house,01,Wesley Bell,D,yes,H4MO01134,4024636.06,407001.06,2026-10-14,B001324,https://deepsyte.app/races/MO/01
+MO,house,01,Paul Berry III,R,no,H6MO01261,0,0,,,https://deepsyte.app/races/MO/01
+MO,house,01,Tom Schmitz,L,no,H0MO08285,,,,,https://deepsyte.app/races/MO/01
+MO,house,02,Fred Wellman,D,no,H6MO02343,2178964.91,240717.89,2026-10-14,,https://deepsyte.app/races/MO/02
+MO,house,02,Ann Wagner,R,yes,H2MO02102,4189876.26,1631396.51,2026-10-14,W000812,https://deepsyte.app/races/MO/02
+MO,house,02,Brandon Coulter Daugherty,L,no,H4MO02116,,,,,https://deepsyte.app/races/MO/02
+MO,house,03,Bethany E Mann,D,no,H2MO03167,86553.55,5711.74,2026-10-14,,https://deepsyte.app/races/MO/03
+MO,house,03,Jim Higgins,L,no,H2MO02078,,,,,https://deepsyte.app/races/MO/03
+MO,house,03,Robert F. Onder,R,yes,H4MO03221,1146488.94,525827.92,2026-10-14,O000177,https://deepsyte.app/races/MO/03
+MO,house,04,Jordan Herrera,D,no,H6MO05254,41656.63,19365.61,2026-07-15,,https://deepsyte.app/races/MO/04
+MO,house,04,Thomas Holbrook,L,no,H2MO04108,0,0,,,https://deepsyte.app/races/MO/04
+MO,house,04,Mark Alford,R,yes,H2MO04207,1599365.96,757046.88,2026-10-14,A000379,https://deepsyte.app/races/MO/04
+MO,house,05,Rick Brattin,R,no,H2MO04199,457467.1,359.33,2026-10-14,,https://deepsyte.app/races/MO/05
+MO,house,05,Emanuel Cleaver,D,yes,H4MO05234,1766864.4,882948.3,2026-10-14,C001061,https://deepsyte.app/races/MO/05
+MO,house,05,Randall (Randy) Langkraehr,L,no,H6MO05197,0,0,,,https://deepsyte.app/races/MO/05
+MO,house,06,Andy Maidment,L,no,H2MO06269,0,0,,,https://deepsyte.app/races/MO/06
+MO,house,06,Chris Stigall,R,no,H6MO06310,1045323.71,211004.93,2026-10-14,,https://deepsyte.app/races/MO/06
+MO,house,06,Josh Smead,D,no,H6MO06260,145752.57,35200.81,2026-10-14,,https://deepsyte.app/races/MO/06
+MO,house,07,Eric Burlison,R,yes,H2MO07143,1697441.77,962364.48,2026-10-14,B001316,https://deepsyte.app/races/MO/07
+MO,house,07,Kevin Craig,L,no,H4MO07107,,,,,https://deepsyte.app/races/MO/07
+MO,house,07,Missi Hesketh,D,no,H4MO07156,66639.85,45851.95,2026-10-14,,https://deepsyte.app/races/MO/07
+MO,house,08,Jason Smith,R,yes,H4MO08162,6299171.08,5415076.95,2026-10-14,S001195,https://deepsyte.app/races/MO/08
+MO,house,08,Rebecca Sharpe Lombard,L,no,,,,,,https://deepsyte.app/races/MO/08
+MO,house,08,Chris Reichard,D,no,H6MO08183,27957.64,6651.76,2026-10-14,,https://deepsyte.app/races/MO/08
+MP,house,01,Kimberlyn King-Hinds,R,yes,H4MP01022,103385.97,16214.04,2026-10-14,K000404,https://deepsyte.app/races/MP/01
+MP,house,01,Galvin Sablan Deleon Guerrero,I,no,H6MP01027,31476.11,9254.84,2026-10-14,,https://deepsyte.app/races/MP/01
+MS,house,01,Trent Kelly,R,yes,H6MS01131,1314373.36,834172.64,2026-10-14,K000388,https://deepsyte.app/races/MS/01
+MS,house,01,Cliff Johnson,D,no,H6MS01313,848648.09,89247.55,2026-10-14,,https://deepsyte.app/races/MS/01
+MS,house,01,Johnny Baucom,L,no,,,,,,https://deepsyte.app/races/MS/01
+MS,house,02,Bennie G. Thompson,D,yes,H4MS02068,928245.03,1282156.34,2026-10-14,T000193,https://deepsyte.app/races/MS/02
+MS,house,02,Ron Eller,R,no,H2MS02203,70824.97,42108.88,2026-10-14,,https://deepsyte.app/races/MS/02
+MS,house,02,Bennie Foster,I,no,H6MS02188,0,9189.82,2026-06-30,,https://deepsyte.app/races/MS/02
+MS,house,03,Michael A. Chiaradio,D,no,H6MS03228,224381.1,39338.89,2026-10-14,,https://deepsyte.app/races/MS/03
+MS,house,03,Michael Guest,R,yes,H8MS03125,1089344.17,780057.84,2026-10-14,G000591,https://deepsyte.app/races/MS/03
+MS,house,03,Erik Kiehle,L,no,H6MS03236,0,0,,,https://deepsyte.app/races/MS/03
+MS,house,04,Jeffrey Hulum III,D,no,H6MS04242,60172.68,10553.54,2026-09-30,,https://deepsyte.app/races/MS/04
+MS,house,04,Carl Boyanton,I,no,H6MS04259,120826.32,20069.99,2026-10-14,,https://deepsyte.app/races/MS/04
+MS,house,04,Mike Ezell,R,yes,H2MS04258,1149872.59,88879.72,2026-10-14,E000235,https://deepsyte.app/races/MS/04
+MS,senate,,Ty Pinkins,I,no,S4MS00187,104685.72,4046.64,2026-10-14,,https://deepsyte.app/races/MS/senate
+MS,senate,,Cindy Hyde-Smith,R,yes,S8MS00261,4646802.99,1395723.78,2026-10-14,H001079,https://deepsyte.app/races/MS/senate
+MS,senate,,Scott Colom,D,no,S6MS00133,4400889.53,1018716.95,2026-10-14,,https://deepsyte.app/races/MS/senate
+MT,house,01,Aaron Flint,R,no,H6MT01152,2856138.55,408152.75,2026-10-14,,https://deepsyte.app/races/MT/01
+MT,house,01,Nick Sheedy,L,no,,,,,,https://deepsyte.app/races/MT/01
+MT,house,01,Sam Forstag,D,no,H6MT01137,4312110.49,726125.8,2026-10-14,,https://deepsyte.app/races/MT/01
+MT,house,02,Patrick McCracken,L,no,H6MT02176,0,0,,,https://deepsyte.app/races/MT/02
+MT,house,02,Michael D Eisenhauer,I,no,H6MT02168,354191.13,23304.16,2026-10-14,,https://deepsyte.app/races/MT/02
+MT,house,02,Troy Downing,R,yes,H4MT02098,2733160.34,746647.91,2026-10-14,D000634,https://deepsyte.app/races/MT/02
+MT,house,02,Brian J Miller,D,no,H6MT02150,30958.49,668.84,2026-10-14,,https://deepsyte.app/races/MT/02
+MT,senate,,Seth Bodnar,I,no,S6MT00287,4918341.25,580920.91,2026-10-14,,https://deepsyte.app/races/MT/senate
+MT,senate,,Kurt Alme,R,no,S6MT00295,3013680.86,602737.76,2026-10-14,,https://deepsyte.app/races/MT/senate
+MT,senate,,Kyle Austin,L,no,S6MT00261,261825.31,2684.12,2026-10-14,,https://deepsyte.app/races/MT/senate
+MT,senate,,Alani Bankhead,D,no,S6MT00253,190564.71,22819.8,2026-10-14,,https://deepsyte.app/races/MT/senate
+NC,house,01,Tom Bailey,L,no,H8NC13075,0,0,,,https://deepsyte.app/races/NC/01
+NC,house,01,Donald G. Davis,D,yes,H2NC02287,5805482.43,825817.73,2026-10-14,D000230,https://deepsyte.app/races/NC/01
+NC,house,01,Laurie Buckhout,R,no,H4NC01137,4787737.24,1437900.53,2026-10-14,,https://deepsyte.app/races/NC/01
+NC,house,02,Eugene F. Douglass,R,no,H4NC02135,0,0,,,https://deepsyte.app/races/NC/02
+NC,house,02,Matthew Laszacs,L,no,H6NC02205,0,0,,,https://deepsyte.app/races/NC/02
+NC,house,02,Deborah K. Ross,D,yes,H0NC02125,2039910.71,1278165.09,2026-10-14,R000305,https://deepsyte.app/races/NC/02
+NC,house,03,Daniel Cavender,L,no,H6NC03237,0,0,,,https://deepsyte.app/races/NC/03
+NC,house,03,Gregory F. Murphy,R,yes,H0NC03172,2897749.02,2255691,2026-10-14,M001210,https://deepsyte.app/races/NC/03
+NC,house,03,Raymond Smith,D,no,H6NC03229,366580.83,44282.09,2026-10-14,,https://deepsyte.app/races/NC/03
+NC,house,04,Valerie P. Foushee,D,yes,H2NC06114,1048542.77,49354.18,2026-10-14,F000477,https://deepsyte.app/races/NC/04
+NC,house,04,Mahesh (Max) Ganorkar,R,no,H4NC02150,18568.36,9001.14,2026-10-14,,https://deepsyte.app/races/NC/04
+NC,house,04,Guy Meilleur,L,no,H4NC04149,0,0,,,https://deepsyte.app/races/NC/04
+NC,house,05,Chuck Hubbard,D,no,H4NC05294,863260.01,152010.2,2026-10-14,,https://deepsyte.app/races/NC/05
+NC,house,05,Robert B. Luffman,L,no,H6NC05174,0,0,,,https://deepsyte.app/races/NC/05
+NC,house,05,Virginia Foxx,R,yes,H4NC05146,2189052.01,3490070.17,2026-10-14,F000450,https://deepsyte.app/races/NC/05
+NC,house,06,Cyril Jefferson,D,no,H6NC06164,232324.53,7859.07,2026-10-14,,https://deepsyte.app/races/NC/06
+NC,house,06,Addison P. McDowell,R,yes,H4NC06177,1456167.02,152972.51,2026-10-14,M001240,https://deepsyte.app/races/NC/06
+NC,house,07,Kimberly Hardy,D,no,H6NC07196,390475.48,20418.72,2026-10-14,,https://deepsyte.app/races/NC/07
+NC,house,07,David Rouzer,R,yes,H2NC07096,2534038.14,1699752.56,2026-10-14,R000603,https://deepsyte.app/races/NC/07
+NC,house,07,Maad Abu-Ghazalah,L,no,H6NC07204,8899.41,278.64,2026-10-14,,https://deepsyte.app/races/NC/07
+NC,house,08,Bo Whitehead,G,no,H6NC08210,0,0,,,https://deepsyte.app/races/NC/08
+NC,house,08,Mark Harris,R,no,H6NC09200,1238724.33,411263.59,2026-10-14,,https://deepsyte.app/races/NC/08
+NC,house,08,Colby Watson,D,no,H6NC08202,57590.37,4158.07,2026-10-14,,https://deepsyte.app/races/NC/08
+NC,house,09,Richard N. Ojeda II,D,no,H6NC09218,2930069.22,45572.22,2026-10-14,,https://deepsyte.app/races/NC/09
+NC,house,09,Richard Hudson,R,yes,H2NC08185,4173708.23,925975.68,2026-10-14,H001067,https://deepsyte.app/races/NC/09
+NC,house,10,Ashley Bell,D,no,H6NC10174,147720.19,11774.2,2026-10-14,,https://deepsyte.app/races/NC/10
+NC,house,10,Pat Harrigan,R,yes,H2NC13243,1318233.19,462978.17,2026-10-14,H001101,https://deepsyte.app/races/NC/10
+NC,house,10,Steven Feldman,L,no,H4NC10146,48754.35,1294.84,2026-10-14,,https://deepsyte.app/races/NC/10
+NC,house,11,Travis Groo,L,no,H6NC11313,,,,,https://deepsyte.app/races/NC/11
+NC,house,11,Jamie Ager,D,no,H6NC11248,5869452.65,620157.94,2026-10-14,,https://deepsyte.app/races/NC/11
+NC,house,11,Jennifer Capps Balkcom,R,no,H6NC11321,399491.7,294817.52,2026-10-14,,https://deepsyte.app/races/NC/11
+NC,house,12,Alma S. Adams,D,yes,H4NC12100,483374.93,483996.68,2026-10-14,A000370,https://deepsyte.app/races/NC/12
+NC,house,12,Jack Codiga,R,no,H6NC12113,54619.62,3790.46,2026-10-14,,https://deepsyte.app/races/NC/12
+NC,house,13,Paul Barringer,D,no,H6NC13228,1215150.98,409522.44,2026-10-14,,https://deepsyte.app/races/NC/13
+NC,house,13,Steven Swinton,L,no,H6NC13251,0,0,,,https://deepsyte.app/races/NC/13
+NC,house,13,Brad Knott,R,yes,H4NC13116,1697075.23,619470.98,2026-10-14,K000405,https://deepsyte.app/races/NC/13
+NC,house,14,Lakesha Womack,D,no,H6NC14069,59183.28,4792.77,2026-10-14,,https://deepsyte.app/races/NC/14
+NC,house,14,Tim Moore,R,yes,H4NC14015,2091454.5,1093140.95,2026-10-14,M001236,https://deepsyte.app/races/NC/14
+NC,senate,,Michael Whatley,R,no,S6NC00415,13668467.53,902238.05,2026-10-14,,https://deepsyte.app/races/NC/senate
+NC,senate,,Shannon W. Bray,L,no,S0NC00335,0,0,,,https://deepsyte.app/races/NC/senate
+NC,senate,,Roy Cooper,D,no,S6NC00407,49585341.29,9088859.57,2026-10-14,,https://deepsyte.app/races/NC/senate
+NC,senate,,Michael Dublin,G,no,S6NC00563,28230.84,2996.04,2026-10-14,,https://deepsyte.app/races/NC/senate
+ND,house,00,Helene Neville,INDEPENDENCE PARTY,no,H6ND01056,,,,,https://deepsyte.app/races/ND/00
+ND,house,00,Trygve Hammer,D,no,H6ND01049,370969,42108.76,2026-10-14,,https://deepsyte.app/races/ND/00
+ND,house,00,Charles Tuttle,I,no,H8ND00138,,,,,https://deepsyte.app/races/ND/00
+ND,house,00,Julie Fedorchak,R,yes,H4ND00061,2107166.08,774845.73,2026-10-14,F000482,https://deepsyte.app/races/ND/00
+NE,house,01,Mike Flood,R,yes,H2NE01118,2770861.42,859905.11,2026-10-14,F000474,https://deepsyte.app/races/NE/01
+NE,house,01,Chris Backemeyer,D,no,H6NE01143,1154612.7,355165.95,2026-10-14,,https://deepsyte.app/races/NE/01
+NE,house,01,Nik Sandman,L,no,,,,,,https://deepsyte.app/races/NE/01
+NE,house,01,Dan Hartong,AMERICA FIRST,no,,,,,,https://deepsyte.app/races/NE/01
+NE,house,02,Eric Michael Foreman,L,no,H6NE02273,,,,,https://deepsyte.app/races/NE/02
+NE,house,02,Brinker Harding,R,no,H6NE02208,2850577.02,313372.85,2026-10-14,,https://deepsyte.app/races/NE/02
+NE,house,02,Denise Powell,D,no,H6NE02174,5093103.99,480473.26,2026-10-14,,https://deepsyte.app/races/NE/02
+NE,house,03,Adrian Smith,R,yes,H6NE03115,2246593.11,1101567.09,2026-10-14,S001172,https://deepsyte.app/races/NE/03
+NE,house,03,David J. Else,OTHER,no,H0NE03217,,,,,https://deepsyte.app/races/NE/03
+NE,house,03,Macey Budke,I,no,H6NE03206,6347.29,326.15,2026-10-14,,https://deepsyte.app/races/NE/03
+NE,house,03,Becky Kelly Stille,D,no,H6NE03180,97390.36,-49.93,2026-10-14,,https://deepsyte.app/races/NE/03
+NE,house,03,Mark Cohen,NON-PARTY,no,H6NE03198,75900.5,15673.93,2026-10-14,,https://deepsyte.app/races/NE/03
+NE,senate,,Chuck Conboy,OTHER,no,S6NE00202,0.02,-88.3,2026-10-14,,https://deepsyte.app/races/NE/senate
+NE,senate,,Robin Richards,OTHER,no,S6NE00210,0,0,2026-10-14,,https://deepsyte.app/races/NE/senate
+NE,senate,,Pete Ricketts,R,yes,S6NE00129,14546959.4,1218138.97,2026-10-14,R000618,https://deepsyte.app/races/NE/senate
+NE,senate,,Mike Marvin,OTHER,no,S6NE00152,27750,0,2026-09-11,,https://deepsyte.app/races/NE/senate
+NE,senate,,Dan Osborn,I,no,S4NE00207,11029845.41,1953183.3,2026-10-14,,https://deepsyte.app/races/NE/senate
+NH,house,01,Stefany Shaheen,D,no,H6NH01321,3247792.08,270732.5,2026-10-14,,https://deepsyte.app/races/NH/01
+NH,house,01,Anthony DiLorenzo,R,no,H6NH01420,6762643.49,983793.86,2026-10-14,,https://deepsyte.app/races/NH/01
+NH,house,02,Maggie Goodlander,D,yes,H4NH02399,5012908.51,1821562.69,2026-10-14,G000604,https://deepsyte.app/races/NH/02
+NH,house,02,Robbie Mahrou,I,no,H6NH02303,,,,,https://deepsyte.app/races/NH/02
+NH,house,02,Lily Tang Williams,R,no,H2NH02260,1443795.73,472229.95,2026-10-14,,https://deepsyte.app/races/NH/02
+NH,senate,,Edmond Laplante,,no,S2NH00223,0,0,,,https://deepsyte.app/races/NH/senate
+NH,senate,,Chris Pappas,D,no,S6NH00141,23703648.39,1984365.82,2026-10-14,,https://deepsyte.app/races/NH/senate
+NH,senate,,John E. Sununu,R,no,S6NH00208,5681528.08,1711396.49,2026-10-14,,https://deepsyte.app/races/NH/senate
+NJ,house,01,Damon Galdo,R,no,H2NJ01187,16219.73,772.28,2026-10-14,,https://deepsyte.app/races/NJ/01
+NJ,house,01,Donald Norcross,D,yes,H4NJ01084,1950972.75,2364759.02,2026-10-14,N000188,https://deepsyte.app/races/NJ/01
+NJ,house,02,Zack Mullock,D,no,H6NJ02251,960948.05,105400.22,2026-10-14,,https://deepsyte.app/races/NJ/02
+NJ,house,02,Ramon Mora Jr.,I,no,H6NJ02269,1139.34,84.59,2026-09-30,,https://deepsyte.app/races/NJ/02
+NJ,house,02,Jefferson Van Drew,R,yes,H8NJ02166,2414607.2,894792.03,2026-10-14,V000133,https://deepsyte.app/races/NJ/02
+NJ,house,03,Steven Welzer,G,no,H4NJ03247,,,,,https://deepsyte.app/races/NJ/03
+NJ,house,03,Herbert C. Conaway,D,yes,H4NJ03080,1152632.36,436316.31,2026-10-14,C001136,https://deepsyte.app/races/NJ/03
+NJ,house,03,Ryan Michael Kelly,I,no,H6NJ03192,5725.29,761.53,2026-10-14,,https://deepsyte.app/races/NJ/03
+NJ,house,03,Michael P. McGuire,R,no,H6NJ03184,221324.29,16575.36,2026-10-14,,https://deepsyte.app/races/NJ/03
+NJ,house,04,Rachel Peace,D,no,H6NJ04257,101425.72,14431.44,2026-10-14,,https://deepsyte.app/races/NJ/04
+NJ,house,04,Christopher H. Smith,R,yes,H8NJ04014,797217.22,553017.29,2026-10-14,S000522,https://deepsyte.app/races/NJ/04
+NJ,house,05,Adam Rueda,I,no,H6NJ05247,,,,,https://deepsyte.app/races/NJ/05
+NJ,house,05,Josh Gottheimer,D,yes,H6NJ05171,5788812.15,13531046.78,2026-10-14,G000583,https://deepsyte.app/races/NJ/05
+NJ,house,05,Sean Kirrane,R,no,H6NJ05221,103741.74,195.94,2026-10-14,,https://deepsyte.app/races/NJ/05
+NJ,house,06,Hillary Herzig,R,no,H6NJ06286,11766,614.28,2026-10-14,,https://deepsyte.app/races/NJ/06
+NJ,house,06,Frank Pallone,D,yes,H8NJ03073,2844906.21,3069516.73,2026-10-14,P000034,https://deepsyte.app/races/NJ/06
+NJ,house,07,Rebecca Bennett,D,no,H6NJ07201,8757003.38,1053454.45,2026-10-14,,https://deepsyte.app/races/NJ/07
+NJ,house,07,Seamus Patrick O'Toole,STOP ISRAEL'S GENOCIDE,no,,,,,,https://deepsyte.app/races/NJ/07
+NJ,house,07,Thomas H. Kean,R,yes,H0NJ07261,6128373.01,1365405.91,2026-10-14,K000398,https://deepsyte.app/races/NJ/07
+NJ,house,08,Robert Menendez,D,yes,H2NJ08232,2236501.68,722399.83,2026-10-14,M001226,https://deepsyte.app/races/NJ/08
+NJ,house,08,Da'Shone Hughey,I,no,H6NJ08217,0,0,,,https://deepsyte.app/races/NJ/08
+NJ,house,08,Aristotle Eliopoulos,I,no,,,,,,https://deepsyte.app/races/NJ/08
+NJ,house,08,Craig Honts,SOCIALIST WORKERS PARTY,no,,,,,,https://deepsyte.app/races/NJ/08
+NJ,house,09,Terrisa Bukovinac,I,no,H6NJ09306,,,,,https://deepsyte.app/races/NJ/09
+NJ,house,09,Rosie Pino,R,no,H6NJ09264,548325.95,13132.56,2026-10-14,,https://deepsyte.app/races/NJ/09
+NJ,house,09,Nellie Pou,D,yes,H4NJ09194,3131321.73,1080499.99,2026-10-14,P000621,https://deepsyte.app/races/NJ/09
+NJ,house,10,LaMonica McIver,D,yes,H4NJ10176,2516563.31,897195.32,2026-10-14,M001229,https://deepsyte.app/races/NJ/10
+NJ,house,10,Carmen Bucco,R,no,H4NJ10135,8931.33,2292.59,2026-10-14,,https://deepsyte.app/races/NJ/10
+NJ,house,11,Joe Hathaway,R,no,H6NJ11211,837601.01,42173.47,2026-10-14,,https://deepsyte.app/races/NJ/11
+NJ,house,11,Analilia Mejia,D,yes,H6NJ11286,2229339.31,115467.18,2026-10-14,M001246,https://deepsyte.app/races/NJ/11
+NJ,house,11,Alan B. Bond,I,no,H6NJ11328,0,0,,,https://deepsyte.app/races/NJ/11
+NJ,house,12,Adam Hamawy,D,no,H6NJ12417,1993156.58,239845.31,2026-10-14,,https://deepsyte.app/races/NJ/12
+NJ,house,12,Gregg Mele,R,no,H2NJ06210,101520.99,13565.94,2026-10-14,,https://deepsyte.app/races/NJ/12
+NJ,house,12,Andres Jinete,G,no,H6NJ12441,0,0,,,https://deepsyte.app/races/NJ/12
+NJ,house,12,Winston Jordan,GET MONEY OUT,no,,,,,,https://deepsyte.app/races/NJ/12
+NJ,senate,,Justin Murphy,R,no,S4NJ00532,68188.87,10190.62,2026-10-14,,https://deepsyte.app/races/NJ/senate
+NJ,senate,,Joanne Kuniansky,SOCIALIST WORKERS PARTY,no,S4NJ00144,0,0,,,https://deepsyte.app/races/NJ/senate
+NJ,senate,,Cory A. Booker,D,yes,S4NJ00185,21275162.52,22899410.72,2026-10-14,B001288,https://deepsyte.app/races/NJ/senate
+NJ,senate,,Veronica Fernandez,I,no,S0NJ00258,,,,,https://deepsyte.app/races/NJ/senate
+NM,house,01,Ndidiamaka Ekwua Charlene Okpareke,R,no,H6NM01129,174529.13,57544.79,2026-10-14,,https://deepsyte.app/races/NM/01
+NM,house,01,Melanie A. Stansbury,D,yes,H2NM01144,1721315.41,310745.93,2026-10-14,S001218,https://deepsyte.app/races/NM/01
+NM,house,02,Gabe Vasquez,D,yes,H2NM02191,5518618.26,496981.55,2026-10-14,V000136,https://deepsyte.app/races/NM/02
+NM,house,02,Gregory G Cunningham,R,no,H6NM02127,2527072.03,343747.31,2026-10-14,,https://deepsyte.app/races/NM/02
+NM,house,03,Martin Zamora,R,no,H6NM03083,605834.13,44752.2,2026-10-14,,https://deepsyte.app/races/NM/03
+NM,house,03,Teresa Leger Fernandez,D,yes,H0NM03102,1578389.15,517397.54,2026-10-14,L000273,https://deepsyte.app/races/NM/03
+NM,senate,,Ben Ray Luján,D,yes,S0NM00058,6460521.86,2843276.35,2026-10-14,L000570,https://deepsyte.app/races/NM/senate
+NM,senate,,Larry E Marker,R,no,S6NM01186,99229.65,88.07,2026-10-14,,https://deepsyte.app/races/NM/senate
+NV,house,01,Carrie Ann Buck,R,no,H6NV01331,2632235.03,184262.87,2026-10-14,,https://deepsyte.app/races/NV/01
+NV,house,01,"Steven ""Chap"" St John",,no,H4NV03134,0,0,,,https://deepsyte.app/races/NV/01
+NV,house,01,"Afzal ""Bobby"" Khan",I,no,H6NV01315,87343.95,350.07,2026-10-14,,https://deepsyte.app/races/NV/01
+NV,house,01,Dina Titus,D,yes,H8NV03036,2055144.17,202234.8,2026-10-14,T000468,https://deepsyte.app/races/NV/01
+NV,house,02,Lynn Chapman,I,no,H4NV02219,0,0,,,https://deepsyte.app/races/NV/02
+NV,house,02,David Flippo,R,no,H4NV04108,2934107.53,161162.06,2026-10-14,,https://deepsyte.app/races/NV/02
+NV,house,02,Teresa F. Benitez-Thompson,D,no,H6NV02362,1054466.93,181849.2,2026-10-14,,https://deepsyte.app/races/NV/02
+NV,house,03,Jon Kamerath,I,no,H4NV03241,,,,,https://deepsyte.app/races/NV/03
+NV,house,03,Marty O'Donnell,R,no,H6NV03204,4864562.94,184548.99,2026-10-14,,https://deepsyte.app/races/NV/03
+NV,house,03,Susie Lee,D,yes,H6NV04020,5942431.93,931293.7,2026-10-14,L000590,https://deepsyte.app/races/NV/03
+NV,house,04,Steven Horsford,D,yes,H2NV04011,4077555.45,821832.87,2026-10-14,H001066,https://deepsyte.app/races/NV/04
+NV,house,04,Cody K. Whipple,R,no,H6NV04111,1217196.83,66379.39,2026-10-14,,https://deepsyte.app/races/NV/04
+NV,house,04,Russell Best,I,no,H0NV02167,,,,,https://deepsyte.app/races/NV/04
+NV,house,04,William Johnson,NO POLITICAL PARTY,no,,,,,,https://deepsyte.app/races/NV/04
+NY,house,01,Nick LaLota,R,yes,H2NY01190,4486088.77,2314992.6,2026-10-14,L000598,https://deepsyte.app/races/NY/01
+NY,house,01,Christopher J. Gallant,D,no,H6NY01159,1735637.7,425993.09,2026-10-14,,https://deepsyte.app/races/NY/01
+NY,house,02,Patrick Halpin,D,no,H6NY02140,586333.53,49442.36,2026-10-14,,https://deepsyte.app/races/NY/02
+NY,house,02,Andrew R. Garbarino,R,yes,H0NY02234,4057667.29,2686930.3,2026-10-14,G000597,https://deepsyte.app/races/NY/02
+NY,house,03,Thomas R. Suozzi,D,yes,H6NY03247,7599603.36,3234341.64,2026-10-14,S001201,https://deepsyte.app/races/NY/03
+NY,house,03,Michael J. LiPetri Jr,R,no,H0NY02267,2584014.08,456872.81,2026-10-14,,https://deepsyte.app/races/NY/03
+NY,house,04,Jeanine C. Driscoll,R,no,H6NY04211,684947.48,2553.08,2026-10-14,,https://deepsyte.app/races/NY/04
+NY,house,04,Blay Tarnoff,I,no,H6NY04237,24572,66,2026-09-30,,https://deepsyte.app/races/NY/04
+NY,house,04,Laura A. Gillen,D,no,H2NY04244,6221631.04,3212650.31,2026-10-14,,https://deepsyte.app/races/NY/04
+NY,house,05,George Marsh,R,no,H6NY05127,,,,,https://deepsyte.app/races/NY/05
+NY,house,05,Gregory W. Meeks,D,yes,H8NY06048,2283140.15,2098240.98,2026-10-14,M001137,https://deepsyte.app/races/NY/05
+NY,house,06,Grace Meng,D,yes,H2NY06116,2199074.16,765124.94,2026-10-14,M001188,https://deepsyte.app/races/NY/06
+NY,house,06,Joseph Chou,R,no,H4NY06047,2578.08,4096.83,2026-10-14,,https://deepsyte.app/races/NY/06
+NY,house,07,Claire Valdez,D,no,H6NY07214,1915867.24,110429.54,2026-10-14,,https://deepsyte.app/races/NY/07
+NY,house,07,Priscilla Ghaznavi,I,no,H6NY07255,40055,13178.58,2026-10-14,,https://deepsyte.app/races/NY/07
+NY,house,07,Melvin Rivera,R,no,H6NY07271,,,,,https://deepsyte.app/races/NY/07
+NY,house,08,Hakeem S. Jeffries,D,yes,H2NY10092,17893352.11,4234848.33,2026-10-14,J000294,https://deepsyte.app/races/NY/08
+NY,house,08,Lewis Mizrahi,R,no,H6NY08188,0,0,,,https://deepsyte.app/races/NY/08
+NY,house,09,Yvette D. Clarke,D,yes,H4NY11138,1288233.88,66298.59,2026-10-14,C001067,https://deepsyte.app/races/NY/09
+NY,house,09,Joel Azumah,R,no,H6NY09145,0,0,,,https://deepsyte.app/races/NY/09
+NY,house,10,Brad Lander,D,no,H6NY10176,2785966.92,80536.2,2026-10-14,,https://deepsyte.app/races/NY/10
+NY,house,10,Jennifer E. Moore,R,no,H6NY10218,2693.46,1525.67,2026-09-30,,https://deepsyte.app/races/NY/10
+NY,house,11,Mike DeCillis,D,no,H6NY11265,183305.5,107888.45,2026-10-14,,https://deepsyte.app/races/NY/11
+NY,house,11,Nicole Malliotakis,R,yes,H0NY11078,3315036.94,2788339.69,2026-10-14,M000317,https://deepsyte.app/races/NY/11
+NY,house,12,Micah C. Lasher,D,no,H6NY12172,3493973.6,309209.29,2026-10-14,,https://deepsyte.app/races/NY/12
+NY,house,12,Wilneida Negron,INDEPENDENCE PARTY,no,H6NY12313,57807.2,6086.87,2026-09-30,,https://deepsyte.app/races/NY/12
+NY,house,12,Caroline Shinkle,R,no,H6NY12404,272962.88,126423.53,2026-10-14,,https://deepsyte.app/races/NY/12
+NY,house,12,Karen Ortiz,I,no,H6NY12297,47330.11,13925.92,2026-10-14,,https://deepsyte.app/races/NY/12
+NY,house,13,Jomo M. Williams,R,no,H6NY13303,,,,,https://deepsyte.app/races/NY/13
+NY,house,13,Darializa Avila Chevalier,D,no,H6NY13279,1603708.74,154560.49,2026-10-14,,https://deepsyte.app/races/NY/13
+NY,house,14,Diamant Hysenaj,R,no,H6NY14251,446003.85,40670.79,2026-10-14,,https://deepsyte.app/races/NY/14
+NY,house,14,Alexandria Ocasio-Cortez,D,yes,H8NY15148,38029039.1,17575300.57,2026-10-14,O000172,https://deepsyte.app/races/NY/14
+NY,house,15,Andre Easton,I,no,H6NY15167,93798.98,827.94,2026-10-14,,https://deepsyte.app/races/NY/15
+NY,house,15,Jose Vega,SPEAK THE TRUTH,no,H4NY15147,344809.74,5641.78,2026-10-14,,https://deepsyte.app/races/NY/15
+NY,house,15,Gonzalo Duran,CONSERVATIVE PARTY,no,H4NY15154,0,0,,,https://deepsyte.app/races/NY/15
+NY,house,15,Ritchie Torres,D,yes,H0NY15160,7172392.64,13835641.98,2026-10-14,T000486,https://deepsyte.app/races/NY/15
+NY,house,15,Stylo Sapaskis,R,no,H6NY16140,,,,,https://deepsyte.app/races/NY/15
+NY,house,16,Joseph J. Cinquemani,R,no,H4NY07052,0,0,,,https://deepsyte.app/races/NY/16
+NY,house,16,George Latimer,D,yes,H4NY16087,681937.92,133517.98,2026-10-14,L000606,https://deepsyte.app/races/NY/16
+NY,house,17,Cait Conley,D,no,H6NY17171,10706692.07,948539.5,2026-10-14,,https://deepsyte.app/races/NY/17
+NY,house,17,Michael Lawler,R,yes,H2NY17162,10317627.15,1959524.06,2026-10-14,L000599,https://deepsyte.app/races/NY/17
+NY,house,18,Jackie Mary Auringer,R,no,H6NY18252,158702.7,21703.01,2026-10-14,,https://deepsyte.app/races/NY/18
+NY,house,18,Patrick Ryan,D,yes,H8NY19223,5359733.43,2543836.96,2026-10-14,R000579,https://deepsyte.app/races/NY/18
+NY,house,19,Josh Riley,D,yes,H8NY22177,5986868.69,1791678.67,2026-10-14,R000622,https://deepsyte.app/races/NY/19
+NY,house,19,Peter K. Oberacker,R,no,H6NY19268,1424570.72,23155.49,2026-10-14,,https://deepsyte.app/races/NY/19
+NY,house,20,Ralph F. Ambrosio,R,no,H6NY20225,61545.17,7342.65,2026-10-14,,https://deepsyte.app/races/NY/20
+NY,house,20,Paul Tonko,D,yes,H8NY21203,1247202.32,490736,2026-10-14,T000469,https://deepsyte.app/races/NY/20
+NY,house,21,Anthony Constantino,R,no,H6NY21157,14464951.19,2298984.48,2026-10-14,,https://deepsyte.app/races/NY/21
+NY,house,21,Blake Gendebien,D,no,H6NY21199,7655529.27,364011.8,2026-10-14,,https://deepsyte.app/races/NY/21
+NY,house,22,Kailee Buller,R,no,H6NY22213,464688.44,160138.09,2026-10-14,,https://deepsyte.app/races/NY/22
+NY,house,22,John W. Mannion,D,yes,H4NY22085,3240826.28,1016371.51,2026-10-14,M001231,https://deepsyte.app/races/NY/22
+NY,house,23,Nicholas A. Langworthy,R,yes,H2NY23228,2675792.78,1994176.7,2026-10-14,L000600,https://deepsyte.app/races/NY/23
+NY,house,23,Aaron Gies,D,no,H6NY23559,678483.72,54077.18,2026-10-14,,https://deepsyte.app/races/NY/23
+NY,house,24,Alissa J. Ellman,D,no,H6NY24219,452166.23,46242.36,2026-10-14,,https://deepsyte.app/races/NY/24
+NY,house,24,Claudia Tenney,R,yes,H4NY22051,3084890.79,835740.92,2026-10-14,T000478,https://deepsyte.app/races/NY/24
+NY,house,25,Joseph D. Morelle,D,yes,H8NY25105,2247172.87,468122.33,2026-10-14,M001206,https://deepsyte.app/races/NY/25
+NY,house,25,Virginia E. McIntyre,R,no,H6NY25208,55458.88,-10855.17,2026-10-14,,https://deepsyte.app/races/NY/25
+NY,house,26,Timothy M. Kennedy,D,yes,H4NY26078,2761024.83,1208991.19,2026-10-14,K000402,https://deepsyte.app/races/NY/26
+NY,house,26,Dennis E. Hannon,R,no,H6NY26131,5525,4438.2,2026-10-14,,https://deepsyte.app/races/NY/26
+OH,house,01,Greg Landsman,D,yes,H2OH01194,5662206.21,502951.51,2026-10-14,L000601,https://deepsyte.app/races/OH/01
+OH,house,01,Nathan Weise,L,no,H6OH01229,0,0,,,https://deepsyte.app/races/OH/01
+OH,house,01,Eric Conroy,R,no,H6OH01138,2372636.84,293397.1,2026-10-14,,https://deepsyte.app/races/OH/01
+OH,house,02,David J. Taylor,R,yes,H4OH02248,1768914.66,707173.53,2026-10-14,T000490,https://deepsyte.app/races/OH/02
+OH,house,02,Jen Mazzuckelli,D,no,H6OH02326,,,,,https://deepsyte.app/races/OH/02
+OH,house,03,Cleophus Dulaney,R,no,H0OH03137,0,0,,,https://deepsyte.app/races/OH/03
+OH,house,03,Joyce Beatty,D,yes,H2OH03125,1454156.27,2731736.69,2026-10-14,B001281,https://deepsyte.app/races/OH/03
+OH,house,04,Tracey L. Tackett,NONPARTY,no,,,,,,https://deepsyte.app/races/OH/04
+OH,house,04,Jim Jordan,R,yes,H6OH04082,5617701.79,3051862.98,2026-10-14,J000289,https://deepsyte.app/races/OH/04
+OH,house,04,Joshua D. Kolasinski,D,no,H6OH04181,26211.45,3849.91,2026-10-14,,https://deepsyte.app/races/OH/04
+OH,house,05,Brian A. Shaver,D,no,H6OH05154,59139.52,39322.55,2026-10-14,,https://deepsyte.app/races/OH/05
+OH,house,05,Robert E. Latta,R,yes,H8OH05036,1772110.3,799134.37,2026-10-14,L000566,https://deepsyte.app/races/OH/05
+OH,house,05,Michael J. Veloff,L,no,,,,,,https://deepsyte.app/races/OH/05
+OH,house,06,Michael A. Rulli,R,yes,H4OH06165,1419956.8,417633.29,2026-10-14,R000619,https://deepsyte.app/races/OH/06
+OH,house,06,Elizabeth Kirtley,D,no,H6OH06244,11431.98,4373.21,2026-10-14,,https://deepsyte.app/races/OH/06
+OH,house,07,Brian Poindexter,D,no,H6OH07168,3720341.61,793675.2,2026-10-14,,https://deepsyte.app/races/OH/07
+OH,house,07,Max L. Miller,R,yes,H2OH16051,3324941.88,135628.83,2026-10-14,M001222,https://deepsyte.app/races/OH/07
+OH,house,08,Warren Davidson,R,yes,H6OH08315,757166.3,298274.28,2026-10-14,D000626,https://deepsyte.app/races/OH/08
+OH,house,08,Vanessa Enoch,D,no,H8OH08097,3125.21,-727.22,2026-10-14,,https://deepsyte.app/races/OH/08
+OH,house,09,Derek Merrin,R,no,H4OH09169,2217820.58,449466.16,2026-10-14,,https://deepsyte.app/races/OH/09
+OH,house,09,Marcy Kaptur,D,yes,H2OH09031,5910480.74,697507.52,2026-10-14,K000009,https://deepsyte.app/races/OH/09
+OH,house,10,Thomas F. McMasters,L,no,H6OH10113,,,,,https://deepsyte.app/races/OH/10
+OH,house,10,Kristina Knickerbocker,D,no,H6OH10121,1015877.85,133444.92,2026-10-14,,https://deepsyte.app/races/OH/10
+OH,house,10,Michael R. Turner,R,yes,H2OH03067,1315093.78,325250.06,2026-10-14,T000463,https://deepsyte.app/races/OH/10
+OH,house,11,Shontel M. Brown,D,yes,H2OH11169,1566468.32,1244616.95,2026-10-14,B001313,https://deepsyte.app/races/OH/11
+OH,house,11,Mike Kirchner,R,no,H6OH11210,,,,,https://deepsyte.app/races/OH/11
+OH,house,12,Jerrad Christian,D,no,H4OH12080,139968.16,24078.87,2026-10-14,,https://deepsyte.app/races/OH/12
+OH,house,12,Troy Balderson,R,yes,H8OH12180,2187393.46,1062978.76,2026-10-14,B001306,https://deepsyte.app/races/OH/12
+OH,house,13,Carey Coleman,R,no,H6OH13307,169537.46,62793.16,2026-10-14,,https://deepsyte.app/races/OH/13
+OH,house,13,Sandeep Dixit,I,no,H6OH13273,92372,2044.25,2026-10-14,,https://deepsyte.app/races/OH/13
+OH,house,13,Emilia Strong Sykes,D,yes,H2OH13264,3990518.8,941757.91,2026-10-14,S001223,https://deepsyte.app/races/OH/13
+OH,house,14,David P. Joyce,R,yes,H2OH14064,1763173.71,2201695.66,2026-10-14,J000295,https://deepsyte.app/races/OH/14
+OH,house,14,Maria Jukic,D,no,H6OH14248,118360.32,38447.18,2026-10-14,,https://deepsyte.app/races/OH/14
+OH,house,15,Don Leonard,D,no,H6OH15112,1329843.67,97706.71,2026-10-14,,https://deepsyte.app/races/OH/15
+OH,house,15,Brennan Barrington,L,no,H6OH15138,0,0,,,https://deepsyte.app/races/OH/15
+OH,house,15,Mike Carey,R,yes,H2OH15228,4184981.49,370343.07,2026-10-14,C001126,https://deepsyte.app/races/OH/15
+OH,senate,,Sherrod Brown,D,no,S6OH00163,68409199.85,4452803.32,2026-10-14,,https://deepsyte.app/races/OH/senate
+OH,senate,,Greg Levy,I,no,S6OH00395,132711.94,26915.85,2026-10-14,,https://deepsyte.app/races/OH/senate
+OH,senate,,William B. Redpath,L,no,S6OH00429,55255.7,8255.26,2026-10-14,,https://deepsyte.app/races/OH/senate
+OH,senate,,Jon Husted,R,yes,S6OH00304,19894785.94,4239096.57,2026-10-22,H001104,https://deepsyte.app/races/OH/senate
+OK,house,01,Mark Tedford,R,no,H6OK01235,2490273.7,157345.07,2026-10-14,,https://deepsyte.app/races/OK/01
+OK,house,01,John Croisant,D,no,H6OK01201,217468.86,38289.12,2026-10-14,,https://deepsyte.app/races/OK/01
+OK,house,02,Ronnie Hopkins,I,no,H4OK02204,0,0,,,https://deepsyte.app/races/OK/02
+OK,house,02,Brandon Wade,D,no,H4OK02196,7983.28,-279.63,2026-10-14,,https://deepsyte.app/races/OK/02
+OK,house,02,Josh Brecheen,R,yes,H2OK02315,250175.81,71200.53,2026-10-14,B001317,https://deepsyte.app/races/OK/02
+OK,house,03,Suzie Byrd,D,no,H6OK03272,18188.03,9508.17,2026-10-14,,https://deepsyte.app/races/OK/03
+OK,house,03,Frank D. Lucas,R,yes,H4OK06056,1055084.93,570473.65,2026-10-14,L000491,https://deepsyte.app/races/OK/03
+OK,house,04,Tom Cole,R,yes,H2OK04055,4281680.96,2370394.67,2026-10-14,C001053,https://deepsyte.app/races/OK/04
+OK,house,04,Mitchell Jacob,D,no,H6OK04155,121499.59,19450.64,2026-10-14,,https://deepsyte.app/races/OK/04
+OK,house,04,Rocco Bonacci,I,no,,,,,,https://deepsyte.app/races/OK/04
+OK,house,05,Robert P. Henri,I,no,H6OK05301,6361,1672,2026-10-14,,https://deepsyte.app/races/OK/05
+OK,house,05,Stephanie I. Bice,R,yes,H0OK05205,2476528.64,1123989.45,2026-10-14,B000740,https://deepsyte.app/races/OK/05
+OK,house,05,Jena Nelson,D,no,H6OK05293,821988.98,108542.56,2026-10-14,,https://deepsyte.app/races/OK/05
+OK,house,05,Austin Nieves,I,no,H4OK04176,,,,,https://deepsyte.app/races/OK/05
+OK,senate,,Curtis Stinnett,I,no,,,,,,https://deepsyte.app/races/OK/senate
+OK,senate,,Kevin Hern,R,no,S6OK04247,10862233.27,2811986.68,2026-10-14,,https://deepsyte.app/races/OK/senate
+OK,senate,,N'Kiyla Jasmine Thomas,D,no,S6OK04163,115953.98,24101.59,2026-10-14,,https://deepsyte.app/races/OK/senate
+OK,senate,,Ron Meinhardt,I,no,S6OK04205,15902.61,1596.07,2026-10-14,,https://deepsyte.app/races/OK/senate
+OK,senate,,Sevier White,L,no,,,,,,https://deepsyte.app/races/OK/senate
+OR,house,01,Barbara J Kahl,R,no,H6OR01308,17728.49,5412.46,2026-10-14,,https://deepsyte.app/races/OR/01
+OR,house,01,Suzanne Bonamici,D,yes,H2OR01133,1025138.44,518633.9,2026-10-14,B001278,https://deepsyte.app/races/OR/01
+OR,house,02,Cliff Bentz,R,yes,H0OR02127,1339191.81,1440096.37,2026-10-14,B000668,https://deepsyte.app/races/OR/02
+OR,house,02,Chris Beck,D,no,H6OR02322,276514.73,112665.75,2026-10-14,,https://deepsyte.app/races/OR/02
+OR,house,03,Maxine Dexter,D,yes,H4OR03192,1297974.78,188640.2,2026-10-14,D000635,https://deepsyte.app/races/OR/03
+OR,house,03,Loran Ayles,R,no,H6OR03197,0,0,,,https://deepsyte.app/races/OR/03
+OR,house,04,Val T. Hoyle,D,yes,H2OR04095,1652428.49,186655.55,2026-10-14,H001094,https://deepsyte.app/races/OR/04
+OR,house,04,Monique DeSpain,R,no,H6OR04260,921875.97,153575.74,2026-10-14,,https://deepsyte.app/races/OR/04
+OR,house,04,Justin Filip,G,no,H4OR04141,4636,3616.45,2026-09-30,,https://deepsyte.app/races/OR/04
+OR,house,05,Janelle S. Bynum,D,yes,H4OR05304,4737331.62,2175981.11,2026-10-14,B001326,https://deepsyte.app/races/OR/05
+OR,house,05,Andrea Townsend,G,no,H4OR05379,0,0,,,https://deepsyte.app/races/OR/05
+OR,house,05,Patti Adair,R,no,H6OR05242,682238.95,122584.64,2026-10-14,,https://deepsyte.app/races/OR/05
+OR,house,06,Andrea Salinas,D,yes,H2OR06066,1984298.52,636057.38,2026-10-14,S001226,https://deepsyte.app/races/OR/06
+OR,house,06,David Russ,R,no,H2OR01240,13165.84,-549.9,2026-10-14,,https://deepsyte.app/races/OR/06
+OR,senate,,Chris Henry,PROGRESSIVE PARTY,no,S2OR00234,,,,,https://deepsyte.app/races/OR/senate
+OR,senate,,David Brock Smith,R,no,S6OR05218,311173.65,44197.69,2026-10-14,,https://deepsyte.app/races/OR/senate
+OR,senate,,Gary Lyndon Dye,L,no,S0OR00378,0,0,,,https://deepsyte.app/races/OR/senate
+OR,senate,,Jeff Merkley,D,yes,S8OR00207,5376935.12,6621250.26,2026-10-14,M001176,https://deepsyte.app/races/OR/senate
+PA,house,01,Robert J. Harvie Jr.,D,no,H6PA01181,3167942.07,409412.54,2026-10-14,,https://deepsyte.app/races/PA/01
+PA,house,01,Brian K. Fitzpatrick,R,yes,H6PA08277,8021375.59,709096.9,2026-10-14,F000466,https://deepsyte.app/races/PA/01
+PA,house,02,Jessica Arriaga,R,no,H6PA02205,0,0,,,https://deepsyte.app/races/PA/02
+PA,house,02,Brendan F. Boyle,D,yes,H4PA13199,2883854.83,5894246.92,2026-10-14,B001296,https://deepsyte.app/races/PA/02
+PA,house,03,Christopher M. Rabb,D,no,H6PA03203,1457911.98,90879.98,2026-10-14,,https://deepsyte.app/races/PA/03
+PA,house,03,Dennis Joseph Mahoney,I,no,H6PA03369,37384.63,2564.91,2026-09-30,,https://deepsyte.app/races/PA/03
+PA,house,04,Madeleine Dean,D,yes,H8PA04116,1966147.94,1360165.01,2026-10-14,D000631,https://deepsyte.app/races/PA/04
+PA,house,04,Aurora Stuski,R,no,H6PA04169,9750,2353.74,2026-10-14,,https://deepsyte.app/races/PA/04
+PA,house,05,Nicholas W. Manganaro,R,no,H6PA05216,21318.18,9334.8,2026-10-14,,https://deepsyte.app/races/PA/05
+PA,house,05,Mary Gay Scanlon,D,yes,H8PA07200,1340757.14,471706.2,2026-10-14,S001205,https://deepsyte.app/races/PA/05
+PA,house,06,Martin Young,R,no,H6PA06156,459245.16,101641.08,2026-10-14,,https://deepsyte.app/races/PA/06
+PA,house,06,Chrissy Houlahan,D,yes,H8PA06087,2086891.23,4147728.28,2026-10-14,H001085,https://deepsyte.app/races/PA/06
+PA,house,07,Robert R. Brooks,D,no,H6PA07188,5347353.38,741578.51,2026-10-14,,https://deepsyte.app/races/PA/07
+PA,house,07,Ryan Mackenzie,R,yes,H8PA15195,5296663.91,1069992.58,2026-10-14,M001230,https://deepsyte.app/races/PA/07
+PA,house,08,Robert P. Bresnahan,R,yes,H4PA08124,6519139.21,732723.63,2026-10-14,B001327,https://deepsyte.app/races/PA/08
+PA,house,08,Paige Cognetti,D,no,H6PA08293,7502359.43,243672.01,2026-10-14,,https://deepsyte.app/races/PA/08
+PA,house,09,Daniel Meuser,R,yes,H8PA10147,2129641.48,29790.59,2026-10-14,M001204,https://deepsyte.app/races/PA/09
+PA,house,09,Rachel Lillian Wallace,D,no,H6PA09127,1145383.4,250759.27,2026-10-14,,https://deepsyte.app/races/PA/09
+PA,house,10,Janelle Stelson,D,no,H4PA10104,9234259.74,2069306.31,2026-10-14,,https://deepsyte.app/races/PA/10
+PA,house,10,Scott Perry,R,yes,H2PA04135,6791519.08,1023569.23,2026-10-14,P000605,https://deepsyte.app/races/PA/10
+PA,house,11,Lloyd Smucker,R,yes,H6PA16320,1854590.36,258808.23,2026-10-14,S001199,https://deepsyte.app/races/PA/11
+PA,house,11,Nancy Ellen Mannion,D,no,H6PA11099,320443.98,39680.59,2026-10-14,,https://deepsyte.app/races/PA/11
+PA,house,12,Summer L. Lee,D,yes,H2PA18200,1630367.66,1713225.12,2026-10-14,L000602,https://deepsyte.app/races/PA/12
+PA,house,12,James Kevin Hayes,R,no,H4PA12068,80533.61,11273.53,2026-10-14,,https://deepsyte.app/races/PA/12
+PA,house,13,John Joyce,R,yes,H8PA13125,2755439.79,3587578.06,2026-10-14,J000302,https://deepsyte.app/races/PA/13
+PA,house,13,Elizabeth Rhoads Farnham,D,no,H4PA13298,107708.27,25091.68,2026-10-14,,https://deepsyte.app/races/PA/13
+PA,house,14,Guy Reschenthaler,R,yes,H8PA18199,5037694.9,713105.29,2026-10-14,R000610,https://deepsyte.app/races/PA/14
+PA,house,14,David Alan Bradstock,D,no,H6PA14200,406025.96,72836.63,2026-10-14,,https://deepsyte.app/races/PA/14
+PA,house,15,Glenn Thompson,R,yes,H8PA05071,2152943.64,703946.49,2026-10-14,T000467,https://deepsyte.app/races/PA/15
+PA,house,15,Ray Bilger,D,no,H6PA15181,230753.32,88914.46,2026-10-14,,https://deepsyte.app/races/PA/15
+PA,house,16,Mike Kelly,R,yes,H0PA03271,1414934.57,1039192.4,2026-10-14,K000376,https://deepsyte.app/races/PA/16
+PA,house,16,Justin Reed Wagner,D,no,H6PA16379,247119.36,62854.43,2026-10-14,,https://deepsyte.app/races/PA/16
+PA,house,17,Anthony G. Guy,R,no,H6PA17203,211631.91,26090.05,2026-10-14,,https://deepsyte.app/races/PA/17
+PA,house,17,Christopher R. Deluzio,D,yes,H2PA17103,3815970.07,1223960.02,2026-10-14,D000530,https://deepsyte.app/races/PA/17
+RI,house,01,Kellie Eleanor Keenan,R,no,H6RI01153,15435.44,1465.44,2026-10-14,,https://deepsyte.app/races/RI/01
+RI,house,01,Pedro Junior Soares De Souza,I,no,H6RI01161,13117.74,111.57,2026-10-14,,https://deepsyte.app/races/RI/01
+RI,house,01,Gabe Amo,D,yes,H4RI01265,1952763.16,1998865.12,2026-10-14,A000380,https://deepsyte.app/races/RI/01
+RI,house,02,Victor Gilbert Mellor,R,no,H6RI02318,3885928.85,44352.63,2026-10-14,,https://deepsyte.app/races/RI/02
+RI,house,02,Seth Magaziner,D,yes,H2RI02184,1612494.98,1580193.79,2026-10-14,M001223,https://deepsyte.app/races/RI/02
+RI,senate,,Raymond T McKay,R,no,S4RI00051,207230.98,8357.31,2026-10-14,,https://deepsyte.app/races/RI/senate
+RI,senate,,Michael Anthony Bahry,I,no,S6RI00288,125116.13,92617.28,2026-10-14,,https://deepsyte.app/races/RI/senate
+RI,senate,,Jack Reed,D,yes,S6RI00163,3727368.44,1883532.16,2026-10-14,R000122,https://deepsyte.app/races/RI/senate
+SC,house,01,Jenny Costa Honeycutt,R,no,H6SC01334,1291995.81,308018.29,2026-10-14,,https://deepsyte.app/races/SC/01
+SC,house,01,Nancy Lacore,D,no,H6SC01359,4865629.69,175304.35,2026-10-14,,https://deepsyte.app/races/SC/01
+SC,house,01,Bill Reeside,L,no,H6SC01342,115492.05,3660.08,2026-10-14,,https://deepsyte.app/races/SC/01
+SC,house,02,Zyon Khalifa,D,no,H6SC02167,29039.07,7148.35,2026-10-14,,https://deepsyte.app/races/SC/02
+SC,house,02,Joe Wilson,R,yes,H2SC02059,1017185.81,137248.89,2026-10-14,W000795,https://deepsyte.app/races/SC/02
+SC,house,02,Dayna Alane Smith,WORKERS PARTY,no,,,,,,https://deepsyte.app/races/SC/02
+SC,house,03,Eunice Lehmacher,D,no,H6SC03090,98662.38,21975.76,2026-10-14,,https://deepsyte.app/races/SC/03
+SC,house,03,Brian Corriea,L,no,,,,,,https://deepsyte.app/races/SC/03
+SC,house,03,Sheri Biggs,R,yes,H4SC01313,706778.72,201218,2026-10-14,B001325,https://deepsyte.app/races/SC/03
+SC,house,04,Courtney McClain,D,no,H6SC04171,130729.56,50464.65,2026-10-14,,https://deepsyte.app/races/SC/04
+SC,house,04,Jessica Ethridge,L,no,H6SC04197,963.04,480.03,2026-09-30,,https://deepsyte.app/races/SC/04
+SC,house,04,William R. Timmons,R,yes,H8SC04250,1774179.99,85603.37,2026-10-14,T000480,https://deepsyte.app/races/SC/04
+SC,house,05,Mallory Dittmer,D,no,H6SC05228,226553.04,79564.17,2026-10-14,,https://deepsyte.app/races/SC/05
+SC,house,05,Wes Climer,R,no,H6SC05202,1132483.52,269169.46,2026-10-14,,https://deepsyte.app/races/SC/05
+SC,house,06,James E. Clyburn,D,yes,H2SC02042,1687457.55,1827711.11,2026-10-14,C000537,https://deepsyte.app/races/SC/06
+SC,house,06,John Peterson,R,no,H6SC06184,,,,,https://deepsyte.app/races/SC/06
+SC,house,07,John Gregory Vincent,D,no,H6SC07034,640418.73,70347.29,2026-10-14,,https://deepsyte.app/races/SC/07
+SC,house,07,Russell Fry,R,yes,H2SC07280,1985244.19,159187.48,2026-10-14,F000478,https://deepsyte.app/races/SC/07
+SC,senate,,Darline Graham,R,no,S6SC04437,1917646.09,634429.9,2026-10-14,,https://deepsyte.app/races/SC/senate
+SC,senate,,Mark Hackett,C,no,,,,,,https://deepsyte.app/races/SC/senate
+SC,senate,,Kasie Whitener,L,no,S6SC04247,27614.81,5781.46,2026-10-14,,https://deepsyte.app/races/SC/senate
+SC,senate,,Annie Andrews,D,no,S6SC04239,24216840.67,1709465.53,2026-10-14,,https://deepsyte.app/races/SC/senate
+SD,house,00,"Nicole ""Nikki"" Gronli",D,no,H6SD01141,421803.07,22490.73,2026-10-14,,https://deepsyte.app/races/SD/00
+SD,house,00,Marty Jackley,R,no,H6SD01109,1737520.15,1050140.78,2026-10-14,,https://deepsyte.app/races/SD/00
+SD,senate,,Mike Rounds,R,yes,S4SD00049,3810748.34,1295542.92,2026-10-14,R000605,https://deepsyte.app/races/SD/senate
+SD,senate,,Brian L Bengs,I,no,S6SD01117,1855763.43,69708.46,2026-10-14,,https://deepsyte.app/races/SD/senate
+TN,house,01,Kristi Burke,D,no,H6TN01537,222584.71,27317.94,2026-10-14,,https://deepsyte.app/races/TN/01
+TN,house,01,Diana Harshbarger,R,yes,H0TN01118,1536325.23,1898700,2026-10-14,H001086,https://deepsyte.app/races/TN/01
+TN,house,01,Chris Campbell,I,no,,,,,,https://deepsyte.app/races/TN/01
+TN,house,01,Richard G. Baker,I,no,H0TN01191,,,,,https://deepsyte.app/races/TN/01
+TN,house,01,Billy Cody,I,no,,,,,,https://deepsyte.app/races/TN/01
+TN,house,01,Joshua Ray Ashburn,I,no,,,,,,https://deepsyte.app/races/TN/01
+TN,house,01,Tyler Brice Mitchell McClain,I,no,,,,,,https://deepsyte.app/races/TN/01
+TN,house,02,Bruce Fine,I,no,,,,,,https://deepsyte.app/races/TN/02
+TN,house,02,Adam Heimerman,I,no,H6TN02188,,,,,https://deepsyte.app/races/TN/02
+TN,house,02,Tim Burchett,R,yes,H8TN02119,3131314.7,914110.98,2026-10-14,B001309,https://deepsyte.app/races/TN/02
+TN,house,02,Michaela Barnett,D,no,H6TN02170,717841.92,130250.53,2026-10-14,,https://deepsyte.app/races/TN/02
+TN,house,03,Dean Arnold,I,no,,,,,,https://deepsyte.app/races/TN/03
+TN,house,03,Jean Howard-Hill,I,no,H4TN03165,,,,,https://deepsyte.app/races/TN/03
+TN,house,03,Rodney Joe King,I,no,H6TN03251,7810,5,2026-09-30,,https://deepsyte.app/races/TN/03
+TN,house,03,"Charles J. ""Chuck"" Fleischmann",R,yes,H0TN03254,2728033.85,4895445.11,2026-10-14,F000459,https://deepsyte.app/races/TN/03
+TN,house,03,Anna Golladay,D,no,H6TN03228,164743.76,43309.43,2026-10-14,,https://deepsyte.app/races/TN/03
+TN,house,03,Edward John Roland,I,no,H6TN03244,,,,,https://deepsyte.app/races/TN/03
+TN,house,03,Donnie Lynn Ownby,NONE,no,H6TN03210,0,0,,,https://deepsyte.app/races/TN/03
+TN,house,04,Clay Faircloth,I,no,H2TN06188,0,0,,,https://deepsyte.app/races/TN/04
+TN,house,04,Jacob Kristopher Anders,I,no,H6TN04242,2267.06,805.4,2026-09-30,,https://deepsyte.app/races/TN/04
+TN,house,04,Victoria Broderick,D,no,H4TN04270,94216.96,11847.54,2026-10-14,,https://deepsyte.app/races/TN/04
+TN,house,04,Scott DesJarlais,R,yes,H0TN04195,667181.2,525033.64,2026-10-14,D000616,https://deepsyte.app/races/TN/04
+TN,house,05,Chaz Molder,D,no,H6TN05397,3531777.7,560495.2,2026-10-14,,https://deepsyte.app/races/TN/05
+TN,house,05,Charlie Hatcher,R,no,H6TN05405,1803850.94,474542.75,2026-10-14,,https://deepsyte.app/races/TN/05
+TN,house,05,James A. Johnson,I,no,H6TN05447,0,0,,,https://deepsyte.app/races/TN/05
+TN,house,05,Micheál (Me-Haul) O'Leary,I,no,H6TN05462,0,0,2026-10-14,,https://deepsyte.app/races/TN/05
+TN,house,06,Christopher B. Monday,UNAFFILIATED,no,H6TN06189,0,0,,,https://deepsyte.app/races/TN/06
+TN,house,06,Mike Croley,D,no,H6TN06171,117167.7,14341.64,2026-10-14,,https://deepsyte.app/races/TN/06
+TN,house,06,Angus Purdy,I,no,,,,,,https://deepsyte.app/races/TN/06
+TN,house,06,Johnny Garrett,R,no,H6TN06213,3000586.11,343417.99,2026-10-14,,https://deepsyte.app/races/TN/06
+TN,house,07,Matt Van Epps,R,yes,H6TN07161,2646914.76,358455.25,2026-10-14,V000139,https://deepsyte.app/races/TN/07
+TN,house,07,Lowell Reynolds,I,no,H6TN05330,0,0,,,https://deepsyte.app/races/TN/07
+TN,house,07,Darden Copeland,D,no,H6TN07286,1257202.49,73685.88,2026-10-14,,https://deepsyte.app/races/TN/07
+TN,house,07,Andrew J. Koontz,I,no,H6TN06288,5100,4970.23,2026-10-14,,https://deepsyte.app/races/TN/07
+TN,house,08,Adam D. Austill,NONE,no,H6TN08383,0,0,,,https://deepsyte.app/races/TN/08
+TN,house,08,"Henry J. Ward, III",I,no,,,,,,https://deepsyte.app/races/TN/08
+TN,house,08,Horace Taylor,I,no,H6TN08342,8119,145,2026-10-14,,https://deepsyte.app/races/TN/08
+TN,house,08,Antonio Futch,I,no,H6TN08391,,,,,https://deepsyte.app/races/TN/08
+TN,house,08,"Wendell ""Wells"" Blankenship",I,no,,,,,,https://deepsyte.app/races/TN/08
+TN,house,08,David Kustoff,R,yes,H2TN07103,2585196.73,2719271.07,2026-10-14,K000392,https://deepsyte.app/races/TN/08
+TN,house,08,Heidi Kuhn,D,no,H6TN08367,112308.98,6588.62,2026-10-14,,https://deepsyte.app/races/TN/08
+TN,house,08,"Pamela Jeanine ""P."" Moses",I,no,,,,,,https://deepsyte.app/races/TN/08
+TN,house,09,Brent Taylor,R,no,H6TN09464,2832273.18,524251.29,2026-10-14,,https://deepsyte.app/races/TN/09
+TN,house,09,Dennis Clark,I,no,H0TN09111,,,,,https://deepsyte.app/races/TN/09
+TN,house,09,Michelle Davis Head,I,no,,,,,,https://deepsyte.app/races/TN/09
+TN,house,09,Justin J. Pearson,D,no,H6TN09449,4009058.26,746128.25,2026-10-14,,https://deepsyte.app/races/TN/09
+TN,senate,,Jeremy Dean Hearn,I,no,,,,,,https://deepsyte.app/races/TN/senate
+TN,senate,,"Catherine Barcel ""Barcy"" Whitson",I,no,S6TN00414,,,,,https://deepsyte.app/races/TN/senate
+TN,senate,,Yoshi D. Matthews,I,no,S6TN00364,47.25,-2083.01,2026-10-14,,https://deepsyte.app/races/TN/senate
+TN,senate,,Bill Hagerty,R,yes,S0TN00169,8422210.63,4956454.97,2026-10-14,H000601,https://deepsyte.app/races/TN/senate
+TN,senate,,Robert Jones,I,no,S6TN00372,12300,706.97,2026-10-14,,https://deepsyte.app/races/TN/senate
+TN,senate,,Andrew Gerena,I,no,,,,,,https://deepsyte.app/races/TN/senate
+TN,senate,,Marquita Bradshaw,D,no,S4TN00542,35195.38,8251.62,2026-10-14,,https://deepsyte.app/races/TN/senate
+TN,senate,,"David Sutman, Jr.",I,no,S6TN00398,26349.47,500,2026-10-14,,https://deepsyte.app/races/TN/senate
+TN,senate,,Tharon Chandler,I,no,S4TN00583,,,,,https://deepsyte.app/races/TN/senate
+TN,senate,,James William Macon III,I,no,,,,,,https://deepsyte.app/races/TN/senate
+TX,house,01,Yolanda R. Prince,D,no,H6TX01352,33181.85,8231.92,2026-10-14,,https://deepsyte.app/races/TX/01
+TX,house,01,Nathaniel Moran,R,yes,H2TX01112,2380646.71,959562.96,2026-10-14,M001224,https://deepsyte.app/races/TX/01
+TX,house,02,Steve Toth,R,no,H6TX08175,1035120.97,112380.1,2026-10-14,,https://deepsyte.app/races/TX/02
+TX,house,02,Shaun Finnie,D,no,H6TX02251,3158587.64,261648.6,2026-10-14,,https://deepsyte.app/races/TX/02
+TX,house,03,Evan Hunt,D,no,H6TX03234,702785.91,56115.33,2026-10-14,,https://deepsyte.app/races/TX/03
+TX,house,03,Keith Self,R,no,H2TX00064,887245.18,292331.38,2026-10-14,,https://deepsyte.app/races/TX/03
+TX,house,04,Pat Fallon,R,yes,H0TX04219,1024466.07,1099394.54,2026-10-14,F000246,https://deepsyte.app/races/TX/04
+TX,house,04,Jason Pearce,D,no,H6TX04174,27748.78,2711.98,2026-10-14,,https://deepsyte.app/races/TX/04
+TX,house,05,Lance Gooden,R,yes,H8TX05144,1526218.36,1343838.42,2026-10-14,G000589,https://deepsyte.app/races/TX/05
+TX,house,05,Chelsey Hockett,D,no,H6TX05197,10219.66,5463.23,,,https://deepsyte.app/races/TX/05
+TX,house,06,Danny Minton,D,no,H6TX25203,147189.2,39638.26,2026-09-30,,https://deepsyte.app/races/TX/06
+TX,house,06,Jake Ellzey,R,yes,H8TX06266,5518242.29,2604671.49,2026-10-14,E000071,https://deepsyte.app/races/TX/06
+TX,house,07,Lizzie Fletcher,D,yes,H8TX07140,1846897.72,1492809.82,2026-10-14,F000468,https://deepsyte.app/races/TX/07
+TX,house,07,Alexander Hale,R,no,H6TX07151,115678.12,19119.02,2026-10-14,,https://deepsyte.app/races/TX/07
+TX,house,07,Espoir Ngabo,G,no,H6TX07177,3132.88,0,2026-09-30,,https://deepsyte.app/races/TX/07
+TX,house,08,Laura Jones,D,no,H0TX08145,30781.89,4114.54,2026-10-14,,https://deepsyte.app/races/TX/08
+TX,house,08,Jessica Hart Steinmann,R,no,H6TX08209,2441284.26,79370.52,2026-10-14,,https://deepsyte.app/races/TX/08
+TX,house,09,Alex Mealer,R,no,H6TX09140,2782239.54,201271.6,2026-10-14,,https://deepsyte.app/races/TX/09
+TX,house,09,Leticia Gutierrez,D,no,H6TX09231,215052.56,110891.73,2026-10-14,,https://deepsyte.app/races/TX/09
+TX,house,10,Chris Gober,R,no,H6TX10221,3103392.03,165564.77,2026-10-14,,https://deepsyte.app/races/TX/10
+TX,house,10,Caitlin Rourk,D,no,H6TX31102,576475.06,79336.45,2026-10-14,,https://deepsyte.app/races/TX/10
+TX,house,11,August Pfluger,R,yes,H0TX11230,3609434.17,2029823.57,2026-10-14,P000048,https://deepsyte.app/races/TX/11
+TX,house,11,Claire Reynolds,D,no,H6TX11112,128534.75,55769.16,2026-10-14,,https://deepsyte.app/races/TX/11
+TX,house,12,"Angela ""Heli"" Rodriguez Prilliman",D,no,H6TX12169,,,,,https://deepsyte.app/races/TX/12
+TX,house,12,Craig A. Goldman,R,yes,H4TX12065,1932744.66,1512501.32,2026-10-14,G000601,https://deepsyte.app/races/TX/12
+TX,house,13,Mark Nair,D,no,H6TX13159,137623.75,2823.67,2026-10-14,,https://deepsyte.app/races/TX/13
+TX,house,13,Ronny Jackson,R,yes,H0TX13228,4806245.43,5396663.45,2026-10-14,J000304,https://deepsyte.app/races/TX/13
+TX,house,14,Thurman Bill Bartie,D,no,H6TX14181,39403.19,4754.11,2026-10-14,,https://deepsyte.app/races/TX/14
+TX,house,14,Randy K. Sr. Weber,R,yes,H2TX14149,1132031.98,928845.02,2026-10-14,W000814,https://deepsyte.app/races/TX/14
+TX,house,15,Bobby Pulido,D,no,H6TX15246,6819246.79,1269454.45,2026-10-14,,https://deepsyte.app/races/TX/15
+TX,house,15,Monica De La Cruz,R,yes,H0TX15124,6814266.73,393811.86,2026-10-14,D000594,https://deepsyte.app/races/TX/15
+TX,house,16,Veronica Escobar,D,yes,H8TX16109,1068096.19,216768.02,2026-10-14,E000299,https://deepsyte.app/races/TX/16
+TX,house,16,Adam Bauman,R,no,H6TX16152,3293,2857.72,2026-10-14,,https://deepsyte.app/races/TX/16
+TX,house,17,Casey Shepard,D,no,H6TX17168,93530.74,78197.57,2026-10-14,,https://deepsyte.app/races/TX/17
+TX,house,17,Pete Sessions,R,yes,H2TX03126,1323419.64,1033567.44,2026-10-14,S000250,https://deepsyte.app/races/TX/17
+TX,house,18,Ronald Dwayne Whitfield,R,no,H6TX18497,,,,,https://deepsyte.app/races/TX/18
+TX,house,18,Christian Dashaun Menefee,D,no,H6TX18232,3761777.28,77685.42,2026-10-14,,https://deepsyte.app/races/TX/18
+TX,house,19,Kyle Rable,D,no,H6TX19198,49029.91,6317.07,2026-10-14,,https://deepsyte.app/races/TX/19
+TX,house,19,Tom Sell,R,no,H6TX19206,2502266.26,268006.81,2026-10-14,,https://deepsyte.app/races/TX/19
+TX,house,20,Edgardo Rafael Baez,R,no,H6TX20113,69063.4,8531.21,2026-10-14,,https://deepsyte.app/races/TX/20
+TX,house,20,Joaquin Castro,D,yes,H2TX35011,592415.74,129316.59,2026-10-14,C001091,https://deepsyte.app/races/TX/20
+TX,house,21,Mark Teixeira,R,no,H6TX21301,4392605.96,440539.4,2026-10-14,,https://deepsyte.app/races/TX/21
+TX,house,21,Kristin Hook,D,no,H4TX21108,388865.29,52250.44,2026-10-14,,https://deepsyte.app/races/TX/21
+TX,house,22,Trever Nehls,R,no,H6TX22283,327410.4,74767,2026-10-14,,https://deepsyte.app/races/TX/22
+TX,house,22,Marquette Greene-Scott,D,no,H4TX22197,68294.77,2630.47,2026-10-14,,https://deepsyte.app/races/TX/22
+TX,house,23,Ben Mendoza,I,no,H6TX16111,0,0,,,https://deepsyte.app/races/TX/23
+TX,house,23,Katy Padilla Stout,D,no,H6TX23273,1117715.08,144423.65,2026-10-14,,https://deepsyte.app/races/TX/23
+TX,house,23,Brandon Herrera,R,no,H4TX23120,3115205.22,318811.95,2026-10-14,,https://deepsyte.app/races/TX/23
+TX,house,24,Beth Van Duyne,R,yes,H0TX24209,3049506.14,1683212.32,2026-10-14,V000134,https://deepsyte.app/races/TX/24
+TX,house,24,Kevin Burge,D,no,H6TX24172,334210.32,81346.02,2026-10-14,,https://deepsyte.app/races/TX/24
+TX,house,25,Roger Williams,R,yes,H2TX33040,1654633.09,1205150.83,2026-10-14,W000816,https://deepsyte.app/races/TX/25
+TX,house,25,Dione Sims,D,no,H6TX25237,546.48,-3003.52,2026-10-14,,https://deepsyte.app/races/TX/25
+TX,house,26,Brandon Gill,R,yes,H4TX26149,7939470.36,2092335.31,2026-10-14,G000603,https://deepsyte.app/races/TX/26
+TX,house,26,Steven Shook,D,no,H6TX26144,35820.67,5602.96,2026-10-14,,https://deepsyte.app/races/TX/26
+TX,house,26,Phil Gray,L,no,H6TX01261,0,0,,,https://deepsyte.app/races/TX/26
+TX,house,27,Tanya Lloyd,D,no,H4TX27089,270814.09,19679.17,2026-10-14,,https://deepsyte.app/races/TX/27
+TX,house,27,Michael Cloud,R,yes,H8TX27049,1219653.23,275804.47,2026-10-14,C001115,https://deepsyte.app/races/TX/27
+TX,house,28,Henry Cuellar,D,yes,H2TX23082,3043039.01,657230.5,2026-10-14,C001063,https://deepsyte.app/races/TX/28
+TX,house,28,Tano E. Tijerina,R,no,H6TX28124,1862406.86,113050.1,2026-10-14,,https://deepsyte.app/races/TX/28
+TX,house,28,Marlón Durán,G,no,H6TX28108,0,0,,,https://deepsyte.app/races/TX/28
+TX,house,29,Martha Fierro,R,no,H6TX29122,585,491.72,2026-10-14,,https://deepsyte.app/races/TX/29
+TX,house,29,Sylvia R. Garcia,D,yes,H8TX29052,1201321.76,235764,2026-10-14,G000587,https://deepsyte.app/races/TX/29
+TX,house,30,Frederick D. Haynes Iii,D,no,H6TX30245,694864.53,159035.65,2026-10-14,,https://deepsyte.app/races/TX/30
+TX,house,30,Everett Jackson,R,no,H6TX30211,25348.99,2463.01,2026-10-14,,https://deepsyte.app/races/TX/30
+TX,house,31,Greg Stoker,G,no,H6TX31169,89121.25,9151.43,2026-10-14,,https://deepsyte.app/races/TX/31
+TX,house,31,Justin Early,D,no,H6TX31094,291879.92,20847.52,2026-10-14,,https://deepsyte.app/races/TX/31
+TX,house,31,John R. Carter,R,yes,H2TX31044,1522249.68,159170.95,2026-10-14,C001051,https://deepsyte.app/races/TX/31
+TX,house,32,Jace Yarbrough,R,no,H6TX32225,1261760.06,123093.72,2026-10-14,,https://deepsyte.app/races/TX/32
+TX,house,32,Dan Barrios,D,no,H6TX32217,160379.07,8745.17,2026-10-14,,https://deepsyte.app/races/TX/32
+TX,house,33,Patrick David Gillespie,R,no,H2TX33248,0,0,,,https://deepsyte.app/races/TX/33
+TX,house,33,Colin Allred,D,no,H8TX32098,8134455.95,298428.19,2026-10-14,,https://deepsyte.app/races/TX/33
+TX,house,34,Eddie Espinoza,G,no,H6TX34106,0,0,,,https://deepsyte.app/races/TX/34
+TX,house,34,Vicente Gonzalez,D,yes,H6TX15162,5211344.04,1396949.28,2026-10-14,G000581,https://deepsyte.app/races/TX/34
+TX,house,34,Chris Royal,L,no,H0TX34059,,,,,https://deepsyte.app/races/TX/34
+TX,house,34,Eric Flores,R,no,H6TX34080,4009073.67,246427.27,2026-10-14,,https://deepsyte.app/races/TX/34
+TX,house,35,Carlos De La Cruz,R,no,H6TX35087,2021117.55,312607.08,2026-10-14,,https://deepsyte.app/races/TX/35
+TX,house,35,Johnny C. Garcia,D,no,H6TX35095,2201578.83,149502.75,2026-10-14,,https://deepsyte.app/races/TX/35
+TX,house,36,Rhonda Hart,D,no,H4TX14111,24315.62,5935.1,2026-09-30,,https://deepsyte.app/races/TX/36
+TX,house,36,Brian Babin,R,yes,H6TX02079,1201013.89,928299.88,2026-10-14,B001291,https://deepsyte.app/races/TX/36
+TX,house,37,Lauren B. Peña,R,no,H6TX35038,132161.88,4453.73,2026-10-14,,https://deepsyte.app/races/TX/37
+TX,house,37,Greg Casar,D,no,H2TX35144,1382791.38,544085.42,2026-10-14,,https://deepsyte.app/races/TX/37
+TX,house,38,Alex Mcmenemy,G,no,H6TX38123,9887.9,745.56,2026-10-14,,https://deepsyte.app/races/TX/38
+TX,house,38,Jon Bonck,R,no,H6TX02244,2202298.38,248170.29,2026-10-14,,https://deepsyte.app/races/TX/38
+TX,house,38,Melissa Mcdonough,D,no,H4TX38011,124711.24,44441.67,2026-10-14,,https://deepsyte.app/races/TX/38
+TX,senate,,Ken Paxton,R,no,S6TX00388,22327473.92,4784408.3,2026-10-14,,https://deepsyte.app/races/TX/senate
+TX,senate,,Ted Brown,L,no,S4TX00888,14257.28,1288.35,2026-10-14,,https://deepsyte.app/races/TX/senate
+TX,senate,,James Talarico,D,no,S6TX00479,146349912.38,9922857.4,2026-10-14,,https://deepsyte.app/races/TX/senate
+UT,house,01,Elias Henry Montgomery,UNAFFILIATED,no,,,,,,https://deepsyte.app/races/UT/01
+UT,house,01,Riley Owen,R,no,H6UT01244,164069.93,9503.11,2026-10-14,,https://deepsyte.app/races/UT/01
+UT,house,01,Ben Mcadams,D,no,H8UT04053,2813806.53,377817.48,2026-10-14,,https://deepsyte.app/races/UT/01
+UT,house,01,Jesse West,L,no,H6UT01251,0,0,,,https://deepsyte.app/races/UT/01
+UT,house,02,Daniel Cottam,L,no,H4UT01165,0,0,,,https://deepsyte.app/races/UT/02
+UT,house,02,Peter Crosby,D,no,H6UT01160,153918.33,47879.29,2026-10-14,,https://deepsyte.app/races/UT/02
+UT,house,02,Carlton E. Bowen,I,no,H6UT02549,6977.29,1079.43,2026-10-14,,https://deepsyte.app/races/UT/02
+UT,house,02,Blake D. Moore,R,yes,H0UT01205,2796221.05,1608084.04,2026-10-14,M001213,https://deepsyte.app/races/UT/02
+UT,house,02,Robert M. Moesinger,I,no,H6UT02531,11605.75,-556.25,2026-10-14,,https://deepsyte.app/races/UT/02
+UT,house,03,Cassie Easley,C,no,H2UT02506,0,0,,,https://deepsyte.app/races/UT/03
+UT,house,03,Adonis Hooslyn,UNAFFILIATED,no,H6UT03174,761.77,-26.63,2026-10-14,,https://deepsyte.app/races/UT/03
+UT,house,03,Ayden Scott,UNAFFILIATED,no,H6UT03216,,,,,https://deepsyte.app/races/UT/03
+UT,house,03,Michael R. Stoddard,L,no,H6UT03224,0,0,2026-10-14,,https://deepsyte.app/races/UT/03
+UT,house,03,Celeste Maloy,R,yes,H4UT02296,1652694.51,359561.43,2026-10-14,M001228,https://deepsyte.app/races/UT/03
+UT,house,03,Kent S. Udell,D,no,H6UT03182,99541.33,5715.89,2026-10-14,,https://deepsyte.app/races/UT/03
+UT,house,04,Mike Kennedy,R,yes,H4UT03260,1209378.05,448818.25,2026-10-14,K000403,https://deepsyte.app/races/UT/04
+UT,house,04,Taylor Wright,L,no,H6UT04057,,,,,https://deepsyte.app/races/UT/04
+UT,house,04,Jonny Larsen,D,no,H6UT02424,88136.41,4861.47,2026-10-14,,https://deepsyte.app/races/UT/04
+UT,house,04,Steven Burt,I,no,H6UT04024,39743.5,1781.84,2026-10-14,,https://deepsyte.app/races/UT/04
+VA,house,01,Robert J. Wittman,R,yes,H8VA01147,5432689.32,797346.03,2026-10-14,W000804,https://deepsyte.app/races/VA/01
+VA,house,01,Shannon L. Taylor,D,no,H6VA01299,4607379.06,598734.27,2026-10-14,,https://deepsyte.app/races/VA/01
+VA,house,02,Elaine G. Luria,D,no,H6VA02198,8044063.94,478862.22,2026-10-14,,https://deepsyte.app/races/VA/02
+VA,house,02,J. Matt Baker,I,no,H6VA02263,8349.26,6497.47,2026-10-14,,https://deepsyte.app/races/VA/02
+VA,house,02,Jennifer A. Kiggans,R,yes,H2VA02064,7589812.06,1292408.37,2026-10-14,K000399,https://deepsyte.app/races/VA/02
+VA,house,02,"Geral D. ""Bishop"" Staten",I,no,H6VA02222,0,0,,,https://deepsyte.app/races/VA/02
+VA,house,03,"Robert C. ""Bobby"" Scott",D,yes,H6VA01117,882179.43,162482.61,2026-10-14,S000185,https://deepsyte.app/races/VA/03
+VA,house,03,Stephen C. Woll,I,no,H6VA03139,67506,15194.14,2026-10-14,,https://deepsyte.app/races/VA/03
+VA,house,03,"Edwin Rivera, Jr.",R,no,H6VA03121,15390.56,4634.74,2026-10-14,,https://deepsyte.app/races/VA/03
+VA,house,03,Makiba A. Gaines,INDEPENDENCE PARTY,no,H6VA02248,0,0,,,https://deepsyte.app/races/VA/03
+VA,house,04,Jennifer L. McClellan,D,yes,H4VA04066,1546997.29,222829.62,2026-10-14,M001227,https://deepsyte.app/races/VA/04
+VA,house,04,"Robert P. ""Family Man"" Murray, Jr.",R,no,H6VA04129,1549.87,1508.86,2026-10-14,,https://deepsyte.app/races/VA/04
+VA,house,04,"Joan E. ""Andrews"" Bell",UNAFFILIATED,no,H6VA04137,,,,,https://deepsyte.app/races/VA/04
+VA,house,05,John J. McGuire III,R,no,H0VA07133,2419702.34,382052.72,2026-10-14,,https://deepsyte.app/races/VA/05
+VA,house,05,Cooke C. Harvey,I,no,H6VA05241,0,0,,,https://deepsyte.app/races/VA/05
+VA,house,05,Tom S. P. Perriello,D,no,H6VA05217,2140401.63,1511291.47,2026-07-15,,https://deepsyte.app/races/VA/05
+VA,house,06,Beth A. Macy,D,no,H6VA06173,2926193.48,362877.8,2026-10-14,,https://deepsyte.app/races/VA/06
+VA,house,06,Ben Cline,R,yes,H8VA06104,1908289.13,527302.86,2026-10-14,C001118,https://deepsyte.app/races/VA/06
+VA,house,07,Randall A. Terry,I,no,H6VA07312,68912,10069.8,2026-10-14,,https://deepsyte.app/races/VA/07
+VA,house,07,Eugene Simon Vindman,D,yes,H4VA07234,16339249.68,5225595.46,2026-10-14,V000138,https://deepsyte.app/races/VA/07
+VA,house,07,Taner E. Demirci Lopez,L,no,,,,,,https://deepsyte.app/races/VA/07
+VA,house,07,Doug A. Ollivant,R,no,H6VA07205,389127.17,109216.15,2026-10-14,,https://deepsyte.app/races/VA/07
+VA,house,07,Joshua E. Ertle,NO PARTY AFFILIATION,no,H6VA07346,,,,,https://deepsyte.app/races/VA/07
+VA,house,07,Alaha Ahrar,I,no,H6VA07353,28923.1,3659.55,2026-10-14,,https://deepsyte.app/races/VA/07
+VA,house,08,Tim S. Sharman,I,no,H6VA08336,45422.41,50,2026-10-14,,https://deepsyte.app/races/VA/08
+VA,house,08,Donald S. Beyer,D,yes,H4VA08224,2529480.41,848726.77,2026-10-14,B001292,https://deepsyte.app/races/VA/08
+VA,house,08,Tony A. Sabio,R,no,H6VA08252,44255.68,6204.79,2026-10-14,,https://deepsyte.app/races/VA/08
+VA,house,08,Shelly M. Arnoldi,L,no,,,,,,https://deepsyte.app/races/VA/08
+VA,house,09,H. Morgan Griffith,R,yes,H0VA09055,2173784.73,879116.67,2026-10-14,G000568,https://deepsyte.app/races/VA/09
+VA,house,09,Joy A. Powers,D,no,H6VA09136,256577.62,59671.26,2026-10-14,,https://deepsyte.app/races/VA/09
+VA,house,10,Suhas Subramanyam,D,yes,H4VA10279,1707804.06,746033.06,2026-10-14,S001230,https://deepsyte.app/races/VA/10
+VA,house,10,Dave T. Beckwith,R,no,H2VA10273,256489.11,31847.36,2026-10-14,,https://deepsyte.app/races/VA/10
+VA,house,10,Ahsen Mujeeb Malik,I,no,H6VA10274,,,,,https://deepsyte.app/races/VA/10
+VA,house,11,Arthur G. Purves,R,no,H6VA11249,38664.61,19735.08,2026-10-14,,https://deepsyte.app/races/VA/11
+VA,house,11,James R. Walkinshaw,D,yes,H6VA11066,3270621.28,1143115.48,2026-10-14,W000831,https://deepsyte.app/races/VA/11
+VA,house,11,Dianne L. Blais,G,no,H4VA10154,0,0,,,https://deepsyte.app/races/VA/11
+VA,senate,,Mark R. Warner,D,yes,S6VA00093,20222105.45,6217677.32,2026-10-14,W000805,https://deepsyte.app/races/VA/senate
+VA,senate,,Bert Mizusawa,R,no,S8VA00321,1141129.7,154033.84,2026-10-14,,https://deepsyte.app/races/VA/senate
+VI,house,00,Shelley A. H. Moorhead,I,no,H6VI00075,0,0,,,https://deepsyte.app/races/VI/00
+VI,house,00,Janelle K. Sarauw,D,no,H6VI01065,72507.62,6070.8,2026-10-14,,https://deepsyte.app/races/VI/00
+VT,house,00,Gerald Malloy,R,no,H6VT01085,189568.02,34219.69,2026-10-14,,https://deepsyte.app/races/VT/00
+VT,house,00,Adam Ortiz,I,no,H2VT00177,0,0,,,https://deepsyte.app/races/VT/00
+VT,house,00,"Suzanne ""Suz"" Seymour",I,no,H6VT00269,,,,,https://deepsyte.app/races/VT/00
+VT,house,00,Ryan P. Walton,I,no,H6VT01093,,,,,https://deepsyte.app/races/VT/00
+VT,house,00,Phoenix K. Altair,I,no,,,,,,https://deepsyte.app/races/VT/00
+VT,house,00,Becca Balint,D,yes,H2VT01076,1178502.59,612015.81,2026-10-14,B001318,https://deepsyte.app/races/VT/00
+WA,house,01,Suzan K. DelBene,D,yes,H0WA08046,4281272.38,1035589.14,2026-10-14,D000617,https://deepsyte.app/races/WA/01
+WA,house,01,Mary Silva,R,no,H4WA01282,8478.7,1298.86,2026-10-14,,https://deepsyte.app/races/WA/01
+WA,house,02,Rick Larsen,D,yes,H0WA02080,2625476.25,537475.94,2026-10-14,L000560,https://deepsyte.app/races/WA/02
+WA,house,02,Edwin H. Feller,R,no,H6WA02228,11338.4,6843.32,2026-10-14,,https://deepsyte.app/races/WA/02
+WA,house,03,Marie Gluesenkamp Perez,D,yes,H2WA03217,9472266.66,234519.93,2026-10-14,G000600,https://deepsyte.app/races/WA/03
+WA,house,03,John Braun,R,no,H6WA03275,3311756.42,671919.14,2026-10-14,,https://deepsyte.app/races/WA/03
+WA,house,04,John Duresky,D,no,H6WA04190,459019.84,83691.25,2026-10-14,,https://deepsyte.app/races/WA/04
+WA,house,04,Amanda McKinney,R,no,H6WA04216,1448473.62,217375.85,2026-10-14,,https://deepsyte.app/races/WA/04
+WA,house,05,Michael Baumgartner,R,yes,H4WA05234,2208414.59,689914.65,2026-10-14,B001322,https://deepsyte.app/races/WA/05
+WA,house,05,Carmela Conroy,D,no,H4WA05168,840422.66,90193.47,2026-10-14,,https://deepsyte.app/races/WA/05
+WA,house,06,Emily Randall,D,yes,H4WA06117,1422767.38,168665.31,2026-10-14,R000621,https://deepsyte.app/races/WA/06
+WA,house,06,Teresa Fox,R,no,H6WA06286,70638.66,10879.74,2026-10-14,,https://deepsyte.app/races/WA/06
+WA,house,07,Pramila Jayapal,D,yes,H6WA07458,2920966.88,1753240.92,2026-10-14,J000298,https://deepsyte.app/races/WA/07
+WA,house,07,Nirav Sheth,R,no,H4WA08147,71544.33,4876.8,2026-10-14,,https://deepsyte.app/races/WA/07
+WA,house,08,Kim Schrier,D,yes,H8WA08189,3766607.24,3216892.25,2026-10-14,S001216,https://deepsyte.app/races/WA/08
+WA,house,08,Spencer Meline,R,no,H6WA08167,157773.63,72721.22,2026-10-14,,https://deepsyte.app/races/WA/08
+WA,house,09,Doug Basler,R,no,H4WA09061,44410.66,9248.61,2026-10-14,,https://deepsyte.app/races/WA/09
+WA,house,09,Adam Smith,D,yes,H6WA09025,2202050.79,627352.11,2026-10-14,S000510,https://deepsyte.app/races/WA/09
+WA,house,10,Marilyn Strickland,D,yes,H0WA10034,1892575.68,608762.35,2026-10-14,S001159,https://deepsyte.app/races/WA/10
+WA,house,10,Chris D. Chung,R,no,H6WA10031,0,0,,,https://deepsyte.app/races/WA/10
+WI,house,01,Mitchell Berman,D,no,H6WI01283,1977099.04,351557.78,2026-10-14,,https://deepsyte.app/races/WI/01
+WI,house,01,Bryan Steil,R,yes,H8WI01156,6393553.46,2243604.54,2026-10-14,S001213,https://deepsyte.app/races/WI/01
+WI,house,02,Mark Pocan,D,yes,H2WI02124,1025262.83,881636.41,2026-10-14,P000607,https://deepsyte.app/races/WI/02
+WI,house,03,Derrick Van Orden,R,yes,H0WI03175,9101596.33,1165671.1,2026-10-14,V000135,https://deepsyte.app/races/WI/03
+WI,house,03,Alexander Valiensi Kent,I,no,H6WI03230,,,,,https://deepsyte.app/races/WI/03
+WI,house,03,Rebecca Cooke,D,no,H4WI03169,12675996.72,447387.26,2026-10-14,,https://deepsyte.app/races/WI/03
+WI,house,03,Rustin Provance,NONE,no,H2WI03163,,,,,https://deepsyte.app/races/WI/03
+WI,house,04,Gwen Moore,D,yes,H4WI04183,1319135.1,45066.8,2026-10-14,M001160,https://deepsyte.app/races/WI/04
+WI,house,04,Tim Rogers,R,no,H4WI04274,,,,,https://deepsyte.app/races/WI/04
+WI,house,04,Arthur Burks,I,no,,,,,,https://deepsyte.app/races/WI/04
+WI,house,05,Scott Fitzgerald,R,yes,H0WI05113,1729316.51,1206615.31,2026-10-14,F000471,https://deepsyte.app/races/WI/05
+WI,house,05,Andrew Beck,D,no,H6WI05136,14612.26,3158.02,2026-06-30,,https://deepsyte.app/races/WI/05
+WI,house,06,Matthew Arndt,G,no,H6WI06274,2210,1710,2026-09-30,,https://deepsyte.app/races/WI/06
+WI,house,06,Glenn Grothman,R,yes,H4WI06048,1209007.03,615524.89,2026-10-14,G000576,https://deepsyte.app/races/WI/06
+WI,house,06,Mike Thurow,I,no,H6WI06233,195140.17,8274.16,2026-10-14,,https://deepsyte.app/races/WI/06
+WI,house,06,Elizabeth Anne Fitzgibbon,I,no,H6WI06241,21161.09,3671.46,2026-10-14,,https://deepsyte.app/races/WI/06
+WI,house,06,Brad Smith,D,no,H6WI06191,322260.9,91303.27,2026-10-14,,https://deepsyte.app/races/WI/06
+WI,house,07,Fred Clark,D,no,H6WI07207,863780.13,260843.87,2026-10-14,,https://deepsyte.app/races/WI/07
+WI,house,07,Michael Alfonso,R,no,H6WI07223,1770041.24,426938.57,2026-10-14,,https://deepsyte.app/races/WI/07
+WI,house,08,Tony Wied,R,yes,H4WI08119,1354324.32,242365.75,2026-10-14,W000829,https://deepsyte.app/races/WI/08
+WI,house,08,Rick Crosson,D,no,H6WI08205,168411.93,62027.49,2026-10-14,,https://deepsyte.app/races/WI/08
+WV,house,01,Vince George,D,no,H6WV01160,311586.29,3137.68,2026-10-14,,https://deepsyte.app/races/WV/01
+WV,house,01,Carol D. Miller,R,yes,H8WV03097,2036642.7,505035.21,2026-10-14,M001205,https://deepsyte.app/races/WV/01
+WV,house,01,Belinda Fox-Spencer,C,no,H0WV03193,,,,,https://deepsyte.app/races/WV/01
+WV,house,02,Riley M. Moore,R,yes,H4WV02205,1617727.47,580624.92,2026-10-14,M001235,https://deepsyte.app/races/WV/02
+WV,house,02,Ace Parsi,D,no,H6WV02150,276740.66,88775.31,2026-10-14,,https://deepsyte.app/races/WV/02
+WV,senate,,S. Marshall Wilson,C,no,S6WV00204,65287.21,1250.19,2026-10-14,,https://deepsyte.app/races/WV/senate
+WV,senate,,Rachel Fetty Anderson,D,no,S6WV00188,164557.53,35681.48,2026-10-14,,https://deepsyte.app/races/WV/senate
+WV,senate,,Shelley Moore Capito,R,yes,S4WV00159,5449866,3071076.35,2026-10-14,C001047,https://deepsyte.app/races/WV/senate
+WY,house,00,Shawn Johnson,L,no,,,,,,https://deepsyte.app/races/WY/00
+WY,house,00,Chuck Gray,R,no,H6WY00217,2011264,161174.58,2026-10-14,,https://deepsyte.app/races/WY/00
+WY,house,00,Jeffrey Haggit,C,no,H0WY01051,,,,,https://deepsyte.app/races/WY/00
+WY,house,00,Lisa Kinney,D,no,H6WY01173,99131.16,33080.98,2026-10-14,,https://deepsyte.app/races/WY/00
+WY,senate,,Harriet Hageman,R,no,S6WY00209,2810753.95,439421.69,2026-10-14,,https://deepsyte.app/races/WY/senate
+WY,senate,,James Byrd,D,no,S6WY00217,53560.38,7927.4,2026-10-14,,https://deepsyte.app/races/WY/senate

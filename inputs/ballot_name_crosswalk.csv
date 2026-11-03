@@ -1,0 +1,434 @@
+race_id,model_name,ballot_name,party,match_method,evidence_status,source_url
+AL-SEN,Barry Moore,Barry Moore,R,normalized_exact,official_source_linked_transcription_unconfirmed,https://www.sos.alabama.gov/alabama-votes/2026-general-election-sample-ballots
+AR-SEN,Tom Cotton,Senator Tom Cotton,R,reviewed_name_variant_same_race_and_party,official_source_linked_transcription_unconfirmed,https://candidates.arkansas.gov/
+CO-SEN,John Hickenlooper,John Hickenlooper,D,normalized_exact,official_name_party_and_district_confirmed,https://www.coloradosos.gov/pubs/elections/vote/generalCandidates.html
+DE-SEN,Chris Coons,Chris Coons,D,normalized_exact,official_document_name_match_only,https://elections.delaware.gov/candidates/candidatelist/genl_fcddt_2026.xlsx
+IA-SEN,Ashley Hinson,Ashley Hinson,R,normalized_exact,official_source_linked_transcription_unconfirmed,https://sos.iowa.gov/sites/default/files/2026-08/2026%20General%20-%20Candidate%20List%20Database%20-%20All%20Elections_1.pdf
+IL-SEN,Juliana Stratton,Juliana Stratton,D,normalized_exact,official_document_name_match_only,https://elections.il.gov/ElectionOperations/EOPDFViewer.aspx?ElectionID=sejIrI%2bQmww%3d&QueryType=xF443FTCAJbIL3atac%2fUjEg7Y4yklgT1&Status=P2wRQXkiFoo%3d
+KS-SEN,Roger Marshall,Roger Marshall,R,normalized_exact,official_source_linked_transcription_unconfirmed,https://sos.ks.gov/elections/elections_upcoming_candidate.aspx
+KY-SEN,Andy Barr,Andy Barr,R,normalized_exact,official_source_linked_transcription_unconfirmed,https://web.sos.ky.gov/CandidateFilings/Default.aspx?id=4
+MA-SEN,Ed Markey,Edward J. Markey,D,reviewed_name_variant_same_race_and_party,official_source_linked_transcription_unconfirmed,https://www.sec.state.ma.us/divisions/elections/research-and-statistics/2026-state-election-candidates.htm
+ME-SEN,Troy Jackson,Troy D. Jackson,D,reviewed_name_variant_same_race_and_party,official_source_linked_transcription_unconfirmed,https://www.maine.gov/sos/sites/maine.gov.sos/files/inline-files/2026%20General%20Candidate%20List%20-%20FINAL.xlsx
+MI-SEN,Abdul El-Sayed,Abdul El-Sayed,D,normalized_exact,official_source_linked_transcription_unconfirmed,https://mi-boe.entellitrak.com/etk-mi-boe-prod/page.request.do?page=page.miboePublicReport&electionYear=2026&electionType=GEN
+MN-SEN,Peggy Flanagan,Peggy Flanagan,D,normalized_exact,official_source_linked_transcription_unconfirmed,https://candidates.sos.mn.gov/
+MS-SEN,Cindy Hyde-Smith,Cindy Hyde-Smith,R,normalized_exact,official_document_name_match_only,https://www.sos.ms.gov/content/documents/Elections/2026/Sample%20Ballot%209-9-26.pdf
+NC-SEN,Michael Whatley,Michael Whatley,R,normalized_exact,official_document_name_match_only,https://dl.ncsbe.gov/Elections/2026/Candidate%20Filing/Candidate_Listing_2026.csv
+NH-SEN,Chris Pappas,Chris Pappas,D,normalized_exact,official_source_linked_transcription_unconfirmed,https://mm.nh.gov/files/uploads/sos/docs/2026-ge-candidate-list.pdf
+NJ-SEN,Cory Booker,Cory Booker,D,normalized_exact,official_document_name_match_only,https://www.nj.gov/state/elections/assets/pdf/election-results/2026/2026-official-general-candidates-us-senate.pdf
+NM-SEN,Ben Ray Lujan,Ben R Lujan,D,reviewed_name_variant_same_race_and_party,official_source_linked_transcription_unconfirmed,https://candidateportal.servis.sos.state.nm.us/CandidateList.aspx?eid=2917&cty=99
+OK-SEN,Kevin Hern,Kevin Hern,R,normalized_exact,official_document_name_match_only,https://hosting.okelections.us/electionlist.html
+OR-SEN,Jeff Merkley,Jeff Merkley,D,normalized_exact,official_source_linked_transcription_unconfirmed,https://secure.sos.state.or.us/orestar/CFSearchPage.do
+RI-SEN,Jack Reed,Jack Reed,D,normalized_exact,secondary_source_transcription,"https://ballotpedia.org/United_States_Senate_election_in_Rhode_Island,_2026"
+SC-SEN,Darline Graham,Darline Graham,R,normalized_exact,official_source_linked_transcription_unconfirmed,https://vrems.scvotes.sc.gov/Candidate/CandidateSearch?electionId=22596
+TN-SEN,Bill Hagerty,Bill Hagerty,R,normalized_exact,official_source_linked_transcription_unconfirmed,https://sos.tn.gov/elections/2026-candidate-lists
+TX-SEN,Ken Paxton,Ken Paxton,R,normalized_exact,official_name_party_and_district_confirmed,https://www.sos.texas.gov/elections/forms/2026-ballot-cert.pdf
+VA-SEN,Mark Warner,Mark R. Warner,D,reviewed_name_variant_same_race_and_party,official_source_linked_transcription_unconfirmed,https://www.elections.virginia.gov/media/castyourballot/candidatelist/2026/2026-November-Federal-Offices-Candidate-List-(rev-9-14-2026).xlsx
+WV-SEN,Shelley Moore Capito,Shelley Moore Capito,R,normalized_exact,official_source_linked_transcription_unconfirmed,https://candidates.wvsos.gov/
+WY-SEN,Harriet Hageman,Harriet Hageman,R,normalized_exact,official_document_name_match_only,https://sos.wyo.gov/Elections/Docs/2026/2026_WY_General_Election_Candidates.pdf
+AL-01,Jerry Carl,Jerry Carl,R,normalized_exact,official_source_linked_transcription_unconfirmed,https://www.sos.alabama.gov/alabama-votes/2026-general-election-sample-ballots
+AL-02,Rhett Marques,Rhett Marques,R,normalized_exact,official_source_linked_transcription_unconfirmed,https://www.sos.alabama.gov/alabama-votes/2026-general-election-sample-ballots
+AL-03,Mike Rogers,Mike Rogers,R,normalized_exact,official_source_linked_transcription_unconfirmed,https://www.sos.alabama.gov/alabama-votes/2026-general-election-sample-ballots
+AL-04,Robert Aderholt,Robert B. Aderholt,R,reviewed_name_variant_same_race_and_party,official_source_linked_transcription_unconfirmed,https://www.sos.alabama.gov/alabama-votes/2026-general-election-sample-ballots
+AL-05,Dale Strong,Dale W. Strong,R,reviewed_name_variant_same_race_and_party,official_source_linked_transcription_unconfirmed,https://www.sos.alabama.gov/alabama-votes/2026-general-election-sample-ballots
+AL-06,Gary Palmer,Gary Palmer,R,normalized_exact,official_source_linked_transcription_unconfirmed,https://www.sos.alabama.gov/alabama-votes/2026-general-election-sample-ballots
+AL-07,Terri Sewell,Terri Sewell,D,normalized_exact,official_source_linked_transcription_unconfirmed,https://www.sos.alabama.gov/alabama-votes/2026-general-election-sample-ballots
+AR-01,Rick Crawford,Congressman Rick Crawford,R,reviewed_name_variant_same_race_and_party,official_source_linked_transcription_unconfirmed,https://candidates.arkansas.gov/
+AR-02,French Hill,Congressman French Hill,R,reviewed_name_variant_same_race_and_party,official_source_linked_transcription_unconfirmed,https://candidates.arkansas.gov/
+AR-03,Steve Womack,Congressman Steve Womack,R,reviewed_name_variant_same_race_and_party,official_source_linked_transcription_unconfirmed,https://candidates.arkansas.gov/
+AR-04,Bruce Westerman,Congressman Bruce Westerman,R,reviewed_name_variant_same_race_and_party,official_source_linked_transcription_unconfirmed,https://candidates.arkansas.gov/
+AZ-01,Amish Shah,Amish Shah,D,normalized_exact,secondary_source_transcription,"https://ballotpedia.org/Arizona's_1st_Congressional_District_election,_2026"
+AZ-02,Eli Crane,Eli Crane,R,normalized_exact,secondary_source_transcription,"https://ballotpedia.org/Arizona's_2nd_Congressional_District_election,_2026"
+AZ-04,Greg Stanton,Greg Stanton,D,normalized_exact,secondary_source_transcription,"https://ballotpedia.org/Arizona's_4th_Congressional_District_election,_2026"
+AZ-05,Mark Lamb,Mark Lamb,R,normalized_exact,secondary_source_transcription,"https://ballotpedia.org/Arizona's_5th_Congressional_District_election,_2026"
+AZ-06,Juan Ciscomani,Juan Ciscomani,R,normalized_exact,secondary_source_transcription,"https://ballotpedia.org/Arizona's_6th_Congressional_District_election,_2026"
+AZ-07,Adelita Grijalva,Adelita Grijalva,D,normalized_exact,secondary_source_transcription,"https://ballotpedia.org/Arizona's_7th_Congressional_District_election,_2026"
+AZ-08,Abraham Hamadeh,Abraham Hamadeh,R,normalized_exact,secondary_source_transcription,"https://ballotpedia.org/Arizona's_8th_Congressional_District_election,_2026"
+AZ-09,Paul Gosar,Paul Gosar,R,normalized_exact,secondary_source_transcription,"https://ballotpedia.org/Arizona's_9th_Congressional_District_election,_2026"
+CA-01,Mike McGuire,Mike McGuire,D,normalized_exact,official_name_party_and_district_confirmed,https://elections.cdn.sos.ca.gov/statewide-elections/2026-general/cert-list-candidates.pdf
+CA-02,Jared Huffman,Jared Huffman,D,normalized_exact,official_name_party_and_district_confirmed,https://elections.cdn.sos.ca.gov/statewide-elections/2026-general/cert-list-candidates.pdf
+CA-03,Amerish Bera,Ami Bera,D,reviewed_name_variant_same_race_and_party,official_name_party_and_district_confirmed,https://elections.cdn.sos.ca.gov/statewide-elections/2026-general/cert-list-candidates.pdf
+CA-05,Tom McClintock,Tom McClintock,R,normalized_exact,official_name_party_and_district_confirmed,https://elections.cdn.sos.ca.gov/statewide-elections/2026-general/cert-list-candidates.pdf
+CA-08,John Garamendi,John Garamendi,D,normalized_exact,official_name_party_and_district_confirmed,https://elections.cdn.sos.ca.gov/statewide-elections/2026-general/cert-list-candidates.pdf
+CA-09,Josh Harder,Josh Harder,D,normalized_exact,official_name_party_and_district_confirmed,https://elections.cdn.sos.ca.gov/statewide-elections/2026-general/cert-list-candidates.pdf
+CA-10,Mark DeSaulnier,Mark DeSaulnier,D,normalized_exact,official_name_party_and_district_confirmed,https://elections.cdn.sos.ca.gov/statewide-elections/2026-general/cert-list-candidates.pdf
+CA-13,Adam Gray,Adam Gray,D,normalized_exact,official_name_party_and_district_confirmed,https://elections.cdn.sos.ca.gov/statewide-elections/2026-general/cert-list-candidates.pdf
+CA-15,Kevin Mullin,Kevin Mullin,D,normalized_exact,official_name_party_and_district_confirmed,https://elections.cdn.sos.ca.gov/statewide-elections/2026-general/cert-list-candidates.pdf
+CA-16,Sam Liccardo,Sam Liccardo,D,normalized_exact,official_name_party_and_district_confirmed,https://elections.cdn.sos.ca.gov/statewide-elections/2026-general/cert-list-candidates.pdf
+CA-17,Rohit Khanna,Ro Khanna,D,reviewed_name_variant_same_race_and_party,official_name_party_and_district_confirmed,https://elections.cdn.sos.ca.gov/statewide-elections/2026-general/cert-list-candidates.pdf
+CA-18,Zoe Lofgren,Zoe Lofgren,D,normalized_exact,official_name_party_and_district_confirmed,https://elections.cdn.sos.ca.gov/statewide-elections/2026-general/cert-list-candidates.pdf
+CA-19,Jimmy Panetta,Jimmy Panetta,D,normalized_exact,official_name_party_and_district_confirmed,https://elections.cdn.sos.ca.gov/statewide-elections/2026-general/cert-list-candidates.pdf
+CA-20,Vince Fong,Vince Fong,R,normalized_exact,official_name_party_and_district_confirmed,https://elections.cdn.sos.ca.gov/statewide-elections/2026-general/cert-list-candidates.pdf
+CA-21,Jim Costa,Jim Costa,D,normalized_exact,official_name_party_and_district_confirmed,https://elections.cdn.sos.ca.gov/statewide-elections/2026-general/cert-list-candidates.pdf
+CA-22,David Valadao,David G. Valadao,R,reviewed_name_variant_same_race_and_party,official_name_party_and_district_confirmed,https://elections.cdn.sos.ca.gov/statewide-elections/2026-general/cert-list-candidates.pdf
+CA-23,Jay Obernolte,Jay Obernolte,R,normalized_exact,official_name_party_and_district_confirmed,https://elections.cdn.sos.ca.gov/statewide-elections/2026-general/cert-list-candidates.pdf
+CA-24,Salud Carbajal,Salud Carbajal,D,normalized_exact,official_name_party_and_district_confirmed,https://elections.cdn.sos.ca.gov/statewide-elections/2026-general/cert-list-candidates.pdf
+CA-25,Raul Ruiz,Raul Ruiz,D,normalized_exact,official_name_party_and_district_confirmed,https://elections.cdn.sos.ca.gov/statewide-elections/2026-general/cert-list-candidates.pdf
+CA-26,Jacqui Irwin,Jacqui Irwin,D,normalized_exact,official_name_party_and_district_confirmed,https://elections.cdn.sos.ca.gov/statewide-elections/2026-general/cert-list-candidates.pdf
+CA-27,George Whitesides,George Whitesides,D,normalized_exact,official_name_party_and_district_confirmed,https://elections.cdn.sos.ca.gov/statewide-elections/2026-general/cert-list-candidates.pdf
+CA-28,Judy Chu,Judy Chu,D,normalized_exact,official_name_party_and_district_confirmed,https://elections.cdn.sos.ca.gov/statewide-elections/2026-general/cert-list-candidates.pdf
+CA-30,Laura Friedman,Laura Friedman,D,normalized_exact,official_name_party_and_district_confirmed,https://elections.cdn.sos.ca.gov/statewide-elections/2026-general/cert-list-candidates.pdf
+CA-31,Gilbert Cisneros,Gil Cisneros,D,reviewed_name_variant_same_race_and_party,official_name_party_and_district_confirmed,https://elections.cdn.sos.ca.gov/statewide-elections/2026-general/cert-list-candidates.pdf
+CA-32,Brad Sherman,Brad Sherman,D,normalized_exact,official_name_party_and_district_confirmed,https://elections.cdn.sos.ca.gov/statewide-elections/2026-general/cert-list-candidates.pdf
+CA-33,Pete Aguilar,Pete Aguilar,D,normalized_exact,official_name_party_and_district_confirmed,https://elections.cdn.sos.ca.gov/statewide-elections/2026-general/cert-list-candidates.pdf
+CA-35,Norma Torres,Norma J. Torres,D,reviewed_name_variant_same_race_and_party,official_name_party_and_district_confirmed,https://elections.cdn.sos.ca.gov/statewide-elections/2026-general/cert-list-candidates.pdf
+CA-36,Ted Lieu,Ted W. Lieu,D,reviewed_name_variant_same_race_and_party,official_name_party_and_district_confirmed,https://elections.cdn.sos.ca.gov/statewide-elections/2026-general/cert-list-candidates.pdf
+CA-38,Hilda Solis,Hilda Solis,D,normalized_exact,official_name_party_and_district_confirmed,https://elections.cdn.sos.ca.gov/statewide-elections/2026-general/cert-list-candidates.pdf
+CA-39,Mark Takano,Mark Takano,D,normalized_exact,official_name_party_and_district_confirmed,https://elections.cdn.sos.ca.gov/statewide-elections/2026-general/cert-list-candidates.pdf
+CA-41,Linda Sanchez,Linda Sánchez,D,normalized_exact,official_name_party_and_district_confirmed,https://elections.cdn.sos.ca.gov/statewide-elections/2026-general/cert-list-candidates.pdf
+CA-42,Robert Garcia,Robert Garcia,D,normalized_exact,official_name_party_and_district_confirmed,https://elections.cdn.sos.ca.gov/statewide-elections/2026-general/cert-list-candidates.pdf
+CA-43,Maxine Waters,Maxine Waters,D,normalized_exact,official_name_party_and_district_confirmed,https://elections.cdn.sos.ca.gov/statewide-elections/2026-general/cert-list-candidates.pdf
+CA-44,Nanette Barragan,Nanette Diaz Barragan,D,reviewed_name_variant_same_race_and_party,official_name_party_and_district_confirmed,https://elections.cdn.sos.ca.gov/statewide-elections/2026-general/cert-list-candidates.pdf
+CA-45,Derek Tran,Derek Tran,D,normalized_exact,official_name_party_and_district_confirmed,https://elections.cdn.sos.ca.gov/statewide-elections/2026-general/cert-list-candidates.pdf
+CA-46,Lou Correa,Lou Correa,D,normalized_exact,official_name_party_and_district_confirmed,https://elections.cdn.sos.ca.gov/statewide-elections/2026-general/cert-list-candidates.pdf
+CA-47,Dave Min,Dave Min,D,normalized_exact,official_name_party_and_district_confirmed,https://elections.cdn.sos.ca.gov/statewide-elections/2026-general/cert-list-candidates.pdf
+CA-48,Marni von Wilpert,Marni von Wilpert,D,normalized_exact,official_name_party_and_district_confirmed,https://elections.cdn.sos.ca.gov/statewide-elections/2026-general/cert-list-candidates.pdf
+CA-49,Mike Levin,Mike Levin,D,normalized_exact,official_name_party_and_district_confirmed,https://elections.cdn.sos.ca.gov/statewide-elections/2026-general/cert-list-candidates.pdf
+CA-50,Scott Peters,Scott Peters,D,normalized_exact,official_name_party_and_district_confirmed,https://elections.cdn.sos.ca.gov/statewide-elections/2026-general/cert-list-candidates.pdf
+CA-51,Sara Jacobs,Sara Jacobs,D,normalized_exact,official_name_party_and_district_confirmed,https://elections.cdn.sos.ca.gov/statewide-elections/2026-general/cert-list-candidates.pdf
+CA-52,Juan Vargas,Juan Vargas,D,normalized_exact,official_name_party_and_district_confirmed,https://elections.cdn.sos.ca.gov/statewide-elections/2026-general/cert-list-candidates.pdf
+CO-01,Melat Kiros,Melat Kiros,D,normalized_exact,official_name_party_and_district_confirmed,https://www.coloradosos.gov/pubs/elections/vote/generalCandidates.html
+CO-02,Joe Neguse,Joe Neguse,D,normalized_exact,official_name_party_and_district_confirmed,https://www.coloradosos.gov/pubs/elections/vote/generalCandidates.html
+CO-03,Jeff Hurd,Jeff Hurd,R,normalized_exact,official_name_party_and_district_confirmed,https://www.coloradosos.gov/pubs/elections/vote/generalCandidates.html
+CO-04,Lauren Boebert,Lauren Boebert,R,normalized_exact,official_name_party_and_district_confirmed,https://www.coloradosos.gov/pubs/elections/vote/generalCandidates.html
+CO-05,Jeff Crank,Jeff Crank,R,normalized_exact,official_name_party_and_district_confirmed,https://www.coloradosos.gov/pubs/elections/vote/generalCandidates.html
+CO-06,Jason Crow,Jason Crow,D,normalized_exact,official_name_party_and_district_confirmed,https://www.coloradosos.gov/pubs/elections/vote/generalCandidates.html
+CO-07,Brittany Pettersen,Brittany Pettersen,D,normalized_exact,official_name_party_and_district_confirmed,https://www.coloradosos.gov/pubs/elections/vote/generalCandidates.html
+CO-08,Gabe Evans,Gabe Evans,R,normalized_exact,official_name_party_and_district_confirmed,https://www.coloradosos.gov/pubs/elections/vote/generalCandidates.html
+CT-01,Luke Bronin,Luke Bronin,D,normalized_exact,official_document_name_match_only,https://portal.ct.gov/-/media/sots/electionservices/town_ballots/2026/nov-2026/bloomfield_sample.pdf
+CT-02,Joe Courtney,Joe Courtney,D,normalized_exact,official_document_name_match_only,https://portal.ct.gov/-/media/sots/electionservices/town_ballots/2026/nov-2026/canterbury_sample.pdf
+CT-03,Rosa DeLauro,Rosa L. DeLauro,D,reviewed_name_variant_same_race_and_party,official_document_name_match_only,https://portal.ct.gov/-/media/sots/electionservices/town_ballots/2026/nov-2026/north-branford_sample.pdf
+CT-04,Jim Himes,Jim Himes,D,normalized_exact,official_document_name_match_only,https://portal.ct.gov/-/media/sots/electionservices/town_ballots/2026/nov-2026/greenwich_sample.pdf
+CT-05,Jahana Hayes,Jahana Hayes,D,normalized_exact,official_document_name_match_only,https://portal.ct.gov/-/media/sots/electionservices/town_ballots/2026/nov-2026/burlington_sample.pdf
+DE-AL,Sarah McBride,Sarah McBride,D,normalized_exact,official_document_name_match_only,https://elections.delaware.gov/candidates/candidatelist/genl_fcddt_2026.xlsx
+FL-01,Jimmy Patronis,Jimmy Patronis,R,normalized_exact,official_source_linked_transcription_unconfirmed,https://dos.elections.myflorida.com/candidates/downloadcanlist.asp
+FL-02,Austin Rogers,Austin Rogers,R,normalized_exact,official_source_linked_transcription_unconfirmed,https://dos.elections.myflorida.com/candidates/downloadcanlist.asp
+FL-03,Kat Cammack,Kat Cammack,R,normalized_exact,official_source_linked_transcription_unconfirmed,https://dos.elections.myflorida.com/candidates/downloadcanlist.asp
+FL-04,Aaron Bean,Aaron Bean,R,normalized_exact,official_source_linked_transcription_unconfirmed,https://dos.elections.myflorida.com/candidates/downloadcanlist.asp
+FL-05,John Rutherford,John H. Rutherford,R,reviewed_name_variant_same_race_and_party,official_source_linked_transcription_unconfirmed,https://dos.elections.myflorida.com/candidates/downloadcanlist.asp
+FL-06,Randy Fine,Randy Fine,R,normalized_exact,official_source_linked_transcription_unconfirmed,https://dos.elections.myflorida.com/candidates/downloadcanlist.asp
+FL-07,Ryan Elijah,Ryan Elijah,R,normalized_exact,official_source_linked_transcription_unconfirmed,https://dos.elections.myflorida.com/candidates/downloadcanlist.asp
+FL-08,Mike Haridopolos,Mike Haridopolos,R,normalized_exact,official_source_linked_transcription_unconfirmed,https://dos.elections.myflorida.com/candidates/downloadcanlist.asp
+FL-09,Dan Green,Dan Green,R,normalized_exact,official_source_linked_transcription_unconfirmed,https://dos.elections.myflorida.com/candidates/downloadcanlist.asp
+FL-11,Joe Strada,Joe Strada,R,normalized_exact,official_source_linked_transcription_unconfirmed,https://dos.elections.myflorida.com/candidates/downloadcanlist.asp
+FL-12,Gus Bilirakis,Gus Michael Bilirakis,R,reviewed_name_variant_same_race_and_party,official_source_linked_transcription_unconfirmed,https://dos.elections.myflorida.com/candidates/downloadcanlist.asp
+FL-13,Anna Paulina Luna,Anna Paulina Luna,R,normalized_exact,official_source_linked_transcription_unconfirmed,https://dos.elections.myflorida.com/candidates/downloadcanlist.asp
+FL-14,Mike Beltran,Mike Beltran,R,normalized_exact,official_source_linked_transcription_unconfirmed,https://dos.elections.myflorida.com/candidates/downloadcanlist.asp
+FL-15,Laurel Lee,Laurel Lee,R,normalized_exact,official_source_linked_transcription_unconfirmed,https://dos.elections.myflorida.com/candidates/downloadcanlist.asp
+FL-16,Sydney Gruters,Sydney Gruters,R,normalized_exact,official_source_linked_transcription_unconfirmed,https://dos.elections.myflorida.com/candidates/downloadcanlist.asp
+FL-17,Greg Steube,Greg Steube,R,normalized_exact,official_source_linked_transcription_unconfirmed,https://dos.elections.myflorida.com/candidates/downloadcanlist.asp
+FL-18,Scott Franklin,Scott Franklin,R,normalized_exact,official_source_linked_transcription_unconfirmed,https://dos.elections.myflorida.com/candidates/downloadcanlist.asp
+FL-19,Jim Schwartzel,Jim Schwartzel,R,normalized_exact,official_source_linked_transcription_unconfirmed,https://dos.elections.myflorida.com/candidates/downloadcanlist.asp
+FL-20,Debbie Wasserman Schultz,Debbie Wasserman Schultz,D,normalized_exact,official_source_linked_transcription_unconfirmed,https://dos.elections.myflorida.com/candidates/downloadcanlist.asp
+FL-21,Brian Mast,Brian Mast,R,normalized_exact,official_source_linked_transcription_unconfirmed,https://dos.elections.myflorida.com/candidates/downloadcanlist.asp
+FL-22,Casey Askar,Casey Askar,R,normalized_exact,official_source_linked_transcription_unconfirmed,https://dos.elections.myflorida.com/candidates/downloadcanlist.asp
+FL-23,Lois Frankel,Lois Frankel,D,normalized_exact,official_source_linked_transcription_unconfirmed,https://dos.elections.myflorida.com/candidates/downloadcanlist.asp
+FL-24,Oliver Gilbert,Oliver G. Gilbert III,D,reviewed_name_variant_same_race_and_party,official_source_linked_transcription_unconfirmed,https://dos.elections.myflorida.com/candidates/downloadcanlist.asp
+FL-25,Scott Singer,Scott Singer,R,normalized_exact,official_source_linked_transcription_unconfirmed,https://dos.elections.myflorida.com/candidates/downloadcanlist.asp
+FL-26,Mario Diaz-Balart,Mario Diaz-Balart,R,normalized_exact,official_source_linked_transcription_unconfirmed,https://dos.elections.myflorida.com/candidates/downloadcanlist.asp
+FL-27,Maria Salazar,Maria Elvira Salazar,R,reviewed_name_variant_same_race_and_party,official_source_linked_transcription_unconfirmed,https://dos.elections.myflorida.com/candidates/downloadcanlist.asp
+FL-28,Carlos Gimenez,Carlos A. Gimenez,R,reviewed_name_variant_same_race_and_party,official_source_linked_transcription_unconfirmed,https://dos.elections.myflorida.com/candidates/downloadcanlist.asp
+GA-01,Jim Kingston,"James ""Jim"" Kingston",R,reviewed_name_variant_same_race_and_party,official_source_linked_transcription_unconfirmed,https://sos.ga.gov/sites/default/files/2026-09/November%202026%20Federal%20and%20State%20Candidates%202026.zip
+GA-02,Sanford Bishop,Sanford Bishop,D,normalized_exact,official_source_linked_transcription_unconfirmed,https://sos.ga.gov/sites/default/files/2026-09/November%202026%20Federal%20and%20State%20Candidates%202026.zip
+GA-03,Brian Jack,Brian Jack,R,normalized_exact,official_source_linked_transcription_unconfirmed,https://sos.ga.gov/sites/default/files/2026-09/November%202026%20Federal%20and%20State%20Candidates%202026.zip
+GA-04,Henry Johnson,"Henry ""Hank"" Johnson Jr.",D,reviewed_name_variant_same_race_and_party,official_source_linked_transcription_unconfirmed,https://sos.ga.gov/sites/default/files/2026-09/November%202026%20Federal%20and%20State%20Candidates%202026.zip
+GA-05,Nikema Williams,Nikema Williams,D,normalized_exact,official_source_linked_transcription_unconfirmed,https://sos.ga.gov/sites/default/files/2026-09/November%202026%20Federal%20and%20State%20Candidates%202026.zip
+GA-06,Lucy McBath,LUCY MCBATH,D,normalized_exact,official_source_linked_transcription_unconfirmed,https://sos.ga.gov/sites/default/files/2026-09/November%202026%20Federal%20and%20State%20Candidates%202026.zip
+GA-07,Rich McCormick,Rich McCormick,R,normalized_exact,official_source_linked_transcription_unconfirmed,https://sos.ga.gov/sites/default/files/2026-09/November%202026%20Federal%20and%20State%20Candidates%202026.zip
+GA-08,Austin Scott,Austin Scott,R,normalized_exact,official_source_linked_transcription_unconfirmed,https://sos.ga.gov/sites/default/files/2026-09/November%202026%20Federal%20and%20State%20Candidates%202026.zip
+GA-09,Andrew Clyde,Andrew Clyde,R,normalized_exact,official_source_linked_transcription_unconfirmed,https://sos.ga.gov/sites/default/files/2026-09/November%202026%20Federal%20and%20State%20Candidates%202026.zip
+GA-10,Houston Gaines,Houston Gaines,R,normalized_exact,official_source_linked_transcription_unconfirmed,https://sos.ga.gov/sites/default/files/2026-09/November%202026%20Federal%20and%20State%20Candidates%202026.zip
+GA-11,John Cowan,John Cowan,R,normalized_exact,official_source_linked_transcription_unconfirmed,https://sos.ga.gov/sites/default/files/2026-09/November%202026%20Federal%20and%20State%20Candidates%202026.zip
+GA-12,Rick Allen,Rick W. Allen,R,reviewed_name_variant_same_race_and_party,official_source_linked_transcription_unconfirmed,https://sos.ga.gov/sites/default/files/2026-09/November%202026%20Federal%20and%20State%20Candidates%202026.zip
+GA-13,Jasmine Clark,Jasmine Clark,D,normalized_exact,official_source_linked_transcription_unconfirmed,https://sos.ga.gov/sites/default/files/2026-09/November%202026%20Federal%20and%20State%20Candidates%202026.zip
+GA-14,Clay Fuller,Clay Fuller,R,normalized_exact,official_source_linked_transcription_unconfirmed,https://sos.ga.gov/sites/default/files/2026-09/November%202026%20Federal%20and%20State%20Candidates%202026.zip
+HI-01,Ed Case,Ed Case,D,normalized_exact,official_document_name_match_only,https://olvr.hawaii.gov/Controls/CandidateFiling.aspx?elid=94
+HI-02,Jill Tokuda,Jill N. Tokuda,D,reviewed_name_variant_same_race_and_party,official_source_linked_transcription_unconfirmed,https://olvr.hawaii.gov/Controls/CandidateFiling.aspx?elid=94
+IA-01,Mariannette Miller-Meeks,Mariannette Miller-Meeks,R,normalized_exact,official_source_linked_transcription_unconfirmed,https://sos.iowa.gov/sites/default/files/2026-08/2026%20General%20-%20Candidate%20List%20Database%20-%20All%20Elections_1.pdf
+IA-02,Joe Mitchell,Joe Mitchell,R,normalized_exact,official_source_linked_transcription_unconfirmed,https://sos.iowa.gov/sites/default/files/2026-08/2026%20General%20-%20Candidate%20List%20Database%20-%20All%20Elections_1.pdf
+IA-03,Zach Nunn,Zach Nunn,R,normalized_exact,official_source_linked_transcription_unconfirmed,https://sos.iowa.gov/sites/default/files/2026-08/2026%20General%20-%20Candidate%20List%20Database%20-%20All%20Elections_1.pdf
+IA-04,Chris McGowan,Chris McGowan,R,normalized_exact,official_source_linked_transcription_unconfirmed,https://sos.iowa.gov/sites/default/files/2026-08/2026%20General%20-%20Candidate%20List%20Database%20-%20All%20Elections_1.pdf
+ID-01,Russ Fulcher,Russ Fulcher,R,normalized_exact,official_source_linked_transcription_unconfirmed,https://run.voteidaho.gov/search
+ID-02,Mike Simpson,Mike Simpson,R,normalized_exact,official_source_linked_transcription_unconfirmed,https://run.voteidaho.gov/search
+IL-01,Jonathan Jackson,Jonathan L. Jackson,D,reviewed_name_variant_same_race_and_party,official_document_name_match_only,https://elections.il.gov/ElectionOperations/EOPDFViewer.aspx?ElectionID=sejIrI%2bQmww%3d&QueryType=xF443FTCAJbIL3atac%2fUjEg7Y4yklgT1&Status=P2wRQXkiFoo%3d
+IL-02,Donna Miller,Donna Miller,D,normalized_exact,official_document_name_match_only,https://elections.il.gov/ElectionOperations/EOPDFViewer.aspx?ElectionID=sejIrI%2bQmww%3d&QueryType=xF443FTCAJbIL3atac%2fUjEg7Y4yklgT1&Status=P2wRQXkiFoo%3d
+IL-03,Delia Ramirez,Delia Ramirez,D,normalized_exact,official_document_name_match_only,https://elections.il.gov/ElectionOperations/EOPDFViewer.aspx?ElectionID=sejIrI%2bQmww%3d&QueryType=xF443FTCAJbIL3atac%2fUjEg7Y4yklgT1&Status=P2wRQXkiFoo%3d
+IL-04,Patty Garcia,Patty Garcia,D,normalized_exact,official_document_name_match_only,https://elections.il.gov/ElectionOperations/EOPDFViewer.aspx?ElectionID=sejIrI%2bQmww%3d&QueryType=xF443FTCAJbIL3atac%2fUjEg7Y4yklgT1&Status=P2wRQXkiFoo%3d
+IL-05,Mike Quigley,Mike Quigley,D,normalized_exact,official_document_name_match_only,https://elections.il.gov/ElectionOperations/EOPDFViewer.aspx?ElectionID=sejIrI%2bQmww%3d&QueryType=xF443FTCAJbIL3atac%2fUjEg7Y4yklgT1&Status=P2wRQXkiFoo%3d
+IL-06,Sean Casten,Sean Casten,D,normalized_exact,official_document_name_match_only,https://elections.il.gov/ElectionOperations/EOPDFViewer.aspx?ElectionID=sejIrI%2bQmww%3d&QueryType=xF443FTCAJbIL3atac%2fUjEg7Y4yklgT1&Status=P2wRQXkiFoo%3d
+IL-07,La Shawn Ford,La Shawn K. Ford,D,reviewed_name_variant_same_race_and_party,official_document_name_match_only,https://elections.il.gov/ElectionOperations/EOPDFViewer.aspx?ElectionID=sejIrI%2bQmww%3d&QueryType=xF443FTCAJbIL3atac%2fUjEg7Y4yklgT1&Status=P2wRQXkiFoo%3d
+IL-08,Melissa Bean,Melissa L. Bean,D,reviewed_name_variant_same_race_and_party,official_document_name_match_only,https://elections.il.gov/ElectionOperations/EOPDFViewer.aspx?ElectionID=sejIrI%2bQmww%3d&QueryType=xF443FTCAJbIL3atac%2fUjEg7Y4yklgT1&Status=P2wRQXkiFoo%3d
+IL-09,Daniel Biss,Daniel Biss,D,normalized_exact,official_document_name_match_only,https://elections.il.gov/ElectionOperations/EOPDFViewer.aspx?ElectionID=sejIrI%2bQmww%3d&QueryType=xF443FTCAJbIL3atac%2fUjEg7Y4yklgT1&Status=P2wRQXkiFoo%3d
+IL-10,Brad Schneider,Brad Schneider,D,normalized_exact,official_document_name_match_only,https://elections.il.gov/ElectionOperations/EOPDFViewer.aspx?ElectionID=sejIrI%2bQmww%3d&QueryType=xF443FTCAJbIL3atac%2fUjEg7Y4yklgT1&Status=P2wRQXkiFoo%3d
+IL-11,Bill Foster,Bill Foster,D,normalized_exact,official_document_name_match_only,https://elections.il.gov/ElectionOperations/EOPDFViewer.aspx?ElectionID=sejIrI%2bQmww%3d&QueryType=xF443FTCAJbIL3atac%2fUjEg7Y4yklgT1&Status=P2wRQXkiFoo%3d
+IL-12,Mike Bost,Mike Bost,R,normalized_exact,official_document_name_match_only,https://elections.il.gov/ElectionOperations/EOPDFViewer.aspx?ElectionID=sejIrI%2bQmww%3d&QueryType=xF443FTCAJbIL3atac%2fUjEg7Y4yklgT1&Status=P2wRQXkiFoo%3d
+IL-13,Nikki Budzinski,Nikki Budzinski,D,normalized_exact,official_document_name_match_only,https://elections.il.gov/ElectionOperations/EOPDFViewer.aspx?ElectionID=sejIrI%2bQmww%3d&QueryType=xF443FTCAJbIL3atac%2fUjEg7Y4yklgT1&Status=P2wRQXkiFoo%3d
+IL-14,Lauren Underwood,Lauren Underwood,D,normalized_exact,official_document_name_match_only,https://elections.il.gov/ElectionOperations/EOPDFViewer.aspx?ElectionID=sejIrI%2bQmww%3d&QueryType=xF443FTCAJbIL3atac%2fUjEg7Y4yklgT1&Status=P2wRQXkiFoo%3d
+IL-15,Mary Miller,Mary E. Miller,R,reviewed_name_variant_same_race_and_party,official_document_name_match_only,https://elections.il.gov/ElectionOperations/EOPDFViewer.aspx?ElectionID=sejIrI%2bQmww%3d&QueryType=xF443FTCAJbIL3atac%2fUjEg7Y4yklgT1&Status=P2wRQXkiFoo%3d
+IL-16,Darin LaHood,Darin LaHood,R,normalized_exact,official_document_name_match_only,https://elections.il.gov/ElectionOperations/EOPDFViewer.aspx?ElectionID=sejIrI%2bQmww%3d&QueryType=xF443FTCAJbIL3atac%2fUjEg7Y4yklgT1&Status=P2wRQXkiFoo%3d
+IL-17,Eric Sorensen,Eric Sorensen,D,normalized_exact,official_document_name_match_only,https://elections.il.gov/ElectionOperations/EOPDFViewer.aspx?ElectionID=sejIrI%2bQmww%3d&QueryType=xF443FTCAJbIL3atac%2fUjEg7Y4yklgT1&Status=P2wRQXkiFoo%3d
+IN-01,Frank Mrvan,Frank J. Mrvan,D,reviewed_name_variant_same_race_and_party,official_name_party_and_district_confirmed,https://www.in.gov/sos/elections/files/Candidate_List_Abbreviated_20260922_011251PM.xlsx
+IN-02,Rudy Yakym,Rudy Yakym,R,normalized_exact,official_name_party_and_district_confirmed,https://www.in.gov/sos/elections/files/Candidate_List_Abbreviated_20260922_011251PM.xlsx
+IN-03,Marlin Stutzman,Marlin A. Stutzman,R,reviewed_name_variant_same_race_and_party,official_name_party_and_district_confirmed,https://www.in.gov/sos/elections/files/Candidate_List_Abbreviated_20260922_011251PM.xlsx
+IN-04,Jim Baird,Jim Baird,R,normalized_exact,official_name_party_and_district_confirmed,https://www.in.gov/sos/elections/files/Candidate_List_Abbreviated_20260922_011251PM.xlsx
+IN-05,Victoria Spartz,Victoria Spartz,R,normalized_exact,official_name_party_and_district_confirmed,https://www.in.gov/sos/elections/files/Candidate_List_Abbreviated_20260922_011251PM.xlsx
+IN-06,Jefferson Shreve,Jefferson Shreve,R,normalized_exact,official_name_party_and_district_confirmed,https://www.in.gov/sos/elections/files/Candidate_List_Abbreviated_20260922_011251PM.xlsx
+IN-07,Andre Carson,André Carson,D,normalized_exact,official_name_party_and_district_confirmed,https://www.in.gov/sos/elections/files/Candidate_List_Abbreviated_20260922_011251PM.xlsx
+IN-08,Mark Messmer,Mark Messmer,R,normalized_exact,official_name_party_and_district_confirmed,https://www.in.gov/sos/elections/files/Candidate_List_Abbreviated_20260922_011251PM.xlsx
+IN-09,Erin Houchin,Erin Houchin,R,normalized_exact,official_name_party_and_district_confirmed,https://www.in.gov/sos/elections/files/Candidate_List_Abbreviated_20260922_011251PM.xlsx
+KS-01,Tracey Mann,Tracey Mann,R,normalized_exact,official_source_linked_transcription_unconfirmed,https://sos.ks.gov/elections/elections_upcoming_candidate.aspx
+KS-02,Derek Schmidt,Derek Schmidt,R,normalized_exact,official_source_linked_transcription_unconfirmed,https://sos.ks.gov/elections/elections_upcoming_candidate.aspx
+KS-03,Sharice Davids,Sharice L. Davids,D,reviewed_name_variant_same_race_and_party,official_source_linked_transcription_unconfirmed,https://sos.ks.gov/elections/elections_upcoming_candidate.aspx
+KS-04,Ron Estes,Ron Estes,R,normalized_exact,official_source_linked_transcription_unconfirmed,https://sos.ks.gov/elections/elections_upcoming_candidate.aspx
+KY-01,James Comer,James R. Comer,R,reviewed_name_variant_same_race_and_party,official_document_name_match_only,https://web.sos.ky.gov/CandidateFilings/Default.aspx?id=4
+KY-02,Brett Guthrie,S. Brett Guthrie,R,reviewed_name_variant_same_race_and_party,official_document_name_match_only,https://web.sos.ky.gov/CandidateFilings/Default.aspx?id=4
+KY-03,Morgan McGarvey,Morgan McGarvey,D,normalized_exact,official_document_name_match_only,https://web.sos.ky.gov/CandidateFilings/Default.aspx?id=4
+KY-04,Ed Gallrein,Ed Gallrein,R,normalized_exact,official_document_name_match_only,https://web.sos.ky.gov/CandidateFilings/Default.aspx?id=4
+KY-05,Harold Rogers,Hal Rogers,R,reviewed_name_variant_same_race_and_party,official_document_name_match_only,https://web.sos.ky.gov/CandidateFilings/Default.aspx?id=4
+KY-06,Ralph Alvarado,Ralph Alvarado,R,normalized_exact,official_document_name_match_only,https://web.sos.ky.gov/CandidateFilings/Default.aspx?id=4
+MA-03,Lori Trahan,Lori Loureiro Trahan,D,reviewed_name_variant_same_race_and_party,official_source_linked_transcription_unconfirmed,https://www.sec.state.ma.us/divisions/elections/research-and-statistics/2026-state-election-candidates.htm
+MA-04,Jake Auchincloss,Jake Auchincloss,D,normalized_exact,official_source_linked_transcription_unconfirmed,https://www.sec.state.ma.us/divisions/elections/research-and-statistics/2026-state-election-candidates.htm
+MA-06,Daniel Koh,Dan Koh,D,reviewed_name_variant_same_race_and_party,official_source_linked_transcription_unconfirmed,https://www.sec.state.ma.us/divisions/elections/research-and-statistics/2026-state-election-candidates.htm
+MA-08,Stephen Lynch,Stephen F. Lynch,D,reviewed_name_variant_same_race_and_party,official_source_linked_transcription_unconfirmed,https://www.sec.state.ma.us/divisions/elections/research-and-statistics/2026-state-election-candidates.htm
+MA-09,Bill Keating,Bill Keating,D,normalized_exact,official_source_linked_transcription_unconfirmed,https://www.sec.state.ma.us/divisions/elections/research-and-statistics/2026-state-election-candidates.htm
+MD-01,Andy Harris,Andy Harris,R,normalized_exact,official_name_party_and_district_confirmed,https://elections.maryland.gov/elections/2026/general_candidates/2026_GG_representativeincongressbydistrict_candidatelist.csv
+MD-02,Johnny Olszewski,"John ""Johnny O"" Olszewski, Jr.",D,reviewed_name_variant_same_race_and_party,official_name_party_and_district_confirmed,https://elections.maryland.gov/elections/2026/general_candidates/2026_GG_representativeincongressbydistrict_candidatelist.csv
+MD-03,Sarah Elfreth,Sarah Elfreth,D,normalized_exact,official_name_party_and_district_confirmed,https://elections.maryland.gov/elections/2026/general_candidates/2026_GG_representativeincongressbydistrict_candidatelist.csv
+MD-04,Glenn Ivey,Glenn F. Ivey,D,reviewed_name_variant_same_race_and_party,official_name_party_and_district_confirmed,https://elections.maryland.gov/elections/2026/general_candidates/2026_GG_representativeincongressbydistrict_candidatelist.csv
+MD-05,Adrian Boafo,Adrian Boafo,D,normalized_exact,official_name_party_and_district_confirmed,https://elections.maryland.gov/elections/2026/general_candidates/2026_GG_representativeincongressbydistrict_candidatelist.csv
+MD-06,April McClain Delaney,April McClain Delaney,D,normalized_exact,official_name_party_and_district_confirmed,https://elections.maryland.gov/elections/2026/general_candidates/2026_GG_representativeincongressbydistrict_candidatelist.csv
+MD-07,Kweisi Mfume,Kweisi Mfume,D,normalized_exact,official_name_party_and_district_confirmed,https://elections.maryland.gov/elections/2026/general_candidates/2026_GG_representativeincongressbydistrict_candidatelist.csv
+MD-08,Jamie Raskin,Jamie Raskin,D,normalized_exact,official_name_party_and_district_confirmed,https://elections.maryland.gov/elections/2026/general_candidates/2026_GG_representativeincongressbydistrict_candidatelist.csv
+MI-01,Jack Bergman,Jack Bergman,R,normalized_exact,official_source_linked_transcription_unconfirmed,https://mi-boe.entellitrak.com/etk-mi-boe-prod/page.request.do?page=page.miboePublicReport&electionYear=2026&electionType=GEN
+MI-02,John Moolenaar,John Moolenaar,R,normalized_exact,official_source_linked_transcription_unconfirmed,https://mi-boe.entellitrak.com/etk-mi-boe-prod/page.request.do?page=page.miboePublicReport&electionYear=2026&electionType=GEN
+MI-03,Hillary Scholten,Hillary Scholten,D,normalized_exact,official_source_linked_transcription_unconfirmed,https://mi-boe.entellitrak.com/etk-mi-boe-prod/page.request.do?page=page.miboePublicReport&electionYear=2026&electionType=GEN
+MI-04,Bill Huizenga,Bill Huizenga,R,normalized_exact,official_source_linked_transcription_unconfirmed,https://mi-boe.entellitrak.com/etk-mi-boe-prod/page.request.do?page=page.miboePublicReport&electionYear=2026&electionType=GEN
+MI-05,Tim Walberg,Tim Walberg,R,normalized_exact,official_source_linked_transcription_unconfirmed,https://mi-boe.entellitrak.com/etk-mi-boe-prod/page.request.do?page=page.miboePublicReport&electionYear=2026&electionType=GEN
+MI-06,Debbie Dingell,Debbie Dingell,D,normalized_exact,official_source_linked_transcription_unconfirmed,https://mi-boe.entellitrak.com/etk-mi-boe-prod/page.request.do?page=page.miboePublicReport&electionYear=2026&electionType=GEN
+MI-07,Tom Barrett,Tom Barrett,R,normalized_exact,official_source_linked_transcription_unconfirmed,https://mi-boe.entellitrak.com/etk-mi-boe-prod/page.request.do?page=page.miboePublicReport&electionYear=2026&electionType=GEN
+MI-08,Kristen McDonald Rivet,Kristen McDonald Rivet,D,normalized_exact,official_source_linked_transcription_unconfirmed,https://mi-boe.entellitrak.com/etk-mi-boe-prod/page.request.do?page=page.miboePublicReport&electionYear=2026&electionType=GEN
+MI-09,Lisa McClain,Lisa McClain,R,normalized_exact,official_source_linked_transcription_unconfirmed,https://mi-boe.entellitrak.com/etk-mi-boe-prod/page.request.do?page=page.miboePublicReport&electionYear=2026&electionType=GEN
+MI-10,Christina Hines,Christina Bertrand Hines,D,reviewed_name_variant_same_race_and_party,official_source_linked_transcription_unconfirmed,https://mi-boe.entellitrak.com/etk-mi-boe-prod/page.request.do?page=page.miboePublicReport&electionYear=2026&electionType=GEN
+MI-11,Jeremy Moss,Jeremy Moss,D,normalized_exact,official_source_linked_transcription_unconfirmed,https://mi-boe.entellitrak.com/etk-mi-boe-prod/page.request.do?page=page.miboePublicReport&electionYear=2026&electionType=GEN
+MI-12,Rashida Tlaib,Rashida Tlaib,D,normalized_exact,official_source_linked_transcription_unconfirmed,https://mi-boe.entellitrak.com/etk-mi-boe-prod/page.request.do?page=page.miboePublicReport&electionYear=2026&electionType=GEN
+MI-13,Donavan McKinney,Donavan McKinney,D,normalized_exact,official_source_linked_transcription_unconfirmed,https://mi-boe.entellitrak.com/etk-mi-boe-prod/page.request.do?page=page.miboePublicReport&electionYear=2026&electionType=GEN
+MN-01,Brad Finstad,Brad Finstad,R,normalized_exact,official_source_linked_transcription_unconfirmed,https://candidates.sos.mn.gov/
+MN-02,Matt Little,Matt Little,D,normalized_exact,official_source_linked_transcription_unconfirmed,https://candidates.sos.mn.gov/
+MN-03,Kelly Morrison,Kelly Morrison,D,normalized_exact,official_source_linked_transcription_unconfirmed,https://candidates.sos.mn.gov/
+MN-04,Betty McCollum,Betty McCollum,D,normalized_exact,official_source_linked_transcription_unconfirmed,https://candidates.sos.mn.gov/
+MN-05,Ilhan Omar,Ilhan Omar,D,normalized_exact,official_source_linked_transcription_unconfirmed,https://candidates.sos.mn.gov/
+MN-06,Tom Emmer,Tom Emmer,R,normalized_exact,official_source_linked_transcription_unconfirmed,https://candidates.sos.mn.gov/
+MN-07,Michelle Fischbach,Michelle Fischbach,R,normalized_exact,official_source_linked_transcription_unconfirmed,https://candidates.sos.mn.gov/
+MN-08,Pete Stauber,Pete Stauber,R,normalized_exact,official_source_linked_transcription_unconfirmed,https://candidates.sos.mn.gov/
+MO-01,Wesley Bell,Wesley Bell,D,normalized_exact,official_source_linked_transcription_unconfirmed,https://www.sos.mo.gov/CMSImages/ElectionCandidates/2026GeneralElectionCertifiedCandidates.pdf
+MO-02,Ann Wagner,Ann Wagner,R,normalized_exact,official_source_linked_transcription_unconfirmed,https://www.sos.mo.gov/CMSImages/ElectionCandidates/2026GeneralElectionCertifiedCandidates.pdf
+MO-03,Bob Onder,Bob Onder,R,normalized_exact,official_source_linked_transcription_unconfirmed,https://www.sos.mo.gov/CMSImages/ElectionCandidates/2026GeneralElectionCertifiedCandidates.pdf
+MO-04,Mark Alford,Mark Alford,R,normalized_exact,official_source_linked_transcription_unconfirmed,https://www.sos.mo.gov/CMSImages/ElectionCandidates/2026GeneralElectionCertifiedCandidates.pdf
+MO-05,Emanuel Cleaver,"Emanuel Cleaver, II",D,reviewed_name_variant_same_race_and_party,official_source_linked_transcription_unconfirmed,https://www.sos.mo.gov/CMSImages/ElectionCandidates/2026GeneralElectionCertifiedCandidates.pdf
+MO-06,Chris Stigall,Chris Stigall,R,normalized_exact,official_source_linked_transcription_unconfirmed,https://www.sos.mo.gov/CMSImages/ElectionCandidates/2026GeneralElectionCertifiedCandidates.pdf
+MO-07,Eric Burlison,Eric W. Burlison,R,reviewed_name_variant_same_race_and_party,official_source_linked_transcription_unconfirmed,https://www.sos.mo.gov/CMSImages/ElectionCandidates/2026GeneralElectionCertifiedCandidates.pdf
+MO-08,Jason Smith,Jason T. Smith,R,reviewed_name_variant_same_race_and_party,official_source_linked_transcription_unconfirmed,https://www.sos.mo.gov/CMSImages/ElectionCandidates/2026GeneralElectionCertifiedCandidates.pdf
+MS-01,Trent Kelly,Trent Kelly,R,normalized_exact,official_document_name_match_only,https://www.sos.ms.gov/content/documents/Elections/2026/Sample%20Ballot%209-9-26.pdf
+MS-02,Bennie Thompson,Bennie G. Thompson,D,reviewed_name_variant_same_race_and_party,official_document_name_match_only,https://www.sos.ms.gov/content/documents/Elections/2026/Sample%20Ballot%209-9-26.pdf
+MS-03,Michael Guest,Michael Guest,R,normalized_exact,official_document_name_match_only,https://www.sos.ms.gov/content/documents/Elections/2026/Sample%20Ballot%209-9-26.pdf
+MS-04,Mike Ezell,Mike Ezell,R,normalized_exact,official_document_name_match_only,https://www.sos.ms.gov/content/documents/Elections/2026/Sample%20Ballot%209-9-26.pdf
+MT-01,Aaron Flint,Aaron Flint,R,normalized_exact,official_document_name_match_only,https://candidatefiling.mt.gov/candidatefiling/CandidateList.aspx?e=450002987
+MT-02,Troy Downing,Troy Downing,R,normalized_exact,official_document_name_match_only,https://candidatefiling.mt.gov/candidatefiling/CandidateList.aspx?e=450002987
+NC-01,Laurie Buckhout,Laurie Buckhout,R,normalized_exact,official_document_name_match_only,https://dl.ncsbe.gov/Elections/2026/Candidate%20Filing/Candidate_Listing_2026.csv
+NC-02,Deborah Ross,Deborah K. Ross,D,reviewed_name_variant_same_race_and_party,official_document_name_match_only,https://dl.ncsbe.gov/Elections/2026/Candidate%20Filing/Candidate_Listing_2026.csv
+NC-03,Greg Murphy,Greg Murphy,R,normalized_exact,official_document_name_match_only,https://dl.ncsbe.gov/Elections/2026/Candidate%20Filing/Candidate_Listing_2026.csv
+NC-04,Valerie Foushee,Valerie P. Foushee,D,reviewed_name_variant_same_race_and_party,official_document_name_match_only,https://dl.ncsbe.gov/Elections/2026/Candidate%20Filing/Candidate_Listing_2026.csv
+NC-05,Virginia Foxx,Virginia Foxx,R,normalized_exact,official_document_name_match_only,https://dl.ncsbe.gov/Elections/2026/Candidate%20Filing/Candidate_Listing_2026.csv
+NC-06,Addison McDowell,Addison McDowell,R,normalized_exact,official_document_name_match_only,https://dl.ncsbe.gov/Elections/2026/Candidate%20Filing/Candidate_Listing_2026.csv
+NC-07,David Rouzer,David Rouzer,R,normalized_exact,official_document_name_match_only,https://dl.ncsbe.gov/Elections/2026/Candidate%20Filing/Candidate_Listing_2026.csv
+NC-08,Mark Harris,Mark Harris,R,normalized_exact,official_document_name_match_only,https://dl.ncsbe.gov/Elections/2026/Candidate%20Filing/Candidate_Listing_2026.csv
+NC-09,Richard Hudson,Richard Hudson,R,normalized_exact,official_document_name_match_only,https://dl.ncsbe.gov/Elections/2026/Candidate%20Filing/Candidate_Listing_2026.csv
+NC-10,Pat Harrigan,Pat Harrigan,R,normalized_exact,official_document_name_match_only,https://dl.ncsbe.gov/Elections/2026/Candidate%20Filing/Candidate_Listing_2026.csv
+NC-11,Jennifer Balkcom,Jennifer Capps Balkcom,R,reviewed_name_variant_same_race_and_party,official_document_name_match_only,https://dl.ncsbe.gov/Elections/2026/Candidate%20Filing/Candidate_Listing_2026.csv
+NC-12,Alma Adams,Alma S. Adams,D,reviewed_name_variant_same_race_and_party,official_document_name_match_only,https://dl.ncsbe.gov/Elections/2026/Candidate%20Filing/Candidate_Listing_2026.csv
+NC-13,Brad Knott,Brad Knott,R,normalized_exact,official_document_name_match_only,https://dl.ncsbe.gov/Elections/2026/Candidate%20Filing/Candidate_Listing_2026.csv
+NC-14,Tim Moore,Tim Moore,R,normalized_exact,official_document_name_match_only,https://dl.ncsbe.gov/Elections/2026/Candidate%20Filing/Candidate_Listing_2026.csv
+ND-AL,Julie Fedorchak,Julie Fedorchak,R,normalized_exact,official_document_name_match_only,https://vip.sos.nd.gov/candidatelist.aspx?eid=348
+NE-01,Mike Flood,Mike Flood,R,normalized_exact,official_name_party_and_district_confirmed,https://sos.nebraska.gov/sites/default/files/doc/elections/2026/Final_Statewide_General_Candidate_Filing_List_9.11.26.pdf
+NE-02,Denise Powell,Denise Powell,D,normalized_exact,official_name_party_and_district_confirmed,https://sos.nebraska.gov/sites/default/files/doc/elections/2026/Final_Statewide_General_Candidate_Filing_List_9.11.26.pdf
+NE-03,Adrian Smith,Adrian Smith,R,normalized_exact,official_name_party_and_district_confirmed,https://sos.nebraska.gov/sites/default/files/doc/elections/2026/Final_Statewide_General_Candidate_Filing_List_9.11.26.pdf
+NH-01,Stefany Shaheen,Stefany Shaheen,D,normalized_exact,official_source_linked_transcription_unconfirmed,https://mm.nh.gov/files/uploads/sos/docs/2026-ge-candidate-list.pdf
+NH-02,Maggie Goodlander,Maggie Goodlander,D,normalized_exact,official_source_linked_transcription_unconfirmed,https://mm.nh.gov/files/uploads/sos/docs/2026-ge-candidate-list.pdf
+NJ-01,Donald Norcross,Donald Norcross,D,normalized_exact,official_document_name_match_only,https://www.nj.gov/state/elections/assets/pdf/election-results/2026/2026-official-general-candidates-us-house-0904.pdf
+NJ-02,Jeff Van Drew,Jeff Van Drew,R,normalized_exact,official_document_name_match_only,https://www.nj.gov/state/elections/assets/pdf/election-results/2026/2026-official-general-candidates-us-house-0904.pdf
+NJ-03,Herb Conaway,Herb Conaway,D,normalized_exact,official_document_name_match_only,https://www.nj.gov/state/elections/assets/pdf/election-results/2026/2026-official-general-candidates-us-house-0904.pdf
+NJ-04,Chris Smith,Christopher H. Smith,R,reviewed_name_variant_same_race_and_party,official_document_name_match_only,https://www.nj.gov/state/elections/assets/pdf/election-results/2026/2026-official-general-candidates-us-house-0904.pdf
+NJ-05,Josh Gottheimer,Josh Gottheimer,D,normalized_exact,official_document_name_match_only,https://www.nj.gov/state/elections/assets/pdf/election-results/2026/2026-official-general-candidates-us-house-0904.pdf
+NJ-06,Frank Pallone,Frank Pallone Jr.,D,reviewed_name_variant_same_race_and_party,official_document_name_match_only,https://www.nj.gov/state/elections/assets/pdf/election-results/2026/2026-official-general-candidates-us-house-0904.pdf
+NJ-07,Tom Kean Jr.,Thomas H. Kean Jr.,R,reviewed_name_variant_same_race_and_party,official_document_name_match_only,https://www.nj.gov/state/elections/assets/pdf/election-results/2026/2026-official-general-candidates-us-house-0904.pdf
+NJ-09,Nelida Pou,Nelida Pou,D,normalized_exact,official_document_name_match_only,https://www.nj.gov/state/elections/assets/pdf/election-results/2026/2026-official-general-candidates-us-house-0904.pdf
+NJ-10,LaMonica McIver,LaMonica R. McIver,D,reviewed_name_variant_same_race_and_party,official_document_name_match_only,https://www.nj.gov/state/elections/assets/pdf/election-results/2026/2026-official-general-candidates-us-house-0904.pdf
+NJ-11,Analilia Mejia,Analilia Mejia,D,normalized_exact,official_document_name_match_only,https://www.nj.gov/state/elections/assets/pdf/election-results/2026/2026-official-general-candidates-us-house-0904.pdf
+NJ-12,Adam Hamawy,Adam Hamawy,D,normalized_exact,official_document_name_match_only,https://www.nj.gov/state/elections/assets/pdf/election-results/2026/2026-official-general-candidates-us-house-0904.pdf
+NM-01,Melanie Stansbury,Melanie Ann Stansbury,D,reviewed_name_variant_same_race_and_party,official_source_linked_transcription_unconfirmed,https://candidateportal.servis.sos.state.nm.us/CandidateList.aspx?eid=2917&cty=99
+NM-02,Gabriel Vasquez,Gabriel Vasquez,D,normalized_exact,official_source_linked_transcription_unconfirmed,https://candidateportal.servis.sos.state.nm.us/CandidateList.aspx?eid=2917&cty=99
+NM-03,Teresa Leger Fernandez,Teresa Leger Fernandez,D,normalized_exact,official_source_linked_transcription_unconfirmed,https://candidateportal.servis.sos.state.nm.us/CandidateList.aspx?eid=2917&cty=99
+NV-01,Dina Titus,Dina Titus,D,normalized_exact,secondary_source_transcription,"https://ballotpedia.org/Nevada's_1st_Congressional_District_election,_2026"
+NV-02,David Flippo,David Flippo,R,normalized_exact,secondary_source_transcription,"https://ballotpedia.org/Nevada's_2nd_Congressional_District_election,_2026"
+NV-03,Susie Lee,Susie Lee,D,normalized_exact,secondary_source_transcription,"https://ballotpedia.org/Nevada's_3rd_Congressional_District_election,_2026"
+NV-04,Steven Horsford,Steven Horsford,D,normalized_exact,secondary_source_transcription,"https://ballotpedia.org/Nevada's_4th_Congressional_District_election,_2026"
+NY-01,Nick LaLota,Nicholas J. Lalota,R,reviewed_name_variant_same_race_and_party,official_source_linked_transcription_unconfirmed,https://elections.ny.gov/system/files/documents/2026/09/accessible-2026-general-ballot-certification-9.17.2026.pdf
+NY-02,Andrew Garbarino,Andrew R. Garbarino,R,reviewed_name_variant_same_race_and_party,official_source_linked_transcription_unconfirmed,https://elections.ny.gov/system/files/documents/2026/09/accessible-2026-general-ballot-certification-9.17.2026.pdf
+NY-03,Tom Suozzi,Thomas R. Suozzi,D,reviewed_name_variant_same_race_and_party,official_source_linked_transcription_unconfirmed,https://elections.ny.gov/system/files/documents/2026/09/accessible-2026-general-ballot-certification-9.17.2026.pdf
+NY-04,Laura Gillen,Laura A. Gillen,D,reviewed_name_variant_same_race_and_party,official_source_linked_transcription_unconfirmed,https://elections.ny.gov/system/files/documents/2026/09/accessible-2026-general-ballot-certification-9.17.2026.pdf
+NY-05,Gregory Meeks,Gregory W. Meeks,D,reviewed_name_variant_same_race_and_party,official_source_linked_transcription_unconfirmed,https://elections.ny.gov/system/files/documents/2026/09/accessible-2026-general-ballot-certification-9.17.2026.pdf
+NY-06,Grace Meng,Grace Meng,D,normalized_exact,official_source_linked_transcription_unconfirmed,https://elections.ny.gov/system/files/documents/2026/09/accessible-2026-general-ballot-certification-9.17.2026.pdf
+NY-07,Claire Valdez,Claire Valdez,D,normalized_exact,official_source_linked_transcription_unconfirmed,https://elections.ny.gov/system/files/documents/2026/09/accessible-2026-general-ballot-certification-9.17.2026.pdf
+NY-08,Hakeem Jeffries,Hakeem S. Jeffries,D,reviewed_name_variant_same_race_and_party,official_source_linked_transcription_unconfirmed,https://elections.ny.gov/system/files/documents/2026/09/accessible-2026-general-ballot-certification-9.17.2026.pdf
+NY-09,Yvette Clarke,Yvette D. Clarke,D,reviewed_name_variant_same_race_and_party,official_source_linked_transcription_unconfirmed,https://elections.ny.gov/system/files/documents/2026/09/accessible-2026-general-ballot-certification-9.17.2026.pdf
+NY-10,Brad Lander,Brad Lander,D,normalized_exact,official_source_linked_transcription_unconfirmed,https://elections.ny.gov/system/files/documents/2026/09/accessible-2026-general-ballot-certification-9.17.2026.pdf
+NY-11,Nicole Malliotakis,Nicole Malliotakis,R,normalized_exact,official_source_linked_transcription_unconfirmed,https://elections.ny.gov/system/files/documents/2026/09/accessible-2026-general-ballot-certification-9.17.2026.pdf
+NY-12,Micah Lasher,Micah C. Lasher,D,reviewed_name_variant_same_race_and_party,official_source_linked_transcription_unconfirmed,https://elections.ny.gov/system/files/documents/2026/09/accessible-2026-general-ballot-certification-9.17.2026.pdf
+NY-13,Darializa Avila Chevalier,Darializa Avila Chevalier,D,normalized_exact,official_source_linked_transcription_unconfirmed,https://elections.ny.gov/system/files/documents/2026/09/accessible-2026-general-ballot-certification-9.17.2026.pdf
+NY-14,Alexandria Ocasio-Cortez,Alexandria Ocasio-Cortez,D,normalized_exact,official_source_linked_transcription_unconfirmed,https://elections.ny.gov/system/files/documents/2026/09/accessible-2026-general-ballot-certification-9.17.2026.pdf
+NY-15,Ritchie Torres,Ritchie Torres,D,normalized_exact,official_source_linked_transcription_unconfirmed,https://elections.ny.gov/system/files/documents/2026/09/accessible-2026-general-ballot-certification-9.17.2026.pdf
+NY-16,George Latimer,George S. Latimer,D,reviewed_name_variant_same_race_and_party,official_source_linked_transcription_unconfirmed,https://elections.ny.gov/system/files/documents/2026/09/accessible-2026-general-ballot-certification-9.17.2026.pdf
+NY-17,Mike Lawler,Mike Lawler,R,normalized_exact,official_source_linked_transcription_unconfirmed,https://elections.ny.gov/system/files/documents/2026/09/accessible-2026-general-ballot-certification-9.17.2026.pdf
+NY-18,Pat Ryan,Pat Ryan,D,normalized_exact,official_source_linked_transcription_unconfirmed,https://elections.ny.gov/system/files/documents/2026/09/accessible-2026-general-ballot-certification-9.17.2026.pdf
+NY-19,Josh Riley,Josh Riley,D,normalized_exact,official_source_linked_transcription_unconfirmed,https://elections.ny.gov/system/files/documents/2026/09/accessible-2026-general-ballot-certification-9.17.2026.pdf
+NY-20,Paul Tonko,Paul D. Tonko,D,reviewed_name_variant_same_race_and_party,official_source_linked_transcription_unconfirmed,https://elections.ny.gov/system/files/documents/2026/09/accessible-2026-general-ballot-certification-9.17.2026.pdf
+NY-21,Anthony Constantino,Anthony Constantino,R,normalized_exact,official_source_linked_transcription_unconfirmed,https://elections.ny.gov/system/files/documents/2026/09/accessible-2026-general-ballot-certification-9.17.2026.pdf
+NY-22,John Mannion,John W. Mannion,D,reviewed_name_variant_same_race_and_party,official_source_linked_transcription_unconfirmed,https://elections.ny.gov/system/files/documents/2026/09/accessible-2026-general-ballot-certification-9.17.2026.pdf
+NY-23,Nick Langworthy,Nicholas A. Langworthy,R,reviewed_name_variant_same_race_and_party,official_source_linked_transcription_unconfirmed,https://elections.ny.gov/system/files/documents/2026/09/accessible-2026-general-ballot-certification-9.17.2026.pdf
+NY-24,Claudia Tenney,Claudia Tenney,R,normalized_exact,official_source_linked_transcription_unconfirmed,https://elections.ny.gov/system/files/documents/2026/09/accessible-2026-general-ballot-certification-9.17.2026.pdf
+NY-25,Joe Morelle,Joseph D. Morelle,D,reviewed_name_variant_same_race_and_party,official_source_linked_transcription_unconfirmed,https://elections.ny.gov/system/files/documents/2026/09/accessible-2026-general-ballot-certification-9.17.2026.pdf
+NY-26,Timothy Kennedy,Timothy M. Kennedy,D,reviewed_name_variant_same_race_and_party,official_source_linked_transcription_unconfirmed,https://elections.ny.gov/system/files/documents/2026/09/accessible-2026-general-ballot-certification-9.17.2026.pdf
+OH-01,Greg Landsman,Greg Landsman,D,normalized_exact,official_document_name_match_only,https://votehamiltoncountyohio.gov/wp-content/uploads/2026/09/G26-46-Day-Notice-9-15-26.pdf
+OH-02,David Taylor,David Taylor,R,normalized_exact,secondary_source_transcription,"https://ballotpedia.org/Ohio's_2nd_Congressional_District_election,_2026"
+OH-03,Joyce Beatty,Joyce Beatty,D,normalized_exact,official_document_name_match_only,https://vote.franklincountyohio.gov/getmedia/e0a4ca45-6893-45c1-8190-87696f8804b4/2026-General-Candidate-List-5
+OH-04,Jim Jordan,Jim Jordan,R,normalized_exact,official_document_name_match_only,https://www.unioncountyohio.gov/media/Agencies/Board%20of%20Elections/45%20Day%20notice%20with%20candidates.pdf
+OH-05,Bob Latta,Bob Latta,R,normalized_exact,official_document_name_match_only,https://www.voteloraincountyohio.gov/_files/ugd/2568d0_ef2bd7f0adc244659d5357bfa1879d07.pdf
+OH-06,Michael Rulli,Michael A. Rulli,R,reviewed_name_variant_same_race_and_party,official_document_name_match_only,https://www.starkcountyohio.gov/Board%20of%20Elections/Candidates%20List%20General.pdf
+OH-07,Max Miller,Max Miller,R,normalized_exact,official_document_name_match_only,https://boe.cuyahogacounty.gov/docs/default-source/boe/candidates-page/candidate-list.pdf
+OH-08,Warren Davidson,Warren Davidson,R,normalized_exact,official_document_name_match_only,https://cms2.revize.com/revize/repository/butlercountyboe/2026/November/PetitionActivityReport.pdf
+OH-09,Marcy Kaptur,Marcy Kaptur,D,normalized_exact,official_document_name_match_only,https://boe.woodcountyohio.gov/DocumentCenter/View/1006/Candidate-List
+OH-10,Mike Turner,Mike Turner,R,normalized_exact,official_document_name_match_only,https://cms2.revize.com/revize/repository/butlercountyboe/2026/November/PetitionActivityReport.pdf
+OH-11,Shontel Brown,Shontel M. Brown,D,reviewed_name_variant_same_race_and_party,official_document_name_match_only,https://boe.cuyahogacounty.gov/docs/default-source/boe/candidates-page/candidate-list.pdf
+OH-12,Troy Balderson,Troy Balderson,R,normalized_exact,secondary_source_transcription,"https://ballotpedia.org/Ohio's_12th_Congressional_District_election,_2026"
+OH-13,Emilia Sykes,Emilia Sykes,D,normalized_exact,official_document_name_match_only,https://www.starkcountyohio.gov/Board%20of%20Elections/Candidates%20List%20General.pdf
+OH-14,David Joyce,David P. Joyce,R,reviewed_name_variant_same_race_and_party,official_document_name_match_only,https://wpassets.lakecountyohio.gov/wp-content/uploads/sites/12/2026/09/15104255/2026-Candidate-Filings.pdf
+OH-15,Mike Carey,Mike Carey,R,normalized_exact,official_document_name_match_only,https://vote.franklincountyohio.gov/getmedia/e0a4ca45-6893-45c1-8190-87696f8804b4/2026-General-Candidate-List-5
+OK-01,Mark Tedford,Mark Tedford,R,normalized_exact,official_document_name_match_only,https://hosting.okelections.us/electionlist.html
+OK-02,Josh Brecheen,Josh Brecheen,R,normalized_exact,official_document_name_match_only,https://hosting.okelections.us/electionlist.html
+OK-03,Frank Lucas,Frank D. Lucas,R,reviewed_name_variant_same_race_and_party,official_document_name_match_only,https://hosting.okelections.us/electionlist.html
+OK-04,Tom Cole,Tom Cole,R,normalized_exact,official_document_name_match_only,https://hosting.okelections.us/electionlist.html
+OK-05,Stephanie Bice,Stephanie Bice,R,normalized_exact,official_document_name_match_only,https://hosting.okelections.us/electionlist.html
+OR-01,Suzanne Bonamici,Suzanne Bonamici,D,normalized_exact,official_source_linked_transcription_unconfirmed,https://secure.sos.state.or.us/orestar/CFSearchPage.do
+OR-02,Cliff Bentz,Cliff Bentz,R,normalized_exact,official_source_linked_transcription_unconfirmed,https://secure.sos.state.or.us/orestar/CFSearchPage.do
+OR-03,Maxine Dexter,Maxine E Dexter,D,reviewed_name_variant_same_race_and_party,official_source_linked_transcription_unconfirmed,https://secure.sos.state.or.us/orestar/CFSearchPage.do
+OR-04,Val Hoyle,Val Hoyle,D,normalized_exact,official_source_linked_transcription_unconfirmed,https://secure.sos.state.or.us/orestar/CFSearchPage.do
+OR-05,Janelle Bynum,Janelle S Bynum,D,reviewed_name_variant_same_race_and_party,official_source_linked_transcription_unconfirmed,https://secure.sos.state.or.us/orestar/CFSearchPage.do
+OR-06,Andrea Salinas,Andrea Salinas,D,normalized_exact,official_source_linked_transcription_unconfirmed,https://secure.sos.state.or.us/orestar/CFSearchPage.do
+PA-01,Brian Fitzpatrick,Brian K. Fitzpatrick,R,reviewed_name_variant_same_race_and_party,official_source_linked_transcription_unconfirmed,https://www.pavoterservices.pa.gov/ElectionInfo/ElectionInfo.aspx
+PA-02,Brendan Boyle,Brendan F. Boyle,D,reviewed_name_variant_same_race_and_party,official_source_linked_transcription_unconfirmed,https://www.pavoterservices.pa.gov/ElectionInfo/ElectionInfo.aspx
+PA-04,Madeleine Dean,Madeleine Dean Cunnane,D,explicit_reviewed_alias,official_source_linked_transcription_unconfirmed,https://www.pavoterservices.pa.gov/ElectionInfo/ElectionInfo.aspx
+PA-05,Mary Gay Scanlon,Mary Gay Scanlon,D,normalized_exact,official_source_linked_transcription_unconfirmed,https://www.pavoterservices.pa.gov/ElectionInfo/ElectionInfo.aspx
+PA-06,Chrissy Houlahan,Chrissy Houlahan,D,normalized_exact,official_source_linked_transcription_unconfirmed,https://www.pavoterservices.pa.gov/ElectionInfo/ElectionInfo.aspx
+PA-07,Ryan Mackenzie,Ryan Mackenzie,R,normalized_exact,official_source_linked_transcription_unconfirmed,https://www.pavoterservices.pa.gov/ElectionInfo/ElectionInfo.aspx
+PA-08,Rob Bresnahan,"Robert P. Bresnahan, Jr.",R,reviewed_name_variant_same_race_and_party,official_source_linked_transcription_unconfirmed,https://www.pavoterservices.pa.gov/ElectionInfo/ElectionInfo.aspx
+PA-09,Dan Meuser,Daniel Meuser,R,reviewed_name_variant_same_race_and_party,official_source_linked_transcription_unconfirmed,https://www.pavoterservices.pa.gov/ElectionInfo/ElectionInfo.aspx
+PA-10,Scott Perry,Scott Perry,R,normalized_exact,official_source_linked_transcription_unconfirmed,https://www.pavoterservices.pa.gov/ElectionInfo/ElectionInfo.aspx
+PA-11,Lloyd Smucker,Lloyd Smucker,R,normalized_exact,official_source_linked_transcription_unconfirmed,https://www.pavoterservices.pa.gov/ElectionInfo/ElectionInfo.aspx
+PA-12,Summer Lee,Summer L. Lee,D,reviewed_name_variant_same_race_and_party,official_source_linked_transcription_unconfirmed,https://www.pavoterservices.pa.gov/ElectionInfo/ElectionInfo.aspx
+PA-13,John Joyce,John Joyce,R,normalized_exact,official_source_linked_transcription_unconfirmed,https://www.pavoterservices.pa.gov/ElectionInfo/ElectionInfo.aspx
+PA-14,Guy Reschenthaler,Guy Reschenthaler,R,normalized_exact,official_source_linked_transcription_unconfirmed,https://www.pavoterservices.pa.gov/ElectionInfo/ElectionInfo.aspx
+PA-15,Glenn Thompson,Glenn Thompson,R,normalized_exact,official_source_linked_transcription_unconfirmed,https://www.pavoterservices.pa.gov/ElectionInfo/ElectionInfo.aspx
+PA-16,Mike Kelly,George Joseph Kelly Jr.,R,explicit_reviewed_alias,official_source_linked_transcription_unconfirmed,https://www.pavoterservices.pa.gov/ElectionInfo/ElectionInfo.aspx
+PA-17,Chris Deluzio,Christopher Raphael Deluzio,D,reviewed_name_variant_same_race_and_party,official_source_linked_transcription_unconfirmed,https://www.pavoterservices.pa.gov/ElectionInfo/ElectionInfo.aspx
+RI-01,Gabriel Amo,Gabe Amo,D,reviewed_name_variant_same_race_and_party,secondary_source_transcription,"https://ballotpedia.org/Rhode_Island's_1st_Congressional_District_election,_2026"
+RI-02,Seth Magaziner,Seth Magaziner,D,normalized_exact,secondary_source_transcription,"https://ballotpedia.org/Rhode_Island's_2nd_Congressional_District_election,_2026"
+SC-01,Jenny Costa Honeycutt,Jenny Costa Honeycutt,R,normalized_exact,official_source_linked_transcription_unconfirmed,https://vrems.scvotes.sc.gov/Candidate/CandidateSearch?electionId=22596
+SC-02,Joe Wilson,Joe Wilson,R,normalized_exact,official_source_linked_transcription_unconfirmed,https://vrems.scvotes.sc.gov/Candidate/CandidateSearch?electionId=22596
+SC-03,Sheri Biggs,Sheri Biggs,R,normalized_exact,official_source_linked_transcription_unconfirmed,https://vrems.scvotes.sc.gov/Candidate/CandidateSearch?electionId=22596
+SC-04,William Timmons,William Timmons,R,normalized_exact,official_source_linked_transcription_unconfirmed,https://vrems.scvotes.sc.gov/Candidate/CandidateSearch?electionId=22596
+SC-05,Wes Climer,Wes Climer,R,normalized_exact,official_source_linked_transcription_unconfirmed,https://vrems.scvotes.sc.gov/Candidate/CandidateSearch?electionId=22596
+SC-06,Jim Clyburn,James E Jim Clyburn,D,reviewed_name_variant_same_race_and_party,official_source_linked_transcription_unconfirmed,https://vrems.scvotes.sc.gov/Candidate/CandidateSearch?electionId=22596
+SC-07,Russell Fry,Russell Fry,R,normalized_exact,official_source_linked_transcription_unconfirmed,https://vrems.scvotes.sc.gov/Candidate/CandidateSearch?electionId=22596
+SD-AL,Marty Jackley,Marty Jackley,R,normalized_exact,official_document_name_match_only,https://vip.sdsos.gov/candidatelist.aspx?eid=774
+TN-01,Diana Harshbarger,Diana Harshbarger,R,normalized_exact,official_source_linked_transcription_unconfirmed,https://sos.tn.gov/elections/2026-candidate-lists
+TN-02,Tim Burchett,Tim Burchett,R,normalized_exact,official_source_linked_transcription_unconfirmed,https://sos.tn.gov/elections/2026-candidate-lists
+TN-03,Chuck Fleischmann,Chuck Fleischmann,R,normalized_exact,official_source_linked_transcription_unconfirmed,https://sos.tn.gov/elections/2026-candidate-lists
+TN-04,Scott DesJarlais,Scott DesJarlais,R,normalized_exact,official_source_linked_transcription_unconfirmed,https://sos.tn.gov/elections/2026-candidate-lists
+TN-05,Charlie Hatcher,Charlie Hatcher,R,normalized_exact,official_source_linked_transcription_unconfirmed,https://sos.tn.gov/elections/2026-candidate-lists
+TN-06,Johnny Garrett,Johnny Garrett,R,normalized_exact,official_source_linked_transcription_unconfirmed,https://sos.tn.gov/elections/2026-candidate-lists
+TN-07,Matt Van Epps,Matt Van Epps,R,normalized_exact,official_source_linked_transcription_unconfirmed,https://sos.tn.gov/elections/2026-candidate-lists
+TN-08,David Kustoff,David Kustoff,R,normalized_exact,official_source_linked_transcription_unconfirmed,https://sos.tn.gov/elections/2026-candidate-lists
+TN-09,Brent Taylor,Brent Taylor,R,normalized_exact,official_source_linked_transcription_unconfirmed,https://sos.tn.gov/elections/2026-candidate-lists
+TX-01,Nathaniel Moran,Nathaniel Moran,R,normalized_exact,official_name_party_and_district_confirmed,https://www.sos.texas.gov/elections/forms/2026-ballot-cert.pdf
+TX-02,Steve Toth,Steve Toth,R,normalized_exact,official_name_party_and_district_confirmed,https://www.sos.texas.gov/elections/forms/2026-ballot-cert.pdf
+TX-03,Keith Self,Keith Self,R,normalized_exact,official_name_party_and_district_confirmed,https://www.sos.texas.gov/elections/forms/2026-ballot-cert.pdf
+TX-04,Pat Fallon,Pat Fallon,R,normalized_exact,official_name_party_and_district_confirmed,https://www.sos.texas.gov/elections/forms/2026-ballot-cert.pdf
+TX-05,Lance Gooden,Lance Gooden,R,normalized_exact,official_name_party_and_district_confirmed,https://www.sos.texas.gov/elections/forms/2026-ballot-cert.pdf
+TX-06,Jake Ellzey,Jake Ellzey,R,normalized_exact,official_name_party_and_district_confirmed,https://www.sos.texas.gov/elections/forms/2026-ballot-cert.pdf
+TX-07,Lizzie Fletcher,Lizzie Pannill Fletcher,D,reviewed_name_variant_same_race_and_party,official_name_party_and_district_confirmed,https://www.sos.texas.gov/elections/forms/2026-ballot-cert.pdf
+TX-08,Jessica Steinmann,Jessica Hart Steinmann,R,reviewed_name_variant_same_race_and_party,official_name_party_and_district_confirmed,https://www.sos.texas.gov/elections/forms/2026-ballot-cert.pdf
+TX-09,Alex Mealer,Alex Mealer,R,normalized_exact,official_name_party_and_district_confirmed,https://www.sos.texas.gov/elections/forms/2026-ballot-cert.pdf
+TX-10,Chris Gober,Chris Gober,R,normalized_exact,official_name_party_and_district_confirmed,https://www.sos.texas.gov/elections/forms/2026-ballot-cert.pdf
+TX-11,August Pfluger,August Pfluger,R,normalized_exact,official_name_party_and_district_confirmed,https://www.sos.texas.gov/elections/forms/2026-ballot-cert.pdf
+TX-12,Craig Goldman,Craig A. Goldman,R,reviewed_name_variant_same_race_and_party,official_source_linked_transcription_unconfirmed,https://www.sos.texas.gov/elections/forms/2026-ballot-cert.pdf
+TX-13,Ronny Jackson,Ronny Jackson,R,normalized_exact,official_name_party_and_district_confirmed,https://www.sos.texas.gov/elections/forms/2026-ballot-cert.pdf
+TX-14,Randy Weber,"Randy K. Weber, Sr.",R,reviewed_name_variant_same_race_and_party,official_source_linked_transcription_unconfirmed,https://www.sos.texas.gov/elections/forms/2026-ballot-cert.pdf
+TX-15,Monica De La Cruz,Monica De La Cruz,R,normalized_exact,official_name_party_and_district_confirmed,https://www.sos.texas.gov/elections/forms/2026-ballot-cert.pdf
+TX-16,Veronica Escobar,Veronica Escobar,D,normalized_exact,official_name_party_and_district_confirmed,https://www.sos.texas.gov/elections/forms/2026-ballot-cert.pdf
+TX-17,Pete Sessions,Pete Sessions,R,normalized_exact,official_name_party_and_district_confirmed,https://www.sos.texas.gov/elections/forms/2026-ballot-cert.pdf
+TX-18,Christian Menefee,Christian Dashaun Menefee,D,reviewed_name_variant_same_race_and_party,official_document_name_match_only,https://www.sos.texas.gov/elections/forms/2026-ballot-cert.pdf
+TX-19,Tom Sell,Tom Sell,R,normalized_exact,official_name_party_and_district_confirmed,https://www.sos.texas.gov/elections/forms/2026-ballot-cert.pdf
+TX-20,Joaquin Castro,Joaquin Castro,D,normalized_exact,official_name_party_and_district_confirmed,https://www.sos.texas.gov/elections/forms/2026-ballot-cert.pdf
+TX-21,Mark Teixeira,Mark Teixeira,R,normalized_exact,official_name_party_and_district_confirmed,https://www.sos.texas.gov/elections/forms/2026-ballot-cert.pdf
+TX-22,Trever Nehls,Trever Nehls,R,normalized_exact,official_name_party_and_district_confirmed,https://www.sos.texas.gov/elections/forms/2026-ballot-cert.pdf
+TX-23,Brandon Herrera,Brandon Herrera,R,normalized_exact,official_name_party_and_district_confirmed,https://www.sos.texas.gov/elections/forms/2026-ballot-cert.pdf
+TX-24,Beth Van Duyne,Beth Van Duyne,R,normalized_exact,official_document_name_match_only,https://www.sos.texas.gov/elections/forms/2026-ballot-cert.pdf
+TX-25,Roger Williams,Roger Williams,R,normalized_exact,official_name_party_and_district_confirmed,https://www.sos.texas.gov/elections/forms/2026-ballot-cert.pdf
+TX-26,Brandon Gill,Brandon Gill,R,normalized_exact,official_name_party_and_district_confirmed,https://www.sos.texas.gov/elections/forms/2026-ballot-cert.pdf
+TX-27,Michael Cloud,Michael Cloud,R,normalized_exact,official_name_party_and_district_confirmed,https://www.sos.texas.gov/elections/forms/2026-ballot-cert.pdf
+TX-28,Henry Cuellar,Henry Cuellar,D,normalized_exact,official_name_party_and_district_confirmed,https://www.sos.texas.gov/elections/forms/2026-ballot-cert.pdf
+TX-29,Sylvia Garcia,Sylvia R. Garcia,D,reviewed_name_variant_same_race_and_party,official_source_linked_transcription_unconfirmed,https://www.sos.texas.gov/elections/forms/2026-ballot-cert.pdf
+TX-30,Frederick Haynes III,Frederick D. Haynes III,D,reviewed_name_variant_same_race_and_party,official_document_name_match_only,https://www.sos.texas.gov/elections/forms/2026-ballot-cert.pdf
+TX-31,John Carter,John R. Carter,R,reviewed_name_variant_same_race_and_party,official_source_linked_transcription_unconfirmed,https://www.sos.texas.gov/elections/forms/2026-ballot-cert.pdf
+TX-32,Jace Yarbrough,Jace Yarbrough,R,normalized_exact,official_name_party_and_district_confirmed,https://www.sos.texas.gov/elections/forms/2026-ballot-cert.pdf
+TX-33,Colin Allred,Colin Allred,D,normalized_exact,official_document_name_match_only,https://www.sos.texas.gov/elections/forms/2026-ballot-cert.pdf
+TX-34,Eric Flores,Eric Flores,R,normalized_exact,official_name_party_and_district_confirmed,https://www.sos.texas.gov/elections/forms/2026-ballot-cert.pdf
+TX-35,Carlos De La Cruz,Carlos de La Cruz,R,normalized_exact,official_name_party_and_district_confirmed,https://www.sos.texas.gov/elections/forms/2026-ballot-cert.pdf
+TX-36,Brian Babin,Brian Babin,R,normalized_exact,official_name_party_and_district_confirmed,https://www.sos.texas.gov/elections/forms/2026-ballot-cert.pdf
+TX-37,Greg Casar,Greg Casar,D,normalized_exact,official_name_party_and_district_confirmed,https://www.sos.texas.gov/elections/forms/2026-ballot-cert.pdf
+TX-38,Jon Bonck,Jon Bonck,R,normalized_exact,official_name_party_and_district_confirmed,https://www.sos.texas.gov/elections/forms/2026-ballot-cert.pdf
+UT-01,Ben McAdams,Ben McAdams,D,normalized_exact,official_document_name_match_only,https://vote.utah.gov/wp-content/uploads/2026/09/2026-General-Election-Certification-Amended-09-21.pdf
+UT-02,Blake Moore,Blake D. Moore,R,reviewed_name_variant_same_race_and_party,official_document_name_match_only,https://vote.utah.gov/wp-content/uploads/2026/09/2026-General-Election-Certification-Amended-09-21.pdf
+UT-03,Celeste Maloy,Celeste Maloy,R,normalized_exact,official_document_name_match_only,https://vote.utah.gov/wp-content/uploads/2026/09/2026-General-Election-Certification-Amended-09-21.pdf
+UT-04,Mike Kennedy,Mike Kennedy,R,normalized_exact,official_document_name_match_only,https://vote.utah.gov/wp-content/uploads/2026/09/2026-General-Election-Certification-Amended-09-21.pdf
+VA-01,Rob Wittman,"Robert J. ""Rob"" Wittman",R,reviewed_name_variant_same_race_and_party,official_source_linked_transcription_unconfirmed,https://www.elections.virginia.gov/media/castyourballot/candidatelist/2026/2026-November-Federal-Offices-Candidate-List-(rev-9-14-2026).xlsx
+VA-02,Jen Kiggans,Jen A. Kiggans,R,reviewed_name_variant_same_race_and_party,official_source_linked_transcription_unconfirmed,https://www.elections.virginia.gov/media/castyourballot/candidatelist/2026/2026-November-Federal-Offices-Candidate-List-(rev-9-14-2026).xlsx
+VA-03,Bobby Scott,"Robert C. ""Bobby"" Scott",D,reviewed_name_variant_same_race_and_party,official_source_linked_transcription_unconfirmed,https://www.elections.virginia.gov/media/castyourballot/candidatelist/2026/2026-November-Federal-Offices-Candidate-List-(rev-9-14-2026).xlsx
+VA-04,Jennifer McClellan,Jennifer L. McClellan,D,reviewed_name_variant_same_race_and_party,official_source_linked_transcription_unconfirmed,https://www.elections.virginia.gov/media/castyourballot/candidatelist/2026/2026-November-Federal-Offices-Candidate-List-(rev-9-14-2026).xlsx
+VA-05,John McGuire,John J. McGuire III,R,reviewed_name_variant_same_race_and_party,official_source_linked_transcription_unconfirmed,https://www.elections.virginia.gov/media/castyourballot/candidatelist/2026/2026-November-Federal-Offices-Candidate-List-(rev-9-14-2026).xlsx
+VA-06,Ben Cline,Ben L. Cline,R,reviewed_name_variant_same_race_and_party,official_source_linked_transcription_unconfirmed,https://www.elections.virginia.gov/media/castyourballot/candidatelist/2026/2026-November-Federal-Offices-Candidate-List-(rev-9-14-2026).xlsx
+VA-07,Eugene Vindman,Eugene S. Vindman,D,reviewed_name_variant_same_race_and_party,official_source_linked_transcription_unconfirmed,https://www.elections.virginia.gov/media/castyourballot/candidatelist/2026/2026-November-Federal-Offices-Candidate-List-(rev-9-14-2026).xlsx
+VA-08,Don Beyer,"Donald S. Beyer, Jr.",D,reviewed_name_variant_same_race_and_party,official_source_linked_transcription_unconfirmed,https://www.elections.virginia.gov/media/castyourballot/candidatelist/2026/2026-November-Federal-Offices-Candidate-List-(rev-9-14-2026).xlsx
+VA-09,Morgan Griffith,H. Morgan Griffith,R,reviewed_name_variant_same_race_and_party,official_source_linked_transcription_unconfirmed,https://www.elections.virginia.gov/media/castyourballot/candidatelist/2026/2026-November-Federal-Offices-Candidate-List-(rev-9-14-2026).xlsx
+VA-10,Suhas Subramanyam,Suhas Subramanyam,D,normalized_exact,official_source_linked_transcription_unconfirmed,https://www.elections.virginia.gov/media/castyourballot/candidatelist/2026/2026-November-Federal-Offices-Candidate-List-(rev-9-14-2026).xlsx
+VA-11,James Walkinshaw,James R. Walkinshaw,D,reviewed_name_variant_same_race_and_party,official_source_linked_transcription_unconfirmed,https://www.elections.virginia.gov/media/castyourballot/candidatelist/2026/2026-November-Federal-Offices-Candidate-List-(rev-9-14-2026).xlsx
+VT-AL,Rebecca Balint,Becca Balint,D,reviewed_name_variant_same_race_and_party,official_document_name_match_only,https://outside.vermont.gov/dept/sos/Elections_Division/election_info_resources/candidates/2026_general_election_qualified_candidates.xlsx
+WA-01,Suzan DelBene,Suzan DelBene,D,normalized_exact,official_name_party_and_district_confirmed,https://voter.votewa.gov/CandidateList.aspx?e=899
+WA-02,Rick Larsen,Rick Larsen,D,normalized_exact,official_name_party_and_district_confirmed,https://voter.votewa.gov/CandidateList.aspx?e=899
+WA-03,Marie Gluesenkamp Perez,Marie Gluesenkamp Perez,D,normalized_exact,official_name_party_and_district_confirmed,https://voter.votewa.gov/CandidateList.aspx?e=899
+WA-04,Amanda McKinney,Amanda McKinney,R,normalized_exact,official_name_party_and_district_confirmed,https://voter.votewa.gov/CandidateList.aspx?e=899
+WA-05,Michael Baumgartner,Michael Baumgartner,R,normalized_exact,official_name_party_and_district_confirmed,https://voter.votewa.gov/CandidateList.aspx?e=899
+WA-06,Emily Randall,Emily Randall,D,normalized_exact,official_name_party_and_district_confirmed,https://voter.votewa.gov/CandidateList.aspx?e=899
+WA-07,Pramila Jayapal,Pramila Jayapal,D,normalized_exact,official_name_party_and_district_confirmed,https://voter.votewa.gov/CandidateList.aspx?e=899
+WA-08,Kim Schrier,Kim Schrier,D,normalized_exact,official_name_party_and_district_confirmed,https://voter.votewa.gov/CandidateList.aspx?e=899
+WA-09,Adam Smith,Adam Smith,D,normalized_exact,official_name_party_and_district_confirmed,https://voter.votewa.gov/CandidateList.aspx?e=899
+WA-10,Marilyn Strickland,Marilyn Strickland,D,normalized_exact,official_name_party_and_district_confirmed,https://voter.votewa.gov/CandidateList.aspx?e=899
+WI-01,Bryan Steil,Bryan Steil,R,normalized_exact,official_source_linked_transcription_unconfirmed,https://elections.wi.gov/media/40951/download
+WI-03,Derrick Van Orden,Derrick Van Orden,R,normalized_exact,official_source_linked_transcription_unconfirmed,https://elections.wi.gov/media/40951/download
+WI-04,Gwen Moore,Gwen Moore,D,normalized_exact,official_source_linked_transcription_unconfirmed,https://elections.wi.gov/media/40951/download
+WI-05,Scott Fitzgerald,Scott Fitzgerald,R,normalized_exact,official_source_linked_transcription_unconfirmed,https://elections.wi.gov/media/40951/download
+WI-06,Glenn Grothman,Glenn Grothman,R,normalized_exact,official_source_linked_transcription_unconfirmed,https://elections.wi.gov/media/40951/download
+WI-07,Michael Alfonso,Michael Alfonso,R,normalized_exact,official_source_linked_transcription_unconfirmed,https://elections.wi.gov/media/40951/download
+WI-08,Tony Wied,Tony Wied,R,normalized_exact,official_source_linked_transcription_unconfirmed,https://elections.wi.gov/media/40951/download
+WV-01,Carol Miller,Carol Miller,R,normalized_exact,official_source_linked_transcription_unconfirmed,https://candidates.wvsos.gov/
+WV-02,Riley Moore,Riley Moore,R,normalized_exact,official_source_linked_transcription_unconfirmed,https://candidates.wvsos.gov/
+WY-AL,Chuck Gray,Chuck Gray,R,normalized_exact,official_document_name_match_only,https://sos.wyo.gov/Elections/Docs/2026/2026_WY_General_Election_Candidates.pdf
